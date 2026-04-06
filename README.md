@@ -125,11 +125,11 @@ This project identifies the key factors influencing demand and translates them i
 
 - Improve efficiency during low-demand periods  
   - Scale operations during cold or rainy conditions  
-  - Use downtime for maintenance, redistribution, and system optimization  
+  - Use downtime for maintenance, redistribution, and system optimization
 
 ## Business Impact
-
 These strategies enable more efficient resource allocation, improved bike availability during peak demand, and reduced operational waste during low-demand periods—ultimately supporting higher utilization and better system performance.
+
 ---
 
 ## Tech Stack
