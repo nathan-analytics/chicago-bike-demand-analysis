@@ -109,14 +109,28 @@ This project identifies the key factors influencing demand and translates them i
 
 ## Project Structure
 ```
-chicago-bike-demand-intelligence/
+chicago-bike-demand/
 │
-├── 01_data_raw/ # Original datasets (Divvy, weather, events)
-├── 02_notebooks/ # Data cleaning and transformation (Python)
-├── 03_sql/ # Table creation and SQL scripts
-├── 04_data_final/ # Cleaned and aggregated datasets
-├── 05_powerbi/ # Power BI dashboard file (.pbix)
-├── 06_screenshots/ # Dashboard screenshots for README
+├── 01_data_raw/
+│   └── README.md
+├── 02_notebooks/
+│   ├── 01_weather_demand_analysis.ipynb
+│   ├── 02_clean_divvy_data.ipynb
+│   ├── 03_build_city_hourly_demand.ipynb
+│   ├── 04_get_weather_data.ipynb
+│   └── 05_join_city_demand_weather.ipynb
+├── 03_sql/
+│   ├── schema.sql
+│   └── analysis_queries.sql
+├── 04_data_final/
+│   ├── fact_demand_weather_events.csv
+│   └── dim_events.csv
+├── 05_powerbi/
+│   └── chicago_bike_demand_dashboard.pbix
+├── 06_screenshots/
+│   ├── executive_overview.png
+│   ├── weather_impact.png
+│   └── event_impact.png
 └── README.md
 ```
 
