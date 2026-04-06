@@ -108,11 +108,28 @@ This project identifies the key factors influencing demand and translates them i
 
 ## Business Recommendations
 
-- Increase bike availability during warm weather  
-- Adjust staffing and operations based on weather forecasts  
-- Use events strategically during favorable conditions  
-- Prepare for reduced demand during rain  
+- Align bike availability with peak demand patterns  
+  - Increase bike supply during warm weather and peak commuting hours (~5 PM), where demand consistently spikes  
 
+- Use weather as a primary planning signal  
+  - Adjust staffing, maintenance, and bike distribution based on forecasts  
+  - Prepare for significant demand drops during rain (~32% decrease) and reallocate resources accordingly  
+
+- Focus on high-impact event conditions  
+  - Prioritize events that occur during favorable weather, where demand amplification is strongest  
+  - Avoid overinvesting in events that do not independently drive demand  
+
+- Optimize operations around commuter behavior  
+  - Ensure high bike availability and station readiness during peak commute times  
+  - Target high-traffic stations to maximize utilization  
+
+- Improve efficiency during low-demand periods  
+  - Scale operations during cold or rainy conditions  
+  - Use downtime for maintenance, redistribution, and system optimization  
+
+## Business Impact
+
+These strategies enable more efficient resource allocation, improved bike availability during peak demand, and reduced operational waste during low-demand periods—ultimately supporting higher utilization and better system performance.
 ---
 
 ## Tech Stack
