@@ -2,6 +2,7 @@
 
 End-to-end analytics project focused on understanding how external factors influence bike-sharing demand and how those insights can support real business decisions.
 
+This project simulates a real-world analytics workflow from raw data ingestion to business-facing dashboard delivery.
 ---
 
 ## Project Summary
