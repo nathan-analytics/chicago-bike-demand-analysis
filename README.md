@@ -55,15 +55,30 @@ This project identifies the key factors influencing demand and translates them i
 
 ## Methodology
 
-- Cleaned and validated raw trip data using Python  
-- Engineered key features including:
-  - Hour, day, and weekend indicators  
-  - Trip duration  
-  - Demand aggregation metrics  
-- Aggregated data to an hourly demand level  
-- Integrated weather and event datasets  
-- Structured final dataset in PostgreSQL  
-- Built an interactive Power BI dashboard  
+1. Data Cleaning & Preparation  
+- Cleaned and validated raw Divvy trip data using Python (Pandas)  
+- Removed invalid records, handled missing values, and standardized data types  
+
+2. Feature Engineering  
+- Engineered time-based features including hour, day of week, and weekend indicators  
+- Calculated trip duration and created demand-driving flags such as rush hour  
+- Derived weather-based features including temperature buckets and rain indicators  
+
+3. Demand Aggregation  
+- Transformed trip-level data into an hourly demand dataset  
+- Calculated key metrics including total trips, member vs casual usage, and average trip duration  
+
+4. Data Enrichment  
+- Integrated external weather data (temperature, precipitation, wind speed)  
+- Merged curated event data to evaluate real-world demand drivers  
+
+5. Data Modeling & SQL  
+- Structured a final fact table in PostgreSQL (`fact_demand_weather_events`)  
+- Used SQL to validate aggregations, ensure data integrity, and support analysis  
+
+6. Visualization & Business Insights  
+- Built an interactive Power BI dashboard to analyze demand patterns  
+- Designed visuals to clearly communicate how weather, time, and events impact bike usage  
 
 ---
 
