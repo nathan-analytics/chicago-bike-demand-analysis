@@ -1,0 +1,2208 @@
+date,hour,trip_count,member_trip_count,casual_trip_count,avg_trip_duration_min,is_weekend,rush_hour,temperature,precipitation_mm,wind_speed,is_raining,temp_bucket,bad_weather,event_name,event_type,is_event_day
+2025-03-01,0,122,69,53,8.53,True,False,1.9,0.0,18.3,False,cold,True,,,False
+2025-03-01,1,85,52,33,8.42,True,False,0.8,0.0,17.2,False,cold,True,,,False
+2025-03-01,2,46,26,20,7.6,True,False,-0.2,0.0,22.1,False,cold,True,,,False
+2025-03-01,3,31,17,14,6.5,True,False,-1.6,0.0,19.8,False,cold,True,,,False
+2025-03-01,4,20,14,6,8.61,True,False,-2.1,0.0,20.2,False,cold,True,,,False
+2025-03-01,5,18,12,6,8.19,True,False,-3.2,0.0,20.8,False,cold,True,,,False
+2025-03-01,6,58,48,10,7.38,True,False,-3.7,0.0,20.7,False,cold,True,,,False
+2025-03-01,7,99,83,16,7.78,True,True,-4.2,0.0,20.6,False,cold,True,,,False
+2025-03-01,8,189,161,28,8.69,True,True,-4.1,0.0,22.9,False,cold,True,,,False
+2025-03-01,9,260,211,49,8.6,True,True,-4.4,0.0,23.4,False,cold,True,,,False
+2025-03-01,10,332,270,62,8.67,True,False,-4.7,0.0,22.1,False,cold,True,,,False
+2025-03-01,11,380,306,74,9.38,True,False,-4.4,0.0,19.4,False,cold,True,,,False
+2025-03-01,12,370,300,70,10.65,True,False,-4.3,0.0,17.2,False,cold,True,,,False
+2025-03-01,13,418,335,83,9.75,True,False,-3.7,0.0,16.3,False,cold,True,,,False
+2025-03-01,14,378,279,99,11.38,True,False,-3.4,0.0,14.3,False,cold,True,,,False
+2025-03-01,15,360,265,95,10.56,True,False,-3.1,0.0,12.8,False,cold,True,,,False
+2025-03-01,16,340,242,98,11.25,True,True,-3.0,0.0,10.9,False,cold,True,,,False
+2025-03-01,17,344,259,85,10.87,True,True,-3.0,0.0,8.9,False,cold,True,,,False
+2025-03-01,18,306,218,88,10.9,True,True,-3.3,0.0,6.3,False,cold,True,,,False
+2025-03-01,19,223,162,61,9.43,True,False,-4.2,0.0,4.4,False,cold,True,,,False
+2025-03-01,20,155,119,36,8.82,True,False,-4.4,0.0,3.4,False,cold,True,,,False
+2025-03-01,21,167,101,66,10.34,True,False,-4.6,0.0,3.6,False,cold,True,,,False
+2025-03-01,22,154,104,50,8.97,True,False,-4.6,0.0,4.1,False,cold,True,,,False
+2025-03-01,23,122,82,40,8.35,True,False,-4.7,0.0,4.2,False,cold,True,,,False
+2025-03-02,0,101,62,39,8.21,True,False,-5.0,0.0,4.1,False,cold,True,,,False
+2025-03-02,1,67,38,29,8.31,True,False,-5.4,0.0,4.0,False,cold,True,,,False
+2025-03-02,2,53,37,16,8.04,True,False,-5.7,0.0,4.3,False,cold,True,,,False
+2025-03-02,3,44,22,22,8.58,True,False,-5.8,0.0,5.2,False,cold,True,,,False
+2025-03-02,4,18,14,4,10.27,True,False,-6.1,0.0,5.2,False,cold,True,,,False
+2025-03-02,5,20,15,5,8.34,True,False,-6.6,0.0,4.5,False,cold,True,,,False
+2025-03-02,6,47,39,8,6.43,True,False,-6.9,0.0,4.5,False,cold,True,,,False
+2025-03-02,7,77,63,14,9.72,True,True,-7.1,0.0,4.5,False,cold,True,,,False
+2025-03-02,8,148,116,32,9.5,True,True,-7.8,0.0,5.2,False,cold,True,,,False
+2025-03-02,9,236,193,43,8.22,True,True,-6.2,0.0,4.2,False,cold,True,,,False
+2025-03-02,10,290,212,78,11.03,True,False,-3.9,0.0,2.9,False,cold,True,,,False
+2025-03-02,11,404,304,100,12.82,True,False,-2.2,0.0,2.9,False,cold,True,,,False
+2025-03-02,12,386,291,95,11.46,True,False,-1.1,0.0,3.1,False,cold,True,,,False
+2025-03-02,13,376,268,108,11.91,True,False,-0.3,0.0,1.9,False,cold,True,,,False
+2025-03-02,14,401,289,112,13.78,True,False,0.3,0.0,1.6,False,cold,True,,,False
+2025-03-02,15,413,304,109,13.22,True,False,0.6,0.0,2.1,False,cold,True,,,False
+2025-03-02,16,415,311,104,11.53,True,True,0.6,0.0,4.2,False,cold,True,,,False
+2025-03-02,17,363,282,81,11.5,True,True,0.2,0.0,5.8,False,cold,True,,,False
+2025-03-02,18,273,218,55,10.24,True,True,-0.2,0.0,6.1,False,cold,True,,,False
+2025-03-02,19,184,146,38,8.58,True,False,-1.2,0.0,6.2,False,cold,True,,,False
+2025-03-02,20,161,123,38,9.4,True,False,-1.3,0.0,6.4,False,cold,True,,,False
+2025-03-02,21,118,85,33,9.77,True,False,-1.6,0.0,5.8,False,cold,True,,,False
+2025-03-02,22,91,68,23,10.38,True,False,-1.9,0.0,4.4,False,cold,True,,,False
+2025-03-02,23,59,47,12,9.8,True,False,-1.7,0.0,6.4,False,cold,True,,,False
+2025-03-03,0,36,20,16,7.9,False,False,-1.5,0.0,7.0,False,cold,True,,,False
+2025-03-03,1,20,12,8,7.99,False,False,-0.9,0.0,7.4,False,cold,True,,,False
+2025-03-03,2,11,8,3,15.86,False,False,-0.8,0.0,7.2,False,cold,True,,,False
+2025-03-03,3,7,3,4,5.14,False,False,-0.6,0.0,7.8,False,cold,True,,,False
+2025-03-03,4,17,13,4,13.75,False,False,-0.6,0.0,9.1,False,cold,True,,,False
+2025-03-03,5,96,78,18,6.84,False,False,-0.7,0.0,9.0,False,cold,True,,,False
+2025-03-03,6,290,262,28,7.83,False,False,-0.6,0.0,10.6,False,cold,True,,,False
+2025-03-03,7,523,461,62,8.99,False,True,-0.6,0.0,11.7,False,cold,True,,,False
+2025-03-03,8,618,543,75,9.63,False,True,-0.2,0.0,13.2,False,cold,True,,,False
+2025-03-03,9,356,301,55,8.57,False,True,0.8,0.0,13.2,False,cold,True,,,False
+2025-03-03,10,248,217,31,8.87,False,False,1.9,0.0,13.2,False,cold,True,,,False
+2025-03-03,11,254,197,57,8.74,False,False,3.2,0.0,13.2,False,cold,True,,,False
+2025-03-03,12,375,320,55,9.32,False,False,4.7,0.0,14.6,False,cold,True,,,False
+2025-03-03,13,332,270,62,9.28,False,False,5.5,0.0,17.6,False,mild,False,,,False
+2025-03-03,14,347,259,88,9.93,False,False,6.0,0.0,16.9,False,mild,False,,,False
+2025-03-03,15,557,446,111,9.46,False,False,6.6,0.0,16.9,False,mild,False,,,False
+2025-03-03,16,871,728,143,10.28,False,True,7.5,0.0,18.3,False,mild,False,,,False
+2025-03-03,17,990,829,161,10.82,False,True,7.7,0.0,17.2,False,mild,False,,,False
+2025-03-03,18,653,540,113,9.77,False,True,7.2,0.0,17.2,False,mild,False,,,False
+2025-03-03,19,423,350,73,8.58,False,False,6.2,0.0,16.4,False,mild,False,,,False
+2025-03-03,20,277,219,58,9.65,False,False,4.8,0.0,16.6,False,cold,True,,,False
+2025-03-03,21,204,151,53,9.82,False,False,4.8,0.0,17.8,False,cold,True,,,False
+2025-03-03,22,135,98,37,9.33,False,False,5.1,0.0,18.6,False,mild,False,,,False
+2025-03-03,23,80,53,27,10.85,False,False,5.6,0.0,19.3,False,mild,False,,,False
+2025-03-04,0,34,24,10,11.17,False,False,5.9,0.0,19.7,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-04,1,22,14,8,6.51,False,False,6.2,0.0,19.4,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-04,2,12,5,7,6.72,False,False,6.7,0.0,19.3,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-04,3,8,5,3,6.25,False,False,7.1,0.0,20.3,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-04,4,27,15,12,8.65,False,False,6.9,0.0,19.8,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-04,5,73,62,11,8.19,False,False,6.6,0.0,17.8,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-04,6,95,84,11,7.89,False,False,6.3,0.0,16.8,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-04,7,343,302,41,8.88,False,True,6.1,0.0,16.9,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-04,8,602,523,79,9.76,False,True,6.4,2.4,18.8,True,mild,True,Chicago Bulls Home Game,sports,True
+2025-03-04,9,388,322,66,8.67,False,True,6.1,1.2,19.9,True,mild,True,Chicago Bulls Home Game,sports,True
+2025-03-04,10,260,202,58,10.22,False,False,7.2,0.1,22.0,True,mild,True,Chicago Bulls Home Game,sports,True
+2025-03-04,11,341,277,64,9.55,False,False,7.8,0.0,21.3,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-04,12,190,165,25,7.48,False,False,9.4,0.0,22.1,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-04,13,127,109,18,7.07,False,False,10.6,0.0,24.7,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-04,14,116,93,23,7.71,False,False,10.7,0.0,21.1,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-04,15,315,256,59,9.81,False,False,11.1,1.7,19.1,True,mild,True,Chicago Bulls Home Game,sports,True
+2025-03-04,16,668,570,98,9.7,False,True,10.6,0.6,11.4,True,mild,True,Chicago Bulls Home Game,sports,True
+2025-03-04,17,648,550,98,10.51,False,True,11.1,0.0,8.4,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-04,18,458,396,62,9.54,False,True,8.8,0.0,12.4,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-04,19,215,177,38,8.72,False,False,7.5,0.3,10.9,True,mild,True,Chicago Bulls Home Game,sports,True
+2025-03-04,20,96,70,26,7.69,False,False,5.4,0.8,16.9,True,mild,True,Chicago Bulls Home Game,sports,True
+2025-03-04,21,106,84,22,8.75,False,False,5.2,1.7,16.9,True,mild,True,Chicago Bulls Home Game,sports,True
+2025-03-04,22,103,76,27,9.02,False,False,5.8,1.4,19.1,True,mild,True,Chicago Bulls Home Game,sports,True
+2025-03-04,23,67,46,21,7.71,False,False,5.9,0.7,19.6,True,mild,True,Chicago Bulls Home Game,sports,True
+2025-03-05,0,40,21,19,8.99,False,False,6.8,0.2,18.7,True,mild,True,,,False
+2025-03-05,1,11,8,3,8.32,False,False,7.2,0.9,18.2,True,mild,True,,,False
+2025-03-05,2,5,2,3,6.34,False,False,7.2,0.5,18.3,True,mild,True,,,False
+2025-03-05,3,6,3,3,6.67,False,False,7.8,0.6,16.6,True,mild,True,,,False
+2025-03-05,4,24,11,13,20.39,False,False,7.8,1.5,11.5,True,mild,True,,,False
+2025-03-05,5,92,77,15,7.51,False,False,8.6,0.3,13.9,True,mild,True,,,False
+2025-03-05,6,258,220,38,8.87,False,False,8.6,0.1,18.5,True,mild,True,,,False
+2025-03-05,7,618,541,77,9.26,False,True,8.1,0.1,19.2,True,mild,True,,,False
+2025-03-05,8,809,700,109,9.79,False,True,8.1,3.9,16.8,True,mild,True,,,False
+2025-03-05,9,441,352,89,9.03,False,True,8.8,0.1,16.0,True,mild,True,,,False
+2025-03-05,10,295,231,64,9.19,False,False,10.0,0.0,16.3,False,mild,False,,,False
+2025-03-05,11,378,306,72,10.0,False,False,10.4,0.1,16.5,True,mild,True,,,False
+2025-03-05,12,426,340,86,8.73,False,False,10.8,0.1,19.4,True,mild,True,,,False
+2025-03-05,13,256,219,37,8.27,False,False,10.6,0.1,18.8,True,mild,True,,,False
+2025-03-05,14,216,182,34,8.53,False,False,10.0,0.0,18.1,False,mild,False,,,False
+2025-03-05,15,318,255,63,8.74,False,False,8.1,0.8,17.9,True,mild,True,,,False
+2025-03-05,16,329,275,54,8.58,False,True,4.6,0.3,23.1,True,cold,True,,,False
+2025-03-05,17,464,408,56,10.72,False,True,2.3,0.7,21.8,True,cold,True,,,False
+2025-03-05,18,371,318,53,8.73,False,True,1.4,0.6,25.1,True,cold,True,,,False
+2025-03-05,19,232,198,34,7.86,False,False,0.3,0.3,25.9,True,cold,True,,,False
+2025-03-05,20,183,145,38,9.26,False,False,0.2,0.3,22.7,True,cold,True,,,False
+2025-03-05,21,160,138,22,7.87,False,False,-0.4,0.1,24.3,True,cold,True,,,False
+2025-03-05,22,110,78,32,7.3,False,False,-0.9,0.0,23.1,False,cold,True,,,False
+2025-03-05,23,57,39,18,8.8,False,False,-1.1,0.0,23.3,False,cold,True,,,False
+2025-03-06,0,41,32,9,6.18,False,False,-1.4,0.0,24.1,False,cold,True,,,False
+2025-03-06,1,15,12,3,6.49,False,False,-1.4,0.0,24.3,False,cold,True,,,False
+2025-03-06,2,15,10,5,8.36,False,False,-1.7,0.0,24.9,False,cold,True,,,False
+2025-03-06,3,16,9,7,12.36,False,False,-1.9,0.0,25.5,False,cold,True,,,False
+2025-03-06,4,16,10,6,8.67,False,False,-2.0,0.0,24.2,False,cold,True,,,False
+2025-03-06,5,78,65,13,8.67,False,False,-2.2,0.0,22.2,False,cold,True,,,False
+2025-03-06,6,279,238,41,8.33,False,False,-2.3,0.0,21.8,False,cold,True,,,False
+2025-03-06,7,577,516,61,9.03,False,True,-2.5,0.0,20.1,False,cold,True,,,False
+2025-03-06,8,745,646,99,9.35,False,True,-2.4,0.0,17.6,False,cold,True,,,False
+2025-03-06,9,441,359,82,8.6,False,True,-2.1,0.0,18.3,False,cold,True,,,False
+2025-03-06,10,301,239,62,8.92,False,False,-1.3,0.0,16.1,False,cold,True,,,False
+2025-03-06,11,335,257,78,10.92,False,False,-0.1,0.0,14.4,False,cold,True,,,False
+2025-03-06,12,410,334,76,8.83,False,False,1.3,0.0,14.6,False,cold,True,,,False
+2025-03-06,13,378,293,85,10.15,False,False,2.5,0.0,15.7,False,cold,True,,,False
+2025-03-06,14,392,294,98,10.69,False,False,3.2,0.0,16.1,False,cold,True,,,False
+2025-03-06,15,626,484,142,10.73,False,False,3.8,0.0,14.6,False,cold,True,,,False
+2025-03-06,16,904,738,166,10.92,False,True,4.2,0.0,12.9,False,cold,True,,,False
+2025-03-06,17,998,847,151,10.73,False,True,4.2,0.0,11.7,False,cold,True,,,False
+2025-03-06,18,700,579,121,9.62,False,True,3.6,0.0,9.5,False,cold,True,,,False
+2025-03-06,19,413,331,82,9.03,False,False,2.0,0.0,5.8,False,cold,True,,,False
+2025-03-06,20,262,203,59,9.62,False,False,1.4,0.0,7.8,False,cold,True,,,False
+2025-03-06,21,237,178,59,9.59,False,False,1.0,0.0,9.5,False,cold,True,,,False
+2025-03-06,22,159,106,53,9.72,False,False,0.6,0.0,10.8,False,cold,True,,,False
+2025-03-06,23,103,62,41,13.16,False,False,0.6,0.0,11.3,False,cold,True,,,False
+2025-03-07,0,65,47,18,6.92,False,False,0.2,0.0,9.9,False,cold,True,,,False
+2025-03-07,1,32,22,10,8.8,False,False,0.6,0.0,10.1,False,cold,True,,,False
+2025-03-07,2,24,9,15,8.41,False,False,0.6,0.0,10.0,False,cold,True,,,False
+2025-03-07,3,20,14,6,10.02,False,False,0.8,0.0,9.2,False,cold,True,,,False
+2025-03-07,4,15,8,7,10.83,False,False,0.8,0.0,9.7,False,cold,True,,,False
+2025-03-07,5,89,73,16,7.54,False,False,0.9,0.0,8.8,False,cold,True,,,False
+2025-03-07,6,244,222,22,8.11,False,False,0.7,0.0,9.2,False,cold,True,,,False
+2025-03-07,7,474,413,61,9.11,False,True,0.6,0.0,9.7,False,cold,True,,,False
+2025-03-07,8,549,471,78,8.57,False,True,0.6,0.1,7.3,True,cold,True,,,False
+2025-03-07,9,359,293,66,8.8,False,True,1.0,0.2,5.9,True,cold,True,,,False
+2025-03-07,10,253,207,46,7.64,False,False,1.4,0.2,4.9,True,cold,True,,,False
+2025-03-07,11,234,200,34,9.6,False,False,1.8,0.2,4.9,True,cold,True,,,False
+2025-03-07,12,198,160,38,8.38,False,False,1.9,0.4,4.1,True,cold,True,,,False
+2025-03-07,13,179,146,33,8.51,False,False,1.5,0.5,5.6,True,cold,True,,,False
+2025-03-07,14,196,162,34,8.84,False,False,1.4,0.7,6.4,True,cold,True,,,False
+2025-03-07,15,261,208,53,9.6,False,False,1.4,0.5,8.9,True,cold,True,,,False
+2025-03-07,16,415,348,67,10.25,False,True,1.1,0.4,9.7,True,cold,True,,,False
+2025-03-07,17,427,361,66,9.6,False,True,0.8,0.4,9.1,True,cold,True,,,False
+2025-03-07,18,363,300,63,10.36,False,True,0.4,0.2,7.3,True,cold,True,,,False
+2025-03-07,19,246,174,72,10.16,False,False,0.3,0.1,4.2,True,cold,True,,,False
+2025-03-07,20,195,149,46,9.51,False,False,0.5,0.0,2.0,False,cold,True,,,False
+2025-03-07,21,150,117,33,8.19,False,False,0.4,0.0,5.9,False,cold,True,,,False
+2025-03-07,22,121,77,44,10.72,False,False,0.3,0.0,8.7,False,cold,True,,,False
+2025-03-07,23,115,81,34,9.32,False,False,0.3,0.0,9.2,False,cold,True,,,False
+2025-03-08,0,103,59,44,9.53,True,False,0.3,0.0,9.5,False,cold,True,,,False
+2025-03-08,1,88,43,45,11.12,True,False,-0.1,0.0,11.6,False,cold,True,,,False
+2025-03-08,2,60,36,24,10.47,True,False,-0.1,0.0,14.6,False,cold,True,,,False
+2025-03-08,3,36,21,15,8.81,True,False,-0.3,0.0,15.3,False,cold,True,,,False
+2025-03-08,4,22,11,11,7.8,True,False,-0.8,0.0,11.9,False,cold,True,,,False
+2025-03-08,5,20,15,5,9.25,True,False,-1.1,0.0,10.1,False,cold,True,,,False
+2025-03-08,6,69,58,11,8.72,True,False,-1.1,0.0,9.4,False,cold,True,,,False
+2025-03-08,7,156,123,33,8.73,True,True,-1.5,0.0,7.5,False,cold,True,,,False
+2025-03-08,8,249,193,56,11.08,True,True,-0.9,0.0,5.0,False,cold,True,,,False
+2025-03-08,9,384,285,99,10.34,True,True,0.0,0.0,2.2,False,cold,True,,,False
+2025-03-08,10,509,373,136,10.77,True,False,0.9,0.0,4.0,False,cold,True,,,False
+2025-03-08,11,631,425,206,13.59,True,False,2.3,0.0,7.9,False,cold,True,,,False
+2025-03-08,12,635,432,203,12.8,True,False,3.8,0.0,8.0,False,cold,True,,,False
+2025-03-08,13,750,485,265,13.76,True,False,5.2,0.0,8.8,False,mild,False,,,False
+2025-03-08,14,872,540,332,14.78,True,False,6.6,0.0,9.0,False,mild,False,,,False
+2025-03-08,15,824,490,334,15.36,True,False,7.7,0.0,12.0,False,mild,False,,,False
+2025-03-08,16,825,551,274,14.35,True,True,9.1,0.0,13.7,False,mild,False,,,False
+2025-03-08,17,633,427,206,13.99,True,True,8.9,0.0,17.0,False,mild,False,,,False
+2025-03-08,18,487,335,152,11.01,True,True,8.2,0.0,14.9,False,mild,False,,,False
+2025-03-08,19,346,252,94,10.76,True,False,7.1,0.0,16.1,False,mild,False,,,False
+2025-03-08,20,243,160,83,12.05,True,False,6.1,0.0,17.1,False,mild,False,,,False
+2025-03-08,21,214,143,71,11.89,True,False,5.8,0.0,18.2,False,mild,False,,,False
+2025-03-08,22,228,153,75,10.52,True,False,5.3,0.0,17.5,False,mild,False,,,False
+2025-03-08,23,198,124,74,11.12,True,False,4.6,0.0,16.6,False,cold,True,,,False
+2025-03-09,0,177,112,65,9.63,True,False,3.9,0.0,15.9,False,cold,True,,,False
+2025-03-09,1,125,64,61,26.65,True,False,3.4,0.0,16.2,False,cold,True,,,False
+2025-03-09,3,133,72,61,11.56,True,False,2.3,0.0,13.7,False,cold,True,,,False
+2025-03-09,4,55,21,34,10.54,True,False,1.7,0.0,12.4,False,cold,True,,,False
+2025-03-09,5,26,13,13,9.77,True,False,1.2,0.0,11.5,False,cold,True,,,False
+2025-03-09,6,66,53,13,8.76,True,False,0.8,0.0,11.2,False,cold,True,,,False
+2025-03-09,7,94,75,19,11.73,True,True,0.4,0.0,10.9,False,cold,True,,,False
+2025-03-09,8,224,173,51,9.78,True,True,0.9,0.0,10.5,False,cold,True,,,False
+2025-03-09,9,325,244,81,10.84,True,True,2.2,0.0,10.5,False,cold,True,,,False
+2025-03-09,10,434,317,117,12.63,True,False,4.3,0.0,9.9,False,cold,True,,,False
+2025-03-09,11,635,450,185,14.31,True,False,6.8,0.0,9.9,False,mild,False,,,False
+2025-03-09,12,833,547,286,14.65,True,False,8.9,0.0,11.4,False,mild,False,,,False
+2025-03-09,13,985,611,374,16.87,True,False,10.6,0.0,13.0,False,mild,False,,,False
+2025-03-09,14,1034,639,395,17.26,True,False,11.8,0.0,15.7,False,mild,False,,,False
+2025-03-09,15,1136,680,456,18.35,True,False,12.8,0.0,16.7,False,mild,False,,,False
+2025-03-09,16,1053,624,429,18.12,True,True,13.1,0.0,16.8,False,mild,False,,,False
+2025-03-09,17,923,567,356,15.74,True,True,12.9,0.0,15.9,False,mild,False,,,False
+2025-03-09,18,694,450,244,15.09,True,True,11.9,0.0,15.2,False,mild,False,,,False
+2025-03-09,19,447,312,135,13.64,True,False,10.4,0.0,15.0,False,mild,False,,,False
+2025-03-09,20,334,222,112,13.17,True,False,9.8,0.0,16.2,False,mild,False,,,False
+2025-03-09,21,223,155,68,11.41,True,False,9.1,0.0,16.3,False,mild,False,,,False
+2025-03-09,22,169,97,72,12.41,True,False,8.6,0.0,16.1,False,mild,False,,,False
+2025-03-09,23,88,50,38,12.33,True,False,7.9,0.0,16.1,False,mild,False,,,False
+2025-03-10,0,69,43,26,10.3,False,False,7.5,0.0,16.2,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,1,40,21,19,7.32,False,False,7.0,0.0,15.1,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,2,23,16,7,9.76,False,False,6.4,0.0,14.6,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,3,24,13,11,13.39,False,False,5.9,0.0,13.6,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,4,19,17,2,8.6,False,False,5.3,0.0,12.1,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,5,102,85,17,8.74,False,False,4.7,0.0,11.6,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-03-10,6,351,302,49,8.62,False,False,4.2,0.0,11.3,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-03-10,7,606,520,86,10.92,False,True,3.8,0.0,11.5,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-03-10,8,868,756,112,9.66,False,True,4.2,0.0,11.9,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-03-10,9,526,431,95,10.3,False,True,5.8,0.0,13.2,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,10,381,283,98,11.88,False,False,7.9,0.0,11.0,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,11,497,351,146,13.64,False,False,10.4,0.0,11.8,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,12,609,426,183,12.82,False,False,12.8,0.0,11.6,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,13,674,454,220,14.91,False,False,14.8,0.0,11.9,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,14,719,464,255,14.43,False,False,16.3,0.0,12.6,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,15,1053,729,324,14.95,False,False,17.2,0.0,14.7,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,16,1609,1142,467,14.61,False,True,17.6,0.0,14.8,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,17,2055,1420,635,14.61,False,True,17.5,0.0,14.7,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,18,1446,986,460,14.5,False,True,16.2,0.0,15.8,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,19,840,607,233,12.53,False,False,14.4,0.0,18.0,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,20,553,384,169,12.04,False,False,13.9,0.0,17.0,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,21,406,259,147,12.0,False,False,13.6,0.0,19.8,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,22,232,154,78,11.51,False,False,13.3,0.0,22.0,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-10,23,145,84,61,13.73,False,False,12.9,0.0,22.8,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-11,0,89,54,35,13.5,False,False,12.6,0.0,22.4,False,mild,False,,,False
+2025-03-11,1,42,29,13,13.08,False,False,12.2,0.0,21.1,False,mild,False,,,False
+2025-03-11,2,32,20,12,13.27,False,False,11.8,0.0,19.4,False,mild,False,,,False
+2025-03-11,3,28,17,11,11.63,False,False,11.1,0.0,17.6,False,mild,False,,,False
+2025-03-11,4,47,27,20,11.33,False,False,10.4,0.0,15.7,False,mild,False,,,False
+2025-03-11,5,114,99,15,9.44,False,False,9.6,0.0,14.3,False,mild,False,,,False
+2025-03-11,6,415,341,74,8.9,False,False,8.9,0.0,13.9,False,mild,False,,,False
+2025-03-11,7,868,742,126,10.54,False,True,8.1,0.0,12.4,False,mild,False,,,False
+2025-03-11,8,1218,1017,201,10.52,False,True,8.1,0.0,13.5,False,mild,False,,,False
+2025-03-11,9,588,470,118,9.1,False,True,8.5,0.0,23.1,False,mild,False,,,False
+2025-03-11,10,348,278,70,11.19,False,False,5.6,0.0,22.9,False,mild,False,,,False
+2025-03-11,11,403,316,87,9.9,False,False,4.8,0.0,24.5,False,cold,True,,,False
+2025-03-11,12,432,333,99,9.08,False,False,4.2,0.0,23.4,False,cold,True,,,False
+2025-03-11,13,413,299,114,9.48,False,False,3.8,0.0,20.9,False,cold,True,,,False
+2025-03-11,14,413,323,90,9.73,False,False,3.5,0.0,19.3,False,cold,True,,,False
+2025-03-11,15,631,488,143,10.92,False,False,3.2,0.0,19.4,False,cold,True,,,False
+2025-03-11,16,977,797,180,10.67,False,True,2.7,0.0,19.0,False,cold,True,,,False
+2025-03-11,17,1200,977,223,10.67,False,True,2.1,0.0,18.1,False,cold,True,,,False
+2025-03-11,18,809,658,151,9.53,False,True,1.4,0.0,16.7,False,cold,True,,,False
+2025-03-11,19,441,371,70,9.38,False,False,0.8,0.0,15.1,False,cold,True,,,False
+2025-03-11,20,289,219,70,8.81,False,False,1.0,0.0,14.8,False,cold,True,,,False
+2025-03-11,21,239,196,43,8.36,False,False,1.4,0.0,15.9,False,cold,True,,,False
+2025-03-11,22,157,111,46,9.34,False,False,1.7,0.0,15.9,False,cold,True,,,False
+2025-03-11,23,93,68,25,9.45,False,False,2.1,0.0,14.3,False,cold,True,,,False
+2025-03-12,0,62,41,21,8.48,False,False,2.6,0.0,13.8,False,cold,True,,,False
+2025-03-12,1,29,14,15,9.55,False,False,2.8,0.0,15.7,False,cold,True,,,False
+2025-03-12,2,20,9,11,6.47,False,False,2.8,0.0,15.6,False,cold,True,,,False
+2025-03-12,3,15,11,4,12.29,False,False,2.8,0.0,14.6,False,cold,True,,,False
+2025-03-12,4,21,14,7,6.73,False,False,2.5,0.0,14.1,False,cold,True,,,False
+2025-03-12,5,111,99,12,7.76,False,False,2.0,0.0,13.8,False,cold,True,,,False
+2025-03-12,6,362,320,42,8.09,False,False,1.5,0.0,13.2,False,cold,True,,,False
+2025-03-12,7,732,639,93,9.21,False,True,1.1,0.0,12.3,False,cold,True,,,False
+2025-03-12,8,1026,885,141,9.86,False,True,2.1,0.0,12.9,False,cold,True,,,False
+2025-03-12,9,519,428,91,8.54,False,True,3.0,0.0,11.0,False,cold,True,,,False
+2025-03-12,10,368,285,83,9.6,False,False,3.7,0.0,10.7,False,cold,True,,,False
+2025-03-12,11,422,324,98,10.91,False,False,4.4,0.0,8.8,False,cold,True,,,False
+2025-03-12,12,474,374,100,10.17,False,False,5.3,0.0,7.4,False,mild,False,,,False
+2025-03-12,13,481,373,108,10.08,False,False,6.2,0.0,7.3,False,mild,False,,,False
+2025-03-12,14,532,385,147,10.32,False,False,6.4,0.0,7.6,False,mild,False,,,False
+2025-03-12,15,701,509,192,10.96,False,False,6.6,0.0,8.6,False,mild,False,,,False
+2025-03-12,16,1184,926,258,10.96,False,True,6.4,0.0,8.1,False,mild,False,,,False
+2025-03-12,17,1321,1090,231,11.9,False,True,6.0,0.0,7.7,False,mild,False,,,False
+2025-03-12,18,928,722,206,10.34,False,True,4.9,0.0,6.6,False,cold,True,,,False
+2025-03-12,19,589,451,138,9.63,False,False,3.8,0.0,6.7,False,cold,True,,,False
+2025-03-12,20,370,288,82,10.59,False,False,3.8,0.0,6.5,False,cold,True,,,False
+2025-03-12,21,242,172,70,10.18,False,False,3.1,0.0,4.7,False,cold,True,,,False
+2025-03-12,22,189,136,53,9.13,False,False,2.5,0.0,4.2,False,cold,True,,,False
+2025-03-12,23,100,65,35,8.1,False,False,2.0,0.0,4.1,False,cold,True,,,False
+2025-03-13,0,84,47,37,9.72,False,False,1.9,0.0,2.8,False,cold,True,,,False
+2025-03-13,1,29,17,12,10.1,False,False,1.4,0.0,4.2,False,cold,True,,,False
+2025-03-13,2,22,10,12,11.7,False,False,1.1,0.0,4.6,False,cold,True,,,False
+2025-03-13,3,17,11,6,7.93,False,False,0.9,0.0,4.8,False,cold,True,,,False
+2025-03-13,4,29,17,12,7.03,False,False,1.2,0.0,5.4,False,cold,True,,,False
+2025-03-13,5,111,93,18,7.57,False,False,1.4,0.0,5.8,False,cold,True,,,False
+2025-03-13,6,330,289,41,8.36,False,False,1.3,0.0,5.5,False,cold,True,,,False
+2025-03-13,7,688,599,89,10.03,False,True,0.9,0.0,5.1,False,cold,True,,,False
+2025-03-13,8,1054,908,146,9.7,False,True,2.0,0.0,5.0,False,cold,True,,,False
+2025-03-13,9,517,424,93,10.24,False,True,3.5,0.0,5.7,False,cold,True,,,False
+2025-03-13,10,385,304,81,10.99,False,False,5.0,0.0,5.2,False,mild,False,,,False
+2025-03-13,11,458,323,135,11.56,False,False,6.2,0.0,6.2,False,mild,False,,,False
+2025-03-13,12,556,420,136,11.45,False,False,7.2,0.0,6.3,False,mild,False,,,False
+2025-03-13,13,555,407,148,12.04,False,False,8.6,0.0,6.3,False,mild,False,,,False
+2025-03-13,14,629,446,183,12.09,False,False,9.6,0.0,7.4,False,mild,False,,,False
+2025-03-13,15,779,585,194,12.69,False,False,9.3,0.0,9.1,False,mild,False,,,False
+2025-03-13,16,1197,901,296,12.81,False,True,8.7,0.0,9.7,False,mild,False,,,False
+2025-03-13,17,1513,1148,365,12.01,False,True,8.0,0.0,9.7,False,mild,False,,,False
+2025-03-13,18,1049,774,275,12.02,False,True,7.1,0.0,10.0,False,mild,False,,,False
+2025-03-13,19,661,483,178,10.7,False,False,6.3,0.0,9.9,False,mild,False,,,False
+2025-03-13,20,368,285,83,9.13,False,False,7.7,0.0,11.8,False,mild,False,,,False
+2025-03-13,21,347,245,102,10.7,False,False,8.2,0.0,13.6,False,mild,False,,,False
+2025-03-13,22,276,200,76,10.42,False,False,9.0,0.0,15.0,False,mild,False,,,False
+2025-03-13,23,184,108,76,11.42,False,False,9.1,0.0,15.2,False,mild,False,,,False
+2025-03-14,0,146,97,49,10.59,False,False,9.1,0.0,15.1,False,mild,False,,,False
+2025-03-14,1,80,47,33,9.53,False,False,9.1,0.0,15.0,False,mild,False,,,False
+2025-03-14,2,52,22,30,9.92,False,False,8.9,0.0,16.1,False,mild,False,,,False
+2025-03-14,3,24,9,15,15.97,False,False,8.7,0.0,16.2,False,mild,False,,,False
+2025-03-14,4,21,17,4,8.95,False,False,8.5,0.0,16.2,False,mild,False,,,False
+2025-03-14,5,101,86,15,8.76,False,False,8.7,0.0,15.5,False,mild,False,,,False
+2025-03-14,6,295,254,41,8.97,False,False,8.9,0.0,14.8,False,mild,False,,,False
+2025-03-14,7,634,524,110,10.41,False,True,9.1,0.0,15.2,False,mild,False,,,False
+2025-03-14,8,801,664,137,10.12,False,True,10.3,0.0,16.0,False,mild,False,,,False
+2025-03-14,9,594,438,156,13.88,False,True,12.3,0.0,16.5,False,mild,False,,,False
+2025-03-14,10,568,338,230,14.89,False,False,14.4,0.0,17.3,False,mild,False,,,False
+2025-03-14,11,831,476,355,17.79,False,False,16.2,0.0,18.2,False,mild,False,,,False
+2025-03-14,12,1144,604,540,17.29,False,False,19.5,0.0,19.9,False,mild,False,,,False
+2025-03-14,13,1305,676,629,17.48,False,False,21.5,0.0,22.1,False,warm,False,,,False
+2025-03-14,14,1474,755,719,18.63,False,False,22.7,0.0,22.5,False,warm,False,,,False
+2025-03-14,15,1755,932,823,18.32,False,False,23.3,0.0,21.7,False,warm,False,,,False
+2025-03-14,16,2111,1198,913,15.87,False,True,23.2,0.0,20.8,False,warm,False,,,False
+2025-03-14,17,2135,1223,912,17.01,False,True,22.5,0.0,20.2,False,warm,False,,,False
+2025-03-14,18,1876,1044,832,15.12,False,True,21.2,0.0,21.1,False,warm,False,,,False
+2025-03-14,19,1203,674,529,14.23,False,False,20.5,0.0,21.4,False,warm,False,,,False
+2025-03-14,20,817,473,344,14.35,False,False,21.1,0.0,21.4,False,warm,False,,,False
+2025-03-14,21,629,353,276,13.6,False,False,20.3,0.0,25.3,False,warm,False,,,False
+2025-03-14,22,612,319,293,13.08,False,False,20.0,0.0,27.6,False,warm,False,,,False
+2025-03-14,23,513,234,279,13.6,False,False,19.5,0.2,25.8,True,mild,True,,,False
+2025-03-15,0,142,62,80,9.94,True,False,15.6,0.3,24.7,True,mild,True,,,False
+2025-03-15,1,25,13,12,16.36,True,False,15.0,3.8,23.1,True,mild,True,,,False
+2025-03-15,2,30,19,11,14.68,True,False,14.2,4.8,20.3,True,mild,True,,,False
+2025-03-15,3,35,15,20,12.99,True,False,14.4,0.9,23.1,True,mild,True,,,False
+2025-03-15,4,29,13,16,17.99,True,False,14.5,0.0,23.9,False,mild,False,,,False
+2025-03-15,5,29,18,11,9.86,True,False,14.6,0.0,25.3,False,mild,False,,,False
+2025-03-15,6,122,86,36,8.68,True,False,14.5,0.0,24.9,False,mild,False,,,False
+2025-03-15,7,297,193,104,10.81,True,True,14.3,0.0,25.4,False,mild,False,,,False
+2025-03-15,8,662,391,271,11.82,True,True,14.3,0.0,24.8,False,mild,False,,,False
+2025-03-15,9,1113,630,483,12.27,True,True,15.7,0.0,26.1,False,mild,False,,,False
+2025-03-15,10,1146,647,499,13.93,True,False,17.1,0.0,26.4,False,mild,False,,,False
+2025-03-15,11,1218,630,588,14.69,True,False,18.1,0.0,29.3,False,mild,False,,,False
+2025-03-15,12,1373,635,738,15.86,True,False,18.9,0.0,29.6,False,mild,False,,,False
+2025-03-15,13,1409,639,770,16.61,True,False,19.4,0.0,28.9,False,mild,False,,,False
+2025-03-15,14,1412,609,803,17.25,True,False,19.6,0.0,32.8,False,mild,False,,,False
+2025-03-15,15,1233,579,654,16.76,True,False,18.6,0.0,29.3,False,mild,False,,,False
+2025-03-15,16,1211,567,644,16.9,True,True,18.2,0.0,25.4,False,mild,False,,,False
+2025-03-15,17,1105,511,594,14.39,True,True,17.9,0.0,22.7,False,mild,False,,,False
+2025-03-15,18,1077,551,526,14.23,True,True,16.4,0.0,19.9,False,mild,False,,,False
+2025-03-15,19,821,410,411,13.08,True,False,14.9,0.0,12.7,False,mild,False,,,False
+2025-03-15,20,518,276,242,12.43,True,False,10.2,0.0,9.6,False,mild,False,,,False
+2025-03-15,21,445,233,212,11.88,True,False,9.0,0.0,12.8,False,mild,False,,,False
+2025-03-15,22,338,189,149,12.86,True,False,7.7,0.0,12.3,False,mild,False,,,False
+2025-03-15,23,196,109,87,11.31,True,False,6.7,0.4,12.9,True,mild,True,,,False
+2025-03-16,0,158,87,71,11.26,True,False,5.6,0.8,13.9,True,mild,True,,,False
+2025-03-16,1,141,68,73,10.59,True,False,5.1,0.7,11.8,True,mild,True,,,False
+2025-03-16,2,75,36,39,10.26,True,False,4.3,1.3,9.8,True,cold,True,,,False
+2025-03-16,3,17,11,6,8.43,True,False,3.8,1.0,15.2,True,cold,True,,,False
+2025-03-16,4,16,9,7,10.92,True,False,3.0,1.4,12.2,True,cold,True,,,False
+2025-03-16,5,28,21,7,12.28,True,False,1.7,1.7,11.1,True,cold,True,,,False
+2025-03-16,6,56,41,15,11.06,True,False,1.5,1.0,11.5,True,cold,True,,,False
+2025-03-16,7,81,59,22,11.52,True,True,1.5,0.9,16.4,True,cold,True,,,False
+2025-03-16,8,162,123,39,10.23,True,True,1.7,0.2,13.9,True,cold,True,,,False
+2025-03-16,9,159,120,39,8.49,True,True,1.4,0.1,14.2,True,cold,True,,,False
+2025-03-16,10,160,115,45,9.52,True,False,1.1,0.2,14.0,True,cold,True,,,False
+2025-03-16,11,175,138,37,10.47,True,False,0.9,0.5,12.4,True,cold,True,,,False
+2025-03-16,12,140,101,39,8.72,True,False,0.9,0.8,14.5,True,cold,True,,,False
+2025-03-16,13,135,110,25,11.4,True,False,0.3,1.1,14.8,True,cold,True,,,False
+2025-03-16,14,196,150,46,12.08,True,False,0.3,0.9,15.0,True,cold,True,,,False
+2025-03-16,15,244,168,76,11.41,True,False,0.4,0.6,15.8,True,cold,True,,,False
+2025-03-16,16,286,203,83,11.9,True,True,0.4,0.2,15.2,True,cold,True,,,False
+2025-03-16,17,294,198,96,10.32,True,True,0.3,0.0,13.9,False,cold,True,,,False
+2025-03-16,18,296,230,66,12.07,True,True,0.2,0.0,13.4,False,cold,True,,,False
+2025-03-16,19,244,192,52,9.87,True,False,0.2,0.0,11.4,False,cold,True,,,False
+2025-03-16,20,161,121,40,10.08,True,False,0.2,0.0,4.0,False,cold,True,,,False
+2025-03-16,21,146,112,34,7.6,True,False,-0.8,0.0,5.4,False,cold,True,,,False
+2025-03-16,22,89,61,28,8.88,True,False,-0.6,0.0,6.5,False,cold,True,,,False
+2025-03-16,23,51,33,18,10.41,True,False,-1.0,0.0,6.1,False,cold,True,,,False
+2025-03-17,0,53,36,17,6.73,False,False,-1.2,0.0,7.6,False,cold,True,,,False
+2025-03-17,1,32,16,16,8.64,False,False,-1.6,0.0,6.6,False,cold,True,,,False
+2025-03-17,2,17,9,8,8.15,False,False,-2.2,0.0,5.2,False,cold,True,,,False
+2025-03-17,3,11,7,4,11.24,False,False,-2.2,0.0,5.8,False,cold,True,,,False
+2025-03-17,4,24,16,8,9.21,False,False,-3.1,0.0,4.0,False,cold,True,,,False
+2025-03-17,5,95,75,20,8.21,False,False,-2.8,0.0,1.0,False,cold,True,,,False
+2025-03-17,6,269,218,51,8.13,False,False,-3.5,0.0,2.0,False,cold,True,,,False
+2025-03-17,7,558,472,86,8.72,False,True,-3.4,0.0,1.1,False,cold,True,,,False
+2025-03-17,8,786,679,107,9.21,False,True,-3.2,0.0,4.0,False,cold,True,,,False
+2025-03-17,9,419,322,97,10.63,False,True,-0.2,0.0,5.4,False,cold,True,,,False
+2025-03-17,10,341,248,93,10.06,False,False,1.6,0.0,7.5,False,cold,True,,,False
+2025-03-17,11,421,289,132,10.54,False,False,3.0,0.0,11.9,False,cold,True,,,False
+2025-03-17,12,442,282,160,12.13,False,False,4.4,0.0,16.2,False,cold,True,,,False
+2025-03-17,13,461,290,171,13.6,False,False,5.6,0.0,17.2,False,mild,False,,,False
+2025-03-17,14,570,356,214,13.19,False,False,7.0,0.2,19.4,True,mild,True,,,False
+2025-03-17,15,710,476,234,12.88,False,False,8.8,0.0,20.9,False,mild,False,,,False
+2025-03-17,16,1087,780,307,12.27,False,True,9.8,0.0,20.3,False,mild,False,,,False
+2025-03-17,17,1312,1022,290,12.45,False,True,10.2,0.0,21.5,False,mild,False,,,False
+2025-03-17,18,901,668,233,12.05,False,True,9.9,0.0,23.0,False,mild,False,,,False
+2025-03-17,19,585,465,120,10.7,False,False,9.1,0.0,23.5,False,mild,False,,,False
+2025-03-17,20,356,271,85,9.18,False,False,8.6,0.0,23.7,False,mild,False,,,False
+2025-03-17,21,257,173,84,13.54,False,False,8.1,0.0,23.1,False,mild,False,,,False
+2025-03-17,22,173,105,68,11.0,False,False,7.9,0.0,23.6,False,mild,False,,,False
+2025-03-17,23,87,57,30,9.64,False,False,7.7,0.0,23.5,False,mild,False,,,False
+2025-03-18,0,69,39,30,7.97,False,False,7.7,0.0,23.4,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,1,43,23,20,9.1,False,False,7.7,0.0,22.6,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,2,24,10,14,4.97,False,False,7.7,0.0,21.4,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,3,9,5,4,11.51,False,False,7.7,0.0,20.5,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,4,33,18,15,9.05,False,False,7.9,0.0,19.6,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,5,131,108,23,8.62,False,False,7.8,0.0,18.7,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,6,405,352,53,8.6,False,False,7.7,0.0,18.6,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,7,888,751,137,10.07,False,True,7.3,0.0,16.5,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,8,1205,1002,203,10.01,False,True,7.8,0.0,11.4,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,9,498,401,97,10.43,False,True,9.1,0.0,10.9,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,10,365,278,87,12.54,False,False,11.1,0.0,9.9,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,11,464,325,139,11.98,False,False,12.4,0.0,10.6,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,12,592,411,181,13.3,False,False,14.6,0.0,11.8,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,13,571,388,183,12.29,False,False,16.2,0.0,12.3,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,14,709,447,262,14.49,False,False,17.5,0.0,11.8,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,15,1007,668,339,14.33,False,False,18.4,0.0,11.6,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,16,1767,1264,503,14.34,False,True,19.1,0.0,13.5,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,17,2061,1480,581,14.84,False,True,19.6,0.0,14.3,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,18,1564,1075,489,14.19,False,True,18.6,0.0,15.7,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,19,1006,698,308,13.16,False,False,17.5,0.0,14.4,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,20,497,348,149,10.89,False,False,16.1,0.0,8.2,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,21,383,257,126,10.18,False,False,15.9,0.0,12.5,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,22,247,161,86,11.3,False,False,16.3,0.0,12.4,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-18,23,149,87,62,12.03,False,False,14.8,0.0,7.2,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-19,0,89,48,41,11.28,False,False,12.8,0.0,6.2,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-19,1,49,31,18,9.1,False,False,11.6,0.0,4.4,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-19,2,21,11,10,9.26,False,False,9.9,0.0,2.5,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-19,3,46,29,17,8.25,False,False,7.8,0.0,3.9,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-19,4,22,14,8,8.7,False,False,5.4,0.0,6.1,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-19,5,105,88,17,7.81,False,False,4.8,0.0,6.7,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-03-19,6,394,333,61,9.36,False,False,4.2,0.0,6.0,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-03-19,7,877,739,138,10.05,False,True,4.6,0.0,5.4,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-03-19,8,1179,959,220,10.35,False,True,5.1,0.0,5.0,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-19,9,607,480,127,10.18,False,True,6.3,0.0,12.8,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-19,10,390,302,88,10.52,False,False,6.8,0.0,11.3,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-19,11,410,309,101,10.95,False,False,7.8,0.0,11.2,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-19,12,434,339,95,8.77,False,False,7.6,0.0,13.1,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-19,13,231,202,29,7.98,False,False,7.1,0.0,11.9,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-03-19,14,285,215,70,9.84,False,False,5.8,0.2,12.7,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-03-19,15,211,176,35,9.54,False,False,6.3,0.5,8.5,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-03-19,16,683,555,128,11.16,False,True,6.7,0.3,11.0,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-03-19,17,688,568,120,10.59,False,True,5.7,3.6,15.5,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-03-19,18,231,188,43,9.98,False,True,5.7,8.5,7.8,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-03-19,19,266,219,47,9.67,False,False,4.6,0.9,15.1,True,cold,True,Chicago Cubs Home Game,sports,True
+2025-03-19,20,203,162,41,10.15,False,False,4.3,0.1,18.5,True,cold,True,Chicago Cubs Home Game,sports,True
+2025-03-19,21,142,105,37,9.26,False,False,3.3,0.0,17.5,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-03-19,22,105,83,22,9.27,False,False,2.8,0.0,23.8,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-03-19,23,57,44,13,8.02,False,False,2.7,0.0,26.9,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-03-20,0,37,19,18,7.43,False,False,2.5,0.0,28.3,False,cold,True,,,False
+2025-03-20,1,24,11,13,9.01,False,False,2.2,0.1,31.5,True,cold,True,,,False
+2025-03-20,2,8,3,5,10.48,False,False,2.0,0.3,31.4,True,cold,True,,,False
+2025-03-20,3,6,3,3,12.83,False,False,1.8,0.5,26.5,True,cold,True,,,False
+2025-03-20,4,16,10,6,9.42,False,False,1.5,0.9,20.9,True,cold,True,,,False
+2025-03-20,5,57,41,16,7.39,False,False,1.1,1.3,24.8,True,cold,True,,,False
+2025-03-20,6,117,105,12,8.63,False,False,0.8,1.5,25.4,True,cold,True,,,False
+2025-03-20,7,248,216,32,9.97,False,True,0.6,0.8,25.2,True,cold,True,,,False
+2025-03-20,8,396,343,53,9.48,False,True,0.3,0.4,24.5,True,cold,True,,,False
+2025-03-20,9,245,208,37,9.01,False,True,0.6,0.1,23.3,True,cold,True,,,False
+2025-03-20,10,181,154,27,9.3,False,False,0.8,0.0,22.7,False,cold,True,,,False
+2025-03-20,11,278,229,49,9.85,False,False,1.2,0.0,21.9,False,cold,True,,,False
+2025-03-20,12,348,250,98,10.41,False,False,1.9,0.0,19.6,False,cold,True,,,False
+2025-03-20,13,336,255,81,11.42,False,False,2.8,0.0,18.7,False,cold,True,,,False
+2025-03-20,14,358,272,86,12.62,False,False,3.2,0.0,17.1,False,cold,True,,,False
+2025-03-20,15,599,460,139,10.74,False,False,3.6,0.0,13.5,False,cold,True,,,False
+2025-03-20,16,917,734,183,10.8,False,True,4.9,0.0,12.7,False,cold,True,,,False
+2025-03-20,17,1161,905,256,11.0,False,True,4.9,0.0,9.7,False,cold,True,,,False
+2025-03-20,18,805,639,166,11.2,False,True,4.0,0.0,5.5,False,cold,True,,,False
+2025-03-20,19,547,424,123,10.28,False,False,2.3,0.0,4.3,False,cold,True,,,False
+2025-03-20,20,356,284,72,10.35,False,False,1.9,0.0,7.6,False,cold,True,,,False
+2025-03-20,21,239,178,61,8.38,False,False,1.4,0.0,7.9,False,cold,True,,,False
+2025-03-20,22,215,159,56,8.73,False,False,1.1,0.0,7.4,False,cold,True,,,False
+2025-03-20,23,134,84,50,8.09,False,False,0.9,0.0,6.2,False,cold,True,,,False
+2025-03-21,0,84,47,37,8.75,False,False,0.4,0.0,5.6,False,cold,True,,,False
+2025-03-21,1,48,26,22,9.93,False,False,0.0,0.0,6.2,False,cold,True,,,False
+2025-03-21,2,33,12,21,10.3,False,False,-0.5,0.0,7.3,False,cold,True,,,False
+2025-03-21,3,21,9,12,11.67,False,False,-0.9,0.0,7.7,False,cold,True,,,False
+2025-03-21,4,17,13,4,7.06,False,False,-1.0,0.0,9.4,False,cold,True,,,False
+2025-03-21,5,75,63,12,8.96,False,False,-0.9,0.0,11.2,False,cold,True,,,False
+2025-03-21,6,247,204,43,8.25,False,False,-0.4,0.0,13.7,False,cold,True,,,False
+2025-03-21,7,459,388,71,9.2,False,True,0.0,0.0,15.6,False,cold,True,,,False
+2025-03-21,8,584,494,90,9.16,False,True,1.5,0.0,17.9,False,cold,True,,,False
+2025-03-21,9,402,345,57,8.9,False,True,3.1,0.0,15.9,False,cold,True,,,False
+2025-03-21,10,384,295,89,10.12,False,False,4.6,0.0,21.5,False,cold,True,,,False
+2025-03-21,11,462,344,118,11.8,False,False,6.4,0.0,22.1,False,mild,False,,,False
+2025-03-21,12,576,414,162,12.17,False,False,8.8,0.0,21.5,False,mild,False,,,False
+2025-03-21,13,607,415,192,11.67,False,False,10.9,0.0,22.3,False,mild,False,,,False
+2025-03-21,14,719,517,202,11.94,False,False,12.6,0.0,25.5,False,mild,False,,,False
+2025-03-21,15,908,612,296,12.5,False,False,13.1,0.0,25.7,False,mild,False,,,False
+2025-03-21,16,1067,732,335,12.21,False,True,13.4,0.0,25.6,False,mild,False,,,False
+2025-03-21,17,1256,870,386,12.32,False,True,13.4,0.0,24.3,False,mild,False,,,False
+2025-03-21,18,1067,724,343,12.17,False,True,12.8,0.0,23.2,False,mild,False,,,False
+2025-03-21,19,645,450,195,11.46,False,False,11.6,0.0,18.6,False,mild,False,,,False
+2025-03-21,20,411,296,115,10.35,False,False,10.7,0.0,17.1,False,mild,False,,,False
+2025-03-21,21,316,223,93,10.7,False,False,10.1,0.0,19.3,False,mild,False,,,False
+2025-03-21,22,278,170,108,10.31,False,False,9.6,0.0,17.5,False,mild,False,,,False
+2025-03-21,23,288,165,123,13.08,False,False,8.0,0.2,9.3,True,mild,True,,,False
+2025-03-22,0,257,118,139,10.65,True,False,7.4,0.0,18.6,False,mild,False,,,False
+2025-03-22,1,151,84,67,10.98,True,False,6.4,0.0,19.5,False,mild,False,,,False
+2025-03-22,2,91,46,45,10.1,True,False,5.8,0.0,19.8,False,mild,False,,,False
+2025-03-22,3,36,17,19,9.68,True,False,5.5,0.0,20.1,False,mild,False,,,False
+2025-03-22,4,26,18,8,8.01,True,False,5.1,0.0,20.3,False,mild,False,,,False
+2025-03-22,5,25,18,7,8.65,True,False,3.3,0.0,19.7,False,cold,True,,,False
+2025-03-22,6,82,68,14,8.07,True,False,1.9,0.0,16.2,False,cold,True,,,False
+2025-03-22,7,154,112,42,9.02,True,True,1.1,0.0,15.1,False,cold,True,,,False
+2025-03-22,8,213,166,47,9.8,True,True,2.0,0.0,15.2,False,cold,True,,,False
+2025-03-22,9,347,282,65,10.71,True,True,2.2,0.0,14.0,False,cold,True,,,False
+2025-03-22,10,474,316,158,11.94,True,False,2.5,0.0,11.3,False,cold,True,,,False
+2025-03-22,11,573,386,187,12.63,True,False,2.9,0.1,10.0,True,cold,True,,,False
+2025-03-22,12,686,431,255,13.4,True,False,3.0,0.1,9.7,True,cold,True,,,False
+2025-03-22,13,685,436,249,14.58,True,False,3.0,0.0,9.7,False,cold,True,,,False
+2025-03-22,14,705,444,261,15.27,True,False,3.2,0.0,8.6,False,cold,True,,,False
+2025-03-22,15,667,390,277,14.31,True,False,2.5,0.0,12.9,False,cold,True,,,False
+2025-03-22,16,702,436,266,13.9,True,True,1.9,0.0,14.1,False,cold,True,,,False
+2025-03-22,17,550,380,170,11.79,True,True,1.5,0.0,12.1,False,cold,True,,,False
+2025-03-22,18,544,386,158,12.23,True,True,1.2,0.0,9.7,False,cold,True,,,False
+2025-03-22,19,396,264,132,10.46,True,False,1.0,0.0,8.4,False,cold,True,,,False
+2025-03-22,20,274,210,64,8.88,True,False,0.9,0.0,7.6,False,cold,True,,,False
+2025-03-22,21,224,143,81,10.46,True,False,1.0,0.0,6.3,False,cold,True,,,False
+2025-03-22,22,183,121,62,9.45,True,False,1.4,0.0,6.9,False,cold,True,,,False
+2025-03-22,23,177,112,65,10.29,True,False,1.8,0.0,8.0,False,cold,True,,,False
+2025-03-23,0,139,73,66,8.91,True,False,2.0,0.0,9.0,False,cold,True,,,False
+2025-03-23,1,90,45,45,9.45,True,False,2.0,0.0,9.8,False,cold,True,,,False
+2025-03-23,2,74,40,34,10.19,True,False,1.8,0.0,10.1,False,cold,True,,,False
+2025-03-23,3,60,26,34,9.45,True,False,1.6,0.0,11.9,False,cold,True,,,False
+2025-03-23,4,34,24,10,9.68,True,False,1.6,0.0,12.4,False,cold,True,,,False
+2025-03-23,5,28,19,9,9.91,True,False,1.6,0.0,11.9,False,cold,True,,,False
+2025-03-23,6,92,58,34,10.81,True,False,1.9,0.0,13.8,False,cold,True,,,False
+2025-03-23,7,281,193,88,10.44,True,True,2.4,0.0,14.2,False,cold,True,,,False
+2025-03-23,8,259,164,95,10.12,True,True,3.5,0.0,17.1,False,cold,True,,,False
+2025-03-23,9,354,236,118,9.99,True,True,4.0,0.0,17.6,False,cold,True,,,False
+2025-03-23,10,468,328,140,10.42,True,False,4.7,0.0,17.8,False,cold,True,,,False
+2025-03-23,11,544,364,180,11.06,True,False,6.2,0.0,16.7,False,mild,False,,,False
+2025-03-23,12,603,431,172,11.57,True,False,8.4,0.0,18.9,False,mild,False,,,False
+2025-03-23,13,527,364,163,11.26,True,False,9.1,0.0,19.2,False,mild,False,,,False
+2025-03-23,14,430,307,123,10.91,True,False,8.4,0.0,19.7,False,mild,False,,,False
+2025-03-23,15,288,193,95,8.96,True,False,7.8,0.6,15.3,True,mild,True,,,False
+2025-03-23,16,97,72,25,11.96,True,True,7.8,0.6,18.4,True,mild,True,,,False
+2025-03-23,17,179,132,47,10.03,True,True,7.7,0.7,15.7,True,mild,True,,,False
+2025-03-23,18,174,126,48,12.65,True,True,7.9,0.1,14.6,True,mild,True,,,False
+2025-03-23,19,179,130,49,10.6,True,False,7.8,5.4,19.6,True,mild,True,,,False
+2025-03-23,20,137,112,25,10.09,True,False,5.6,0.0,28.9,False,mild,False,,,False
+2025-03-23,21,120,91,29,8.66,True,False,4.9,0.0,25.4,False,cold,True,,,False
+2025-03-23,22,102,71,31,8.17,True,False,5.1,0.0,24.9,False,mild,False,,,False
+2025-03-23,23,67,43,24,8.83,True,False,4.8,0.0,21.6,False,cold,True,,,False
+2025-03-24,0,40,28,12,10.13,False,False,4.6,0.0,22.0,False,cold,True,,,False
+2025-03-24,1,26,19,7,9.9,False,False,3.9,0.0,21.5,False,cold,True,,,False
+2025-03-24,2,20,6,14,5.4,False,False,3.2,0.0,21.4,False,cold,True,,,False
+2025-03-24,3,20,8,12,7.17,False,False,2.6,0.0,22.9,False,cold,True,,,False
+2025-03-24,4,25,17,8,10.61,False,False,1.9,0.0,23.6,False,cold,True,,,False
+2025-03-24,5,79,66,13,8.8,False,False,1.5,0.0,24.2,False,cold,True,,,False
+2025-03-24,6,259,213,46,7.83,False,False,1.2,0.0,25.5,False,cold,True,,,False
+2025-03-24,7,512,439,73,9.16,False,True,0.9,0.0,25.9,False,cold,True,,,False
+2025-03-24,8,661,548,113,9.38,False,True,1.5,0.0,23.8,False,cold,True,,,False
+2025-03-24,9,337,283,54,8.7,False,True,1.5,0.0,24.1,False,cold,True,,,False
+2025-03-24,10,214,175,39,9.99,False,False,1.5,0.0,24.0,False,cold,True,,,False
+2025-03-24,11,298,220,78,9.25,False,False,2.4,0.0,26.1,False,cold,True,,,False
+2025-03-24,12,401,301,100,9.02,False,False,4.3,0.0,26.8,False,cold,True,,,False
+2025-03-24,13,345,254,91,11.02,False,False,6.2,0.0,26.9,False,mild,False,,,False
+2025-03-24,14,471,329,142,12.46,False,False,7.7,0.0,27.1,False,mild,False,,,False
+2025-03-24,15,587,434,153,10.8,False,False,8.1,0.0,26.2,False,mild,False,,,False
+2025-03-24,16,884,700,184,10.78,False,True,8.2,0.0,21.4,False,mild,False,,,False
+2025-03-24,17,1124,891,233,11.0,False,True,8.4,0.0,18.3,False,mild,False,,,False
+2025-03-24,18,863,684,179,11.34,False,True,8.0,0.0,16.5,False,mild,False,,,False
+2025-03-24,19,497,406,91,10.19,False,False,6.8,0.0,14.6,False,mild,False,,,False
+2025-03-24,20,349,271,78,11.2,False,False,5.8,0.0,12.5,False,mild,False,,,False
+2025-03-24,21,241,180,61,9.52,False,False,4.9,0.0,11.5,False,cold,True,,,False
+2025-03-24,22,150,106,44,9.64,False,False,4.0,0.0,8.8,False,cold,True,,,False
+2025-03-24,23,87,55,32,9.46,False,False,2.8,0.0,6.1,False,cold,True,,,False
+2025-03-25,0,41,25,16,9.7,False,False,2.8,0.0,8.6,False,cold,True,,,False
+2025-03-25,1,23,13,10,7.44,False,False,1.1,0.0,3.9,False,cold,True,,,False
+2025-03-25,2,16,5,11,9.19,False,False,0.9,0.0,1.1,False,cold,True,,,False
+2025-03-25,3,7,5,2,7.82,False,False,0.2,0.0,3.0,False,cold,True,,,False
+2025-03-25,4,36,18,18,8.92,False,False,0.2,0.0,5.2,False,cold,True,,,False
+2025-03-25,5,115,96,19,8.25,False,False,0.8,0.0,7.0,False,cold,True,,,False
+2025-03-25,6,312,268,44,8.12,False,False,0.8,0.0,7.7,False,cold,True,,,False
+2025-03-25,7,702,617,85,9.01,False,True,0.4,0.0,5.4,False,cold,True,,,False
+2025-03-25,8,945,802,143,9.44,False,True,1.6,0.0,6.7,False,cold,True,,,False
+2025-03-25,9,493,397,96,8.86,False,True,2.8,0.0,6.9,False,cold,True,,,False
+2025-03-25,10,335,264,71,9.65,False,False,4.3,0.0,6.9,False,cold,True,,,False
+2025-03-25,11,382,291,91,12.96,False,False,6.3,0.0,7.5,False,mild,False,,,False
+2025-03-25,12,469,361,108,10.2,False,False,6.8,0.0,9.4,False,mild,False,,,False
+2025-03-25,13,462,341,121,11.42,False,False,6.3,0.6,10.7,True,mild,True,,,False
+2025-03-25,14,424,303,121,12.71,False,False,5.6,0.0,9.5,False,mild,False,,,False
+2025-03-25,15,679,498,181,11.93,False,False,5.7,0.0,7.0,False,mild,False,,,False
+2025-03-25,16,1016,828,188,11.52,False,True,5.5,0.0,8.7,False,mild,False,,,False
+2025-03-25,17,1286,1055,231,11.48,False,True,4.6,0.0,9.8,False,cold,True,,,False
+2025-03-25,18,881,702,179,10.84,False,True,3.5,0.0,8.0,False,cold,True,,,False
+2025-03-25,19,519,402,117,9.11,False,False,2.8,0.0,3.2,False,cold,True,,,False
+2025-03-25,20,329,263,66,9.51,False,False,2.6,0.0,3.5,False,cold,True,,,False
+2025-03-25,21,260,189,71,9.49,False,False,2.0,0.0,3.8,False,cold,True,,,False
+2025-03-25,22,187,136,51,10.0,False,False,1.6,0.0,4.9,False,cold,True,,,False
+2025-03-25,23,85,58,27,8.36,False,False,1.8,0.0,7.1,False,cold,True,,,False
+2025-03-26,0,39,24,15,10.01,False,False,1.1,0.0,4.7,False,cold,True,,,False
+2025-03-26,1,30,18,12,8.04,False,False,0.4,0.0,3.3,False,cold,True,,,False
+2025-03-26,2,18,11,7,5.87,False,False,0.8,0.0,0.8,False,cold,True,,,False
+2025-03-26,3,15,10,5,9.32,False,False,0.4,0.0,1.1,False,cold,True,,,False
+2025-03-26,4,23,14,9,6.11,False,False,-0.2,0.0,2.3,False,cold,True,,,False
+2025-03-26,5,109,95,14,8.27,False,False,-0.6,0.0,1.9,False,cold,True,,,False
+2025-03-26,6,342,294,48,8.3,False,False,-0.8,0.0,2.3,False,cold,True,,,False
+2025-03-26,7,662,566,96,9.24,False,True,-0.3,0.0,0.9,False,cold,True,,,False
+2025-03-26,8,837,722,115,9.22,False,True,1.3,0.1,4.0,True,cold,True,,,False
+2025-03-26,9,499,423,76,8.69,False,True,2.5,1.4,7.2,True,cold,True,,,False
+2025-03-26,10,317,234,83,11.05,False,False,3.6,0.1,6.0,True,cold,True,,,False
+2025-03-26,11,367,275,92,10.85,False,False,4.6,0.0,4.5,False,cold,True,,,False
+2025-03-26,12,435,325,110,10.47,False,False,5.4,0.0,5.8,False,mild,False,,,False
+2025-03-26,13,440,329,111,10.9,False,False,6.1,0.0,7.4,False,mild,False,,,False
+2025-03-26,14,492,343,149,12.06,False,False,6.4,0.0,8.8,False,mild,False,,,False
+2025-03-26,15,668,528,140,10.36,False,False,6.1,0.0,9.6,False,mild,False,,,False
+2025-03-26,16,1057,838,219,11.21,False,True,5.8,0.0,8.7,False,mild,False,,,False
+2025-03-26,17,1207,946,261,11.42,False,True,5.4,0.0,8.6,False,mild,False,,,False
+2025-03-26,18,850,632,218,11.54,False,True,4.8,0.0,8.0,False,cold,True,,,False
+2025-03-26,19,528,405,123,9.82,False,False,3.8,0.0,7.0,False,cold,True,,,False
+2025-03-26,20,336,266,70,9.3,False,False,4.7,0.0,9.7,False,cold,True,,,False
+2025-03-26,21,300,214,86,9.15,False,False,4.3,0.0,7.6,False,cold,True,,,False
+2025-03-26,22,195,132,63,9.82,False,False,4.2,0.0,8.0,False,cold,True,,,False
+2025-03-26,23,115,80,35,8.6,False,False,4.5,0.0,8.6,False,cold,True,,,False
+2025-03-27,0,58,33,25,11.85,False,False,4.8,0.0,9.7,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-03-27,1,35,25,10,11.0,False,False,5.1,0.0,11.7,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-27,2,30,20,10,15.55,False,False,4.8,0.0,11.2,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-03-27,3,9,7,2,10.69,False,False,4.3,0.0,10.2,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-03-27,4,24,12,12,11.9,False,False,4.2,0.0,9.3,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-03-27,5,98,81,17,8.26,False,False,4.1,0.0,8.5,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-03-27,6,309,255,54,8.25,False,False,4.1,0.0,8.4,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-03-27,7,633,550,83,9.33,False,True,4.2,0.0,8.8,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-03-27,8,953,817,136,9.53,False,True,6.7,0.0,8.6,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-27,9,557,447,110,9.71,False,True,7.8,0.0,8.0,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-27,10,368,271,97,10.42,False,False,9.6,0.0,7.9,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-27,11,416,306,110,11.1,False,False,10.1,0.0,9.3,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-27,12,544,412,132,10.91,False,False,10.8,0.0,7.5,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-27,13,510,370,140,13.18,False,False,11.8,0.0,7.3,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-27,14,464,335,129,10.56,False,False,12.7,0.0,9.4,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-27,15,685,494,191,12.73,False,False,12.9,0.0,9.2,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-27,16,1071,844,227,11.37,False,True,12.6,0.0,9.6,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-27,17,1324,1040,284,11.82,False,True,12.7,0.0,11.6,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-27,18,984,739,245,11.42,False,True,10.9,0.0,9.8,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-27,19,562,420,142,11.52,False,False,10.0,0.0,12.0,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-27,20,433,312,121,9.91,False,False,9.4,0.0,11.6,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-27,21,372,274,98,10.64,False,False,8.7,0.0,12.0,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-27,22,319,218,101,10.13,False,False,7.9,0.0,12.5,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-27,23,176,112,64,10.79,False,False,7.3,0.0,11.6,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-28,0,146,79,67,9.2,False,False,7.3,0.0,10.5,False,mild,False,,,False
+2025-03-28,1,59,35,24,7.58,False,False,7.8,0.0,12.2,False,mild,False,,,False
+2025-03-28,2,26,8,18,15.39,False,False,7.5,2.0,11.4,True,mild,True,,,False
+2025-03-28,3,20,12,8,12.77,False,False,7.2,1.2,13.5,True,mild,True,,,False
+2025-03-28,4,29,17,12,10.03,False,False,6.9,0.0,13.2,False,mild,False,,,False
+2025-03-28,5,60,52,8,8.61,False,False,7.4,0.0,14.7,False,mild,False,,,False
+2025-03-28,6,169,140,29,7.05,False,False,8.0,0.0,14.6,False,mild,False,,,False
+2025-03-28,7,397,345,52,9.29,False,True,8.2,0.1,14.5,True,mild,True,,,False
+2025-03-28,8,592,493,99,9.99,False,True,10.1,1.7,14.0,True,mild,True,,,False
+2025-03-28,9,491,364,127,10.78,False,True,13.4,1.2,11.5,True,mild,True,,,False
+2025-03-28,10,423,292,131,15.26,False,False,13.9,0.5,6.7,True,mild,True,,,False
+2025-03-28,11,587,387,200,15.84,False,False,15.1,0.0,7.2,False,mild,False,,,False
+2025-03-28,12,798,486,312,15.43,False,False,18.6,0.0,8.9,False,mild,False,,,False
+2025-03-28,13,895,546,349,16.37,False,False,20.4,0.0,11.6,False,warm,False,,,False
+2025-03-28,14,1059,637,422,16.75,False,False,24.2,0.0,19.0,False,warm,False,,,False
+2025-03-28,15,1346,807,539,17.12,False,False,24.1,0.0,22.5,False,warm,False,,,False
+2025-03-28,16,1790,1058,732,15.37,False,True,23.9,0.0,23.4,False,warm,False,,,False
+2025-03-28,17,2020,1259,761,16.97,False,True,23.0,0.0,21.7,False,warm,False,,,False
+2025-03-28,18,1697,1000,697,17.39,False,True,22.4,0.0,21.0,False,warm,False,,,False
+2025-03-28,19,1203,707,496,15.05,False,False,21.1,0.0,20.5,False,warm,False,,,False
+2025-03-28,20,794,459,335,13.6,False,False,21.0,0.0,26.9,False,warm,False,,,False
+2025-03-28,21,575,332,243,13.07,False,False,20.3,0.0,28.8,False,warm,False,,,False
+2025-03-28,22,550,292,258,15.45,False,False,19.1,0.0,27.1,False,mild,False,,,False
+2025-03-28,23,483,238,245,13.55,False,False,18.5,0.0,27.9,False,mild,False,,,False
+2025-03-29,0,422,181,241,13.54,True,False,18.5,0.0,29.0,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-29,1,310,132,178,11.61,True,False,17.9,0.0,27.5,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-29,2,153,66,87,17.74,True,False,17.6,0.0,29.0,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-29,3,78,40,38,14.31,True,False,17.3,0.0,27.6,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-29,4,60,33,27,15.53,True,False,16.8,0.0,23.9,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-29,5,36,27,9,9.76,True,False,16.5,0.0,20.8,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-29,6,94,64,30,14.68,True,False,16.2,0.0,18.9,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-29,7,223,158,65,13.57,True,True,15.9,0.0,16.0,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-29,8,408,283,125,12.24,True,True,16.4,0.1,18.8,True,mild,True,Chicago Bulls Home Game,sports,True
+2025-03-29,9,661,457,204,13.8,True,True,16.5,0.2,18.7,True,mild,True,Chicago Bulls Home Game,sports,True
+2025-03-29,10,842,541,301,14.61,True,False,16.9,0.1,14.5,True,mild,True,Chicago Bulls Home Game,sports,True
+2025-03-29,11,1000,568,432,17.11,True,False,19.4,0.0,13.6,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-29,12,1240,715,525,18.28,True,False,20.3,0.0,18.3,False,warm,False,Chicago Bulls Home Game,sports,True
+2025-03-29,13,1243,691,552,19.13,True,False,20.1,0.1,19.1,True,warm,True,Chicago Bulls Home Game,sports,True
+2025-03-29,14,1322,725,597,18.43,True,False,20.0,0.0,17.8,False,warm,False,Chicago Bulls Home Game,sports,True
+2025-03-29,15,1388,769,619,17.61,True,False,19.5,0.2,17.1,True,mild,True,Chicago Bulls Home Game,sports,True
+2025-03-29,16,1112,647,465,14.77,True,True,19.0,0.0,17.8,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-29,17,766,464,302,13.7,True,True,19.7,0.0,15.1,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-29,18,631,403,228,11.69,True,True,18.4,0.0,14.7,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-29,19,500,329,171,11.41,True,False,18.0,0.0,15.5,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-29,20,282,176,106,11.03,True,False,14.6,0.0,10.7,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-29,21,144,85,59,12.15,True,False,14.1,0.0,6.8,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-29,22,131,75,56,12.58,True,False,12.4,0.0,3.2,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-29,23,112,82,30,8.82,True,False,11.6,0.0,4.2,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-03-30,0,87,52,35,8.59,True,False,12.9,0.0,6.6,False,mild,False,,,False
+2025-03-30,1,54,33,21,9.57,True,False,15.4,0.0,13.2,False,mild,False,,,False
+2025-03-30,2,72,42,30,8.29,True,False,15.5,0.6,12.4,True,mild,True,,,False
+2025-03-30,3,51,21,30,11.11,True,False,15.6,0.2,16.6,True,mild,True,,,False
+2025-03-30,4,52,25,27,9.35,True,False,15.5,0.1,13.9,True,mild,True,,,False
+2025-03-30,5,30,21,9,10.93,True,False,15.9,0.0,13.5,False,mild,False,,,False
+2025-03-30,6,85,62,23,10.0,True,False,15.8,0.0,14.2,False,mild,False,,,False
+2025-03-30,7,139,104,35,10.27,True,True,15.9,0.0,14.6,False,mild,False,,,False
+2025-03-30,8,246,180,66,12.48,True,True,16.3,0.1,17.4,True,mild,True,,,False
+2025-03-30,9,412,277,135,13.36,True,True,16.8,0.0,16.5,False,mild,False,,,False
+2025-03-30,10,588,393,195,14.7,True,False,17.2,0.0,22.6,False,mild,False,,,False
+2025-03-30,11,715,460,255,15.37,True,False,17.0,0.1,20.3,True,mild,True,,,False
+2025-03-30,12,924,543,381,15.65,True,False,18.6,0.1,18.6,True,mild,True,,,False
+2025-03-30,13,1028,627,401,16.17,True,False,21.4,0.0,17.0,False,warm,False,,,False
+2025-03-30,14,811,490,321,12.99,True,False,22.0,0.1,18.2,True,warm,True,,,False
+2025-03-30,15,241,189,52,11.83,True,False,20.0,2.5,23.8,True,warm,True,,,False
+2025-03-30,16,424,291,133,13.44,True,True,16.6,1.4,20.1,True,mild,True,,,False
+2025-03-30,17,522,338,184,14.85,True,True,17.1,0.2,19.4,True,mild,True,,,False
+2025-03-30,18,574,387,187,13.14,True,True,17.2,0.0,17.2,False,mild,False,,,False
+2025-03-30,19,420,292,128,11.66,True,False,16.2,0.0,19.6,False,mild,False,,,False
+2025-03-30,20,266,163,103,12.48,True,False,11.3,0.0,15.3,False,mild,False,,,False
+2025-03-30,21,200,144,56,9.88,True,False,9.7,0.0,15.2,False,mild,False,,,False
+2025-03-30,22,127,89,38,14.55,True,False,8.9,0.0,17.5,False,mild,False,,,False
+2025-03-30,23,91,56,35,8.58,True,False,7.7,0.0,19.6,False,mild,False,,,False
+2025-03-31,0,44,22,22,8.25,False,False,6.8,0.0,18.1,False,mild,False,,,False
+2025-03-31,1,25,11,14,8.26,False,False,6.3,0.2,15.4,True,mild,True,,,False
+2025-03-31,2,26,14,12,8.5,False,False,6.0,0.1,14.4,True,mild,True,,,False
+2025-03-31,3,14,6,8,10.89,False,False,5.8,0.1,16.2,True,mild,True,,,False
+2025-03-31,4,26,20,6,6.92,False,False,4.7,0.3,17.3,True,cold,True,,,False
+2025-03-31,5,83,64,19,9.76,False,False,3.5,0.1,14.5,True,cold,True,,,False
+2025-03-31,6,309,262,47,8.44,False,False,3.0,0.0,15.1,False,cold,True,,,False
+2025-03-31,7,556,489,67,9.3,False,True,2.5,0.0,15.9,False,cold,True,,,False
+2025-03-31,8,730,629,101,9.27,False,True,2.2,0.1,14.6,True,cold,True,,,False
+2025-03-31,9,434,362,72,7.9,False,True,2.0,0.0,18.2,False,cold,True,,,False
+2025-03-31,10,257,203,54,9.71,False,False,2.5,0.0,17.8,False,cold,True,,,False
+2025-03-31,11,349,275,74,10.58,False,False,3.3,0.0,14.7,False,cold,True,,,False
+2025-03-31,12,407,328,79,8.94,False,False,4.3,0.0,13.8,False,cold,True,,,False
+2025-03-31,13,406,312,94,9.17,False,False,5.2,0.0,11.9,False,mild,False,,,False
+2025-03-31,14,408,298,110,10.81,False,False,6.1,0.0,10.8,False,mild,False,,,False
+2025-03-31,15,643,492,151,9.58,False,False,6.4,0.0,9.1,False,mild,False,,,False
+2025-03-31,16,949,739,210,11.25,False,True,5.7,0.0,9.8,False,mild,False,,,False
+2025-03-31,17,1128,882,246,10.91,False,True,4.8,0.0,10.9,False,cold,True,,,False
+2025-03-31,18,803,636,167,10.35,False,True,3.7,0.0,9.3,False,cold,True,,,False
+2025-03-31,19,495,390,105,9.33,False,False,3.0,0.0,7.9,False,cold,True,,,False
+2025-03-31,20,260,221,39,9.9,False,False,2.0,0.0,9.0,False,cold,True,,,False
+2025-03-31,21,208,164,44,9.1,False,False,2.0,0.0,9.5,False,cold,True,,,False
+2025-03-31,22,139,102,37,7.7,False,False,1.8,0.0,9.0,False,cold,True,,,False
+2025-03-31,23,80,49,31,9.71,False,False,1.7,0.0,8.1,False,cold,True,,,False
+2025-04-01,0,39,19,20,9.62,False,False,1.6,0.0,7.7,False,cold,True,,,False
+2025-04-01,1,28,13,15,8.49,False,False,1.5,0.0,9.2,False,cold,True,,,False
+2025-04-01,2,20,13,7,10.33,False,False,1.4,0.0,10.6,False,cold,True,,,False
+2025-04-01,3,16,9,7,12.53,False,False,1.1,0.0,10.8,False,cold,True,,,False
+2025-04-01,4,30,22,8,8.09,False,False,0.9,0.0,11.7,False,cold,True,,,False
+2025-04-01,5,104,91,13,8.8,False,False,1.0,0.0,12.7,False,cold,True,,,False
+2025-04-01,6,388,337,51,8.96,False,False,0.9,0.0,13.3,False,cold,True,,,False
+2025-04-01,7,733,648,85,9.37,False,True,0.6,0.0,15.5,False,cold,True,,,False
+2025-04-01,8,984,842,142,9.2,False,True,1.1,0.0,12.2,False,cold,True,,,False
+2025-04-01,9,515,405,110,10.05,False,True,1.7,0.0,11.0,False,cold,True,,,False
+2025-04-01,10,362,311,51,10.48,False,False,2.2,0.0,11.7,False,cold,True,,,False
+2025-04-01,11,382,285,97,10.67,False,False,2.5,0.0,12.6,False,cold,True,,,False
+2025-04-01,12,472,360,112,9.59,False,False,2.7,0.0,13.2,False,cold,True,,,False
+2025-04-01,13,459,364,95,9.84,False,False,3.1,0.0,13.4,False,cold,True,,,False
+2025-04-01,14,434,329,105,10.44,False,False,3.8,0.0,13.2,False,cold,True,,,False
+2025-04-01,15,624,487,137,10.27,False,False,4.1,0.0,11.8,False,cold,True,,,False
+2025-04-01,16,1012,837,175,10.36,False,True,4.4,0.0,10.2,False,cold,True,,,False
+2025-04-01,17,1238,1033,205,11.73,False,True,4.1,0.0,11.7,False,cold,True,,,False
+2025-04-01,18,873,719,154,10.22,False,True,4.3,0.0,12.8,False,cold,True,,,False
+2025-04-01,19,499,408,91,9.97,False,False,5.6,0.0,18.4,False,mild,False,,,False
+2025-04-01,20,332,270,62,9.57,False,False,6.2,0.0,20.0,False,mild,False,,,False
+2025-04-01,21,267,220,47,9.15,False,False,6.1,0.0,22.1,False,mild,False,,,False
+2025-04-01,22,155,111,44,8.26,False,False,5.9,0.0,25.5,False,mild,False,,,False
+2025-04-01,23,95,71,24,9.14,False,False,5.9,0.0,22.9,False,mild,False,,,False
+2025-04-02,0,54,29,25,8.26,False,False,5.8,0.0,21.7,False,mild,False,,,False
+2025-04-02,1,24,15,9,7.26,False,False,5.8,0.0,21.1,False,mild,False,,,False
+2025-04-02,2,19,10,9,6.84,False,False,5.8,0.0,20.2,False,mild,False,,,False
+2025-04-02,3,13,5,8,11.47,False,False,5.6,0.0,22.9,False,mild,False,,,False
+2025-04-02,4,21,12,9,9.47,False,False,5.5,0.0,25.2,False,mild,False,,,False
+2025-04-02,5,43,39,4,7.64,False,False,5.4,1.5,26.5,True,mild,True,,,False
+2025-04-02,6,61,50,11,6.98,False,False,5.2,2.7,24.8,True,mild,True,,,False
+2025-04-02,7,167,145,22,8.27,False,True,5.6,4.8,19.3,True,mild,True,,,False
+2025-04-02,8,248,215,33,9.02,False,True,5.9,0.3,24.3,True,mild,True,,,False
+2025-04-02,9,155,121,34,6.79,False,True,6.8,0.0,16.2,False,mild,False,,,False
+2025-04-02,10,126,107,19,8.31,False,False,7.6,2.0,15.8,True,mild,True,,,False
+2025-04-02,11,74,58,16,6.99,False,False,8.5,3.1,18.0,True,mild,True,,,False
+2025-04-02,12,105,91,14,7.54,False,False,9.3,2.0,20.0,True,mild,True,,,False
+2025-04-02,13,145,126,19,7.57,False,False,11.1,0.9,19.0,True,mild,True,,,False
+2025-04-02,14,205,171,34,9.29,False,False,13.1,0.1,17.8,True,mild,True,,,False
+2025-04-02,15,512,413,99,10.51,False,False,16.9,2.2,17.0,True,mild,True,,,False
+2025-04-02,16,839,675,164,11.24,False,True,18.1,0.5,24.4,True,mild,True,,,False
+2025-04-02,17,1039,823,216,12.73,False,True,20.4,0.0,28.7,False,warm,False,,,False
+2025-04-02,18,752,613,139,11.55,False,True,20.7,0.0,28.8,False,warm,False,,,False
+2025-04-02,19,579,472,107,10.63,False,False,19.5,0.0,28.2,False,mild,False,,,False
+2025-04-02,20,401,308,93,10.49,False,False,19.2,0.0,22.4,False,mild,False,,,False
+2025-04-02,21,340,252,88,12.4,False,False,18.5,0.0,19.7,False,mild,False,,,False
+2025-04-02,22,259,156,103,10.34,False,False,18.1,0.0,19.8,False,mild,False,,,False
+2025-04-02,23,170,94,76,10.85,False,False,17.2,0.8,17.7,True,mild,True,,,False
+2025-04-03,0,113,56,57,12.31,False,False,15.6,0.1,17.5,True,mild,True,,,False
+2025-04-03,1,44,29,15,10.45,False,False,13.6,0.0,19.9,False,mild,False,,,False
+2025-04-03,2,40,20,20,15.19,False,False,12.3,0.0,20.1,False,mild,False,,,False
+2025-04-03,3,22,14,8,17.35,False,False,11.4,0.0,18.5,False,mild,False,,,False
+2025-04-03,4,22,11,11,8.36,False,False,10.6,0.0,18.6,False,mild,False,,,False
+2025-04-03,5,101,90,11,9.07,False,False,9.9,0.0,20.1,False,mild,False,,,False
+2025-04-03,6,410,340,70,9.03,False,False,9.4,0.0,20.5,False,mild,False,,,False
+2025-04-03,7,778,673,105,10.36,False,True,9.2,0.0,21.7,False,mild,False,,,False
+2025-04-03,8,1039,889,150,10.09,False,True,9.0,0.0,22.9,False,mild,False,,,False
+2025-04-03,9,619,473,146,11.07,False,True,9.1,0.0,22.8,False,mild,False,,,False
+2025-04-03,10,423,325,98,11.61,False,False,9.7,0.0,20.8,False,mild,False,,,False
+2025-04-03,11,457,377,80,10.32,False,False,10.3,0.0,20.4,False,mild,False,,,False
+2025-04-03,12,524,394,130,10.42,False,False,10.4,0.0,19.7,False,mild,False,,,False
+2025-04-03,13,524,384,140,11.01,False,False,10.2,0.0,18.6,False,mild,False,,,False
+2025-04-03,14,563,390,173,12.09,False,False,10.0,0.0,16.9,False,mild,False,,,False
+2025-04-03,15,788,604,184,11.12,False,False,9.9,0.0,13.9,False,mild,False,,,False
+2025-04-03,16,1138,877,261,11.59,False,True,9.7,0.0,12.6,False,mild,False,,,False
+2025-04-03,17,1464,1157,307,11.34,False,True,9.9,0.0,9.7,False,mild,False,,,False
+2025-04-03,18,1086,835,251,11.45,False,True,9.8,0.0,7.7,False,mild,False,,,False
+2025-04-03,19,707,528,179,11.29,False,False,9.1,0.0,5.4,False,mild,False,,,False
+2025-04-03,20,411,305,106,10.36,False,False,7.8,0.0,4.3,False,mild,False,,,False
+2025-04-03,21,361,255,106,11.51,False,False,7.5,0.0,2.7,False,mild,False,,,False
+2025-04-03,22,244,156,88,10.97,False,False,6.2,0.0,2.6,False,mild,False,,,False
+2025-04-03,23,167,103,64,10.67,False,False,5.8,0.0,3.7,False,mild,False,,,False
+2025-04-04,0,120,63,57,9.49,False,False,5.7,0.0,3.6,False,mild,False,,,False
+2025-04-04,1,67,34,33,15.03,False,False,5.8,0.0,5.1,False,mild,False,,,False
+2025-04-04,2,47,19,28,11.03,False,False,5.7,0.0,8.5,False,mild,False,,,False
+2025-04-04,3,26,12,14,10.22,False,False,5.0,0.0,10.8,False,mild,False,,,False
+2025-04-04,4,32,21,11,10.49,False,False,4.8,0.0,9.4,False,cold,True,,,False
+2025-04-04,5,109,93,16,8.76,False,False,4.8,0.0,10.2,False,cold,True,,,False
+2025-04-04,6,328,283,45,8.75,False,False,4.6,0.0,10.5,False,cold,True,,,False
+2025-04-04,7,583,483,100,9.92,False,True,4.4,0.0,11.8,False,cold,True,,,False
+2025-04-04,8,762,622,140,10.16,False,True,4.9,0.0,8.7,False,cold,True,,,False
+2025-04-04,9,512,402,110,10.18,False,True,5.8,0.0,10.7,False,mild,False,,,False
+2025-04-04,10,424,292,132,11.28,False,False,6.7,0.0,11.7,False,mild,False,,,False
+2025-04-04,11,630,456,174,11.15,False,False,7.3,0.0,9.9,False,mild,False,,,False
+2025-04-04,12,693,477,216,10.76,False,False,7.2,0.0,9.6,False,mild,False,,,False
+2025-04-04,13,611,435,176,10.16,False,False,6.8,0.0,9.9,False,mild,False,,,False
+2025-04-04,14,624,470,154,11.92,False,False,6.8,0.0,10.5,False,mild,False,,,False
+2025-04-04,15,779,578,201,11.4,False,False,6.5,0.0,11.3,False,mild,False,,,False
+2025-04-04,16,1002,714,288,10.37,False,True,6.8,0.0,13.0,False,mild,False,,,False
+2025-04-04,17,882,665,217,11.33,False,True,6.7,0.1,13.6,True,mild,True,,,False
+2025-04-04,18,674,499,175,11.25,False,True,6.3,0.2,11.2,True,mild,True,,,False
+2025-04-04,19,470,353,117,10.4,False,False,6.3,1.0,13.0,True,mild,True,,,False
+2025-04-04,20,315,237,78,9.66,False,False,6.2,0.4,15.9,True,mild,True,,,False
+2025-04-04,21,227,152,75,9.46,False,False,6.7,0.2,16.7,True,mild,True,,,False
+2025-04-04,22,103,70,33,10.04,False,False,6.8,0.3,14.7,True,mild,True,,,False
+2025-04-04,23,87,65,22,7.45,False,False,6.3,0.7,15.1,True,mild,True,,,False
+2025-04-05,0,60,39,21,8.44,True,False,5.9,0.8,17.1,True,mild,True,,,False
+2025-04-05,1,59,34,25,8.24,True,False,5.7,0.7,14.9,True,mild,True,,,False
+2025-04-05,2,32,19,13,8.32,True,False,5.5,2.1,15.9,True,mild,True,,,False
+2025-04-05,3,19,11,8,10.51,True,False,5.3,1.7,20.1,True,mild,True,,,False
+2025-04-05,4,18,7,11,7.05,True,False,5.6,0.1,19.5,True,mild,True,,,False
+2025-04-05,5,30,17,13,9.14,True,False,5.2,0.1,16.6,True,mild,True,,,False
+2025-04-05,6,103,70,33,13.36,True,False,5.0,0.0,18.1,False,mild,False,,,False
+2025-04-05,7,182,116,66,15.57,True,True,4.8,0.0,17.3,False,cold,True,,,False
+2025-04-05,8,307,196,111,12.12,True,True,5.1,0.0,15.0,False,mild,False,,,False
+2025-04-05,9,444,301,143,11.22,True,True,5.7,0.0,11.5,False,mild,False,,,False
+2025-04-05,10,585,419,166,12.08,True,False,6.6,0.0,11.7,False,mild,False,,,False
+2025-04-05,11,879,571,308,13.21,True,False,8.4,0.0,11.1,False,mild,False,,,False
+2025-04-05,12,909,575,334,13.97,True,False,9.4,0.0,11.4,False,mild,False,,,False
+2025-04-05,13,874,533,341,14.21,True,False,10.6,0.0,11.9,False,mild,False,,,False
+2025-04-05,14,858,552,306,14.83,True,False,10.4,0.0,10.0,False,mild,False,,,False
+2025-04-05,15,857,527,330,14.21,True,False,9.1,0.0,8.2,False,mild,False,,,False
+2025-04-05,16,1008,591,417,13.48,True,True,8.4,0.0,7.5,False,mild,False,,,False
+2025-04-05,17,813,512,301,13.99,True,True,8.1,0.0,5.3,False,mild,False,,,False
+2025-04-05,18,692,441,251,12.13,True,True,7.1,0.0,9.0,False,mild,False,,,False
+2025-04-05,19,519,341,178,11.65,True,False,5.5,0.0,6.8,False,mild,False,,,False
+2025-04-05,20,359,260,99,11.95,True,False,5.2,0.0,6.9,False,mild,False,,,False
+2025-04-05,21,292,192,100,10.41,True,False,4.9,0.0,6.9,False,cold,True,,,False
+2025-04-05,22,264,162,102,10.61,True,False,4.9,0.0,4.4,False,cold,True,,,False
+2025-04-05,23,369,201,168,10.88,True,False,4.6,0.0,4.7,False,cold,True,,,False
+2025-04-06,0,250,131,119,11.03,True,False,4.6,0.0,4.1,False,cold,True,,,False
+2025-04-06,1,151,91,60,9.39,True,False,5.2,0.0,12.9,False,mild,False,,,False
+2025-04-06,2,93,52,41,9.75,True,False,4.6,0.0,17.3,False,cold,True,,,False
+2025-04-06,3,50,29,21,8.81,True,False,4.1,0.0,14.4,False,cold,True,,,False
+2025-04-06,4,30,17,13,8.94,True,False,3.6,0.0,16.2,False,cold,True,,,False
+2025-04-06,5,21,14,7,7.51,True,False,3.1,0.0,15.3,False,cold,True,,,False
+2025-04-06,6,71,53,18,8.95,True,False,3.0,0.0,14.3,False,cold,True,,,False
+2025-04-06,7,157,120,37,11.42,True,True,2.8,0.0,13.5,False,cold,True,,,False
+2025-04-06,8,222,161,61,11.81,True,True,3.8,0.0,11.4,False,cold,True,,,False
+2025-04-06,9,387,261,126,12.11,True,True,4.4,0.0,10.9,False,cold,True,,,False
+2025-04-06,10,539,356,183,12.32,True,False,5.0,0.0,10.4,False,mild,False,,,False
+2025-04-06,11,725,457,268,14.12,True,False,5.2,0.0,9.5,False,mild,False,,,False
+2025-04-06,12,888,558,330,14.89,True,False,6.0,0.0,8.9,False,mild,False,,,False
+2025-04-06,13,830,529,301,14.69,True,False,6.1,0.0,8.5,False,mild,False,,,False
+2025-04-06,14,824,506,318,14.35,True,False,6.2,0.0,7.8,False,mild,False,,,False
+2025-04-06,15,767,455,312,15.09,True,False,6.1,0.0,7.9,False,mild,False,,,False
+2025-04-06,16,822,539,283,13.69,True,True,5.8,0.0,8.9,False,mild,False,,,False
+2025-04-06,17,644,412,232,13.22,True,True,5.6,0.0,7.7,False,mild,False,,,False
+2025-04-06,18,604,416,188,12.13,True,True,5.2,0.0,6.2,False,mild,False,,,False
+2025-04-06,19,402,287,115,10.95,True,False,4.7,0.0,6.3,False,cold,True,,,False
+2025-04-06,20,253,182,71,10.48,True,False,4.1,0.0,6.6,False,cold,True,,,False
+2025-04-06,21,192,127,65,10.44,True,False,3.7,0.0,5.2,False,cold,True,,,False
+2025-04-06,22,143,108,35,9.16,True,False,3.5,0.0,5.2,False,cold,True,,,False
+2025-04-06,23,71,46,25,9.32,True,False,3.5,0.0,8.4,False,cold,True,,,False
+2025-04-07,0,49,28,21,7.23,False,False,3.4,0.0,11.9,False,cold,True,,,False
+2025-04-07,1,20,14,6,7.24,False,False,3.1,0.0,12.6,False,cold,True,,,False
+2025-04-07,2,17,11,6,7.07,False,False,2.8,0.0,13.2,False,cold,True,,,False
+2025-04-07,3,18,12,6,9.25,False,False,2.7,0.0,13.6,False,cold,True,,,False
+2025-04-07,4,29,20,9,7.79,False,False,2.5,0.0,14.5,False,cold,True,,,False
+2025-04-07,5,115,99,16,9.11,False,False,2.8,0.0,16.9,False,cold,True,,,False
+2025-04-07,6,358,304,54,8.49,False,False,3.1,0.0,17.7,False,cold,True,,,False
+2025-04-07,7,690,601,89,9.52,False,True,3.4,0.0,15.6,False,cold,True,,,False
+2025-04-07,8,815,690,125,9.46,False,True,5.4,0.0,13.4,False,mild,False,,,False
+2025-04-07,9,462,381,81,9.52,False,True,5.8,0.0,22.1,False,mild,False,,,False
+2025-04-07,10,314,239,75,8.52,False,False,4.6,0.0,24.7,False,cold,True,,,False
+2025-04-07,11,221,178,43,8.14,False,False,3.9,0.1,24.7,True,cold,True,,,False
+2025-04-07,12,268,216,52,7.72,False,False,2.2,0.3,27.4,True,cold,True,,,False
+2025-04-07,13,277,228,49,8.65,False,False,1.9,0.2,27.4,True,cold,True,,,False
+2025-04-07,14,364,279,85,9.1,False,False,2.0,0.1,27.0,True,cold,True,,,False
+2025-04-07,15,508,416,92,8.82,False,False,2.5,0.0,25.1,False,cold,True,,,False
+2025-04-07,16,792,655,137,9.06,False,True,1.8,0.0,22.5,False,cold,True,,,False
+2025-04-07,17,966,806,160,10.09,False,True,1.5,0.0,23.9,False,cold,True,,,False
+2025-04-07,18,677,583,94,9.11,False,True,0.6,0.0,22.3,False,cold,True,,,False
+2025-04-07,19,437,360,77,8.55,False,False,0.2,0.0,21.9,False,cold,True,,,False
+2025-04-07,20,284,230,54,8.81,False,False,-0.1,0.0,17.3,False,cold,True,,,False
+2025-04-07,21,202,161,41,8.62,False,False,0.0,0.0,17.1,False,cold,True,,,False
+2025-04-07,22,181,139,42,8.23,False,False,0.1,0.0,17.2,False,cold,True,,,False
+2025-04-07,23,72,46,26,10.19,False,False,-0.2,0.0,18.1,False,cold,True,,,False
+2025-04-08,0,48,30,18,7.74,False,False,0.0,0.0,17.6,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,1,23,12,11,7.26,False,False,-0.2,0.0,16.3,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,2,10,4,6,5.17,False,False,-0.4,0.0,15.7,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,3,11,5,6,11.86,False,False,-0.8,0.0,15.3,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,4,27,18,9,8.64,False,False,-1.2,0.0,14.1,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,5,102,80,22,7.48,False,False,-1.6,0.0,12.3,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,6,333,288,45,8.28,False,False,-2.1,0.0,10.5,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,7,706,622,84,9.05,False,True,-2.3,0.0,9.4,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,8,942,820,122,9.61,False,True,-1.5,0.0,9.0,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,9,503,435,68,8.22,False,True,-0.5,0.0,7.3,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,10,309,247,62,9.6,False,False,0.3,0.0,5.4,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,11,366,293,73,10.19,False,False,1.4,0.0,5.5,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,12,466,370,96,9.95,False,False,2.4,0.0,4.9,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,13,471,361,110,9.83,False,False,3.2,0.0,3.9,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,14,458,349,109,10.54,False,False,3.6,0.0,4.0,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,15,648,506,142,10.83,False,False,3.3,0.0,7.8,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,16,1020,822,198,10.28,False,True,3.1,0.0,9.5,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,17,1285,1049,236,11.1,False,True,2.8,0.0,10.9,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,18,922,743,179,10.57,False,True,2.2,0.0,10.8,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,19,536,426,110,9.75,False,False,1.4,0.0,11.0,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,20,354,286,68,8.95,False,False,1.5,0.0,8.7,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,21,273,205,68,9.36,False,False,2.0,0.0,8.4,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,22,185,148,37,8.78,False,False,2.0,0.0,9.0,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-08,23,96,69,27,7.75,False,False,2.0,0.0,8.8,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-09,0,38,21,17,7.04,False,False,1.9,0.0,9.3,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-09,1,27,14,13,12.1,False,False,1.4,0.0,10.0,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-09,2,14,6,8,10.78,False,False,0.8,0.0,10.3,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-09,3,19,11,8,12.23,False,False,0.4,0.0,10.2,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-09,4,19,13,6,10.26,False,False,0.3,0.0,10.7,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-09,5,111,95,16,7.68,False,False,0.2,0.0,10.7,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-09,6,363,321,42,8.5,False,False,0.3,0.0,11.5,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-09,7,765,650,115,9.5,False,True,0.8,0.0,11.7,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-09,8,1003,854,149,9.68,False,True,2.0,0.0,12.6,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-09,9,517,428,89,8.69,False,True,2.8,0.0,12.2,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-09,10,316,261,55,9.02,False,False,4.4,0.0,12.8,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-09,11,351,289,62,8.15,False,False,4.6,0.0,11.8,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-09,12,401,304,97,8.41,False,False,5.7,0.0,13.8,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-04-09,13,425,340,85,8.46,False,False,6.2,0.0,15.4,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-04-09,14,383,288,95,9.57,False,False,7.3,0.0,16.7,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-04-09,15,613,463,150,10.0,False,False,7.7,0.0,18.6,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-04-09,16,887,722,165,9.25,False,True,6.8,0.0,16.6,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-04-09,17,732,601,131,10.31,False,True,5.3,0.4,12.8,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-04-09,18,436,372,64,8.93,False,True,5.0,0.4,11.7,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-04-09,19,276,232,44,10.03,False,False,5.0,0.2,10.7,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-04-09,20,175,144,31,9.94,False,False,3.4,0.4,12.8,True,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-09,21,191,161,30,9.71,False,False,3.3,0.5,13.0,True,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-09,22,160,121,39,9.0,False,False,3.4,0.3,12.8,True,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-09,23,90,60,30,8.67,False,False,3.4,0.0,10.8,False,cold,True,Chicago Cubs Home Game,sports,True
+2025-04-10,0,79,46,33,11.35,False,False,2.8,0.0,7.6,False,cold,True,,,False
+2025-04-10,1,29,22,7,10.3,False,False,3.0,0.0,6.2,False,cold,True,,,False
+2025-04-10,2,19,13,6,8.46,False,False,2.8,0.0,7.4,False,cold,True,,,False
+2025-04-10,3,20,8,12,11.33,False,False,2.7,0.0,9.2,False,cold,True,,,False
+2025-04-10,4,30,23,7,10.13,False,False,2.5,0.0,9.9,False,cold,True,,,False
+2025-04-10,5,89,75,14,7.8,False,False,2.2,0.0,11.0,False,cold,True,,,False
+2025-04-10,6,360,313,47,8.34,False,False,2.2,0.0,11.6,False,cold,True,,,False
+2025-04-10,7,792,669,123,9.35,False,True,2.5,0.0,11.3,False,cold,True,,,False
+2025-04-10,8,943,803,140,9.37,False,True,3.4,0.0,12.5,False,cold,True,,,False
+2025-04-10,9,539,434,105,8.53,False,True,3.3,0.0,12.1,False,cold,True,,,False
+2025-04-10,10,400,321,79,9.67,False,False,3.4,0.0,12.3,False,cold,True,,,False
+2025-04-10,11,392,325,67,9.56,False,False,3.8,0.0,11.7,False,cold,True,,,False
+2025-04-10,12,495,371,124,8.6,False,False,4.0,0.0,11.2,False,cold,True,,,False
+2025-04-10,13,432,333,99,9.95,False,False,4.7,0.0,10.7,False,cold,True,,,False
+2025-04-10,14,498,364,134,10.26,False,False,5.2,0.0,10.9,False,mild,False,,,False
+2025-04-10,15,696,535,161,10.27,False,False,5.5,0.0,12.1,False,mild,False,,,False
+2025-04-10,16,1014,833,181,9.78,False,True,4.9,0.0,14.7,False,cold,True,,,False
+2025-04-10,17,1296,1046,250,10.84,False,True,4.6,0.0,17.2,False,cold,True,,,False
+2025-04-10,18,878,694,184,10.5,False,True,4.4,0.0,17.3,False,cold,True,,,False
+2025-04-10,19,614,478,136,9.6,False,False,4.0,0.0,12.8,False,cold,True,,,False
+2025-04-10,20,352,277,75,10.26,False,False,3.2,0.0,10.3,False,cold,True,,,False
+2025-04-10,21,268,200,68,8.98,False,False,3.2,0.0,11.1,False,cold,True,,,False
+2025-04-10,22,204,149,55,9.27,False,False,3.0,0.0,13.6,False,cold,True,,,False
+2025-04-10,23,139,102,37,9.09,False,False,3.1,0.0,14.3,False,cold,True,,,False
+2025-04-11,0,94,55,39,9.32,False,False,3.2,0.0,13.1,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-11,1,59,31,28,8.19,False,False,3.2,0.0,11.5,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-11,2,26,12,14,10.87,False,False,3.1,0.0,10.5,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-11,3,23,17,6,8.18,False,False,3.2,0.0,7.4,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-11,4,30,21,9,10.71,False,False,3.0,0.0,7.6,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-11,5,104,83,21,7.8,False,False,2.6,0.0,8.3,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-11,6,327,267,60,8.54,False,False,2.3,0.0,10.3,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-11,7,574,474,100,9.22,False,True,2.5,0.0,10.8,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-11,8,707,578,129,10.18,False,True,3.9,0.0,9.0,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-11,9,504,395,109,8.8,False,True,4.8,0.0,9.8,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-11,10,451,336,115,9.88,False,False,5.8,0.0,11.7,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-11,11,527,384,143,12.1,False,False,6.4,0.0,13.8,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-11,12,620,448,172,11.65,False,False,6.7,0.0,14.1,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-11,13,732,498,234,11.91,False,False,6.9,0.0,12.7,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-11,14,749,521,228,12.34,False,False,7.3,0.0,10.6,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-11,15,939,659,280,12.76,False,False,7.8,0.0,9.7,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-11,16,1130,790,340,12.28,False,True,7.9,0.0,8.7,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-11,17,1284,933,351,12.58,False,True,7.8,0.0,5.4,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-11,18,1117,793,324,11.98,False,True,7.2,0.0,4.4,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-11,19,674,481,193,11.19,False,False,6.2,0.0,1.6,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-11,20,396,285,111,9.6,False,False,5.7,0.0,1.1,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-11,21,337,239,98,9.51,False,False,5.1,0.0,1.1,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-11,22,280,178,102,10.7,False,False,4.4,0.0,1.1,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-11,23,207,127,80,9.52,False,False,3.6,0.0,3.6,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-12,0,217,122,95,8.64,True,False,3.3,0.0,5.2,False,cold,True,,,False
+2025-04-12,1,141,91,50,9.64,True,False,3.2,0.0,5.9,False,cold,True,,,False
+2025-04-12,2,90,43,47,9.57,True,False,2.7,0.0,5.9,False,cold,True,,,False
+2025-04-12,3,63,38,25,13.13,True,False,2.3,0.0,5.9,False,cold,True,,,False
+2025-04-12,4,33,18,15,10.4,True,False,1.5,0.0,4.7,False,cold,True,,,False
+2025-04-12,5,22,18,4,12.67,True,False,0.9,0.0,3.9,False,cold,True,,,False
+2025-04-12,6,87,59,28,9.6,True,False,0.7,0.0,4.6,False,cold,True,,,False
+2025-04-12,7,191,143,48,10.51,True,True,1.7,0.0,4.4,False,cold,True,,,False
+2025-04-12,8,345,241,104,12.56,True,True,3.3,0.0,4.8,False,cold,True,,,False
+2025-04-12,9,624,429,195,13.07,True,True,5.6,0.0,0.9,False,mild,False,,,False
+2025-04-12,10,958,597,361,15.33,True,False,8.1,0.0,0.7,False,mild,False,,,False
+2025-04-12,11,1093,602,491,18.13,True,False,10.2,0.0,1.1,False,mild,False,,,False
+2025-04-12,12,1211,687,524,18.7,True,False,11.5,0.0,3.4,False,mild,False,,,False
+2025-04-12,13,1324,694,630,18.27,True,False,12.2,0.0,5.2,False,mild,False,,,False
+2025-04-12,14,1195,651,544,17.55,True,False,12.3,0.0,9.5,False,mild,False,,,False
+2025-04-12,15,1248,681,567,17.5,True,False,12.2,0.0,12.2,False,mild,False,,,False
+2025-04-12,16,1105,628,477,15.61,True,True,11.9,0.0,13.0,False,mild,False,,,False
+2025-04-12,17,988,565,423,15.79,True,True,11.2,0.0,13.4,False,mild,False,,,False
+2025-04-12,18,953,537,416,14.94,True,True,10.1,0.0,14.0,False,mild,False,,,False
+2025-04-12,19,611,392,219,11.95,True,False,8.9,0.0,12.9,False,mild,False,,,False
+2025-04-12,20,405,265,140,12.82,True,False,9.8,0.0,12.2,False,mild,False,,,False
+2025-04-12,21,384,225,159,12.07,True,False,9.6,0.0,13.1,False,mild,False,,,False
+2025-04-12,22,294,174,120,11.54,True,False,9.4,0.3,11.3,True,mild,True,,,False
+2025-04-12,23,295,174,121,12.06,True,False,9.5,0.0,11.7,False,mild,False,,,False
+2025-04-13,0,305,164,141,14.21,True,False,9.6,0.0,11.8,False,mild,False,,,False
+2025-04-13,1,188,91,97,12.42,True,False,9.2,0.0,11.5,False,mild,False,,,False
+2025-04-13,2,139,72,67,11.78,True,False,8.7,0.3,11.0,True,mild,True,,,False
+2025-04-13,3,68,33,35,10.65,True,False,8.1,0.3,12.5,True,mild,True,,,False
+2025-04-13,4,48,21,27,13.55,True,False,7.6,0.1,16.5,True,mild,True,,,False
+2025-04-13,5,39,27,12,11.53,True,False,7.8,0.0,16.3,False,mild,False,,,False
+2025-04-13,6,86,52,34,14.39,True,False,7.8,0.0,16.4,False,mild,False,,,False
+2025-04-13,7,175,115,60,11.35,True,True,7.8,0.0,16.5,False,mild,False,,,False
+2025-04-13,8,309,220,89,14.42,True,True,10.2,0.0,17.5,False,mild,False,,,False
+2025-04-13,9,494,332,162,13.76,True,True,11.1,0.0,17.4,False,mild,False,,,False
+2025-04-13,10,736,494,242,14.34,True,False,13.1,0.0,17.4,False,mild,False,,,False
+2025-04-13,11,849,526,323,15.85,True,False,15.0,0.0,17.4,False,mild,False,,,False
+2025-04-13,12,1013,619,394,15.06,True,False,16.2,0.0,19.1,False,mild,False,,,False
+2025-04-13,13,1027,567,460,17.28,True,False,16.6,0.0,20.8,False,mild,False,,,False
+2025-04-13,14,1120,591,529,16.98,True,False,16.5,0.0,20.3,False,mild,False,,,False
+2025-04-13,15,1056,529,527,18.33,True,False,15.7,0.0,21.0,False,mild,False,,,False
+2025-04-13,16,886,530,356,15.98,True,True,16.2,0.0,19.3,False,mild,False,,,False
+2025-04-13,17,1086,543,543,16.52,True,True,14.9,0.0,21.3,False,mild,False,,,False
+2025-04-13,18,1128,552,576,16.76,True,True,14.4,0.0,17.4,False,mild,False,,,False
+2025-04-13,19,703,433,270,13.42,True,False,14.1,0.0,16.7,False,mild,False,,,False
+2025-04-13,20,443,276,167,14.52,True,False,13.9,0.0,15.2,False,mild,False,,,False
+2025-04-13,21,240,135,105,12.8,True,False,13.2,0.0,16.4,False,mild,False,,,False
+2025-04-13,22,216,125,91,12.92,True,False,13.1,0.0,14.0,False,mild,False,,,False
+2025-04-13,23,141,72,69,13.21,True,False,13.5,0.0,13.5,False,mild,False,,,False
+2025-04-14,0,97,57,40,11.73,False,False,13.4,0.0,12.2,False,mild,False,,,False
+2025-04-14,1,48,18,30,17.91,False,False,13.0,0.0,11.2,False,mild,False,,,False
+2025-04-14,2,38,20,18,9.74,False,False,12.6,0.0,11.4,False,mild,False,,,False
+2025-04-14,3,30,18,12,17.06,False,False,12.4,0.0,9.6,False,mild,False,,,False
+2025-04-14,4,41,29,12,9.94,False,False,12.1,0.0,11.2,False,mild,False,,,False
+2025-04-14,5,137,117,20,11.06,False,False,12.4,0.0,14.7,False,mild,False,,,False
+2025-04-14,6,439,375,64,9.44,False,False,12.4,0.0,16.0,False,mild,False,,,False
+2025-04-14,7,864,749,115,10.97,False,True,12.6,0.0,17.0,False,mild,False,,,False
+2025-04-14,8,1023,865,158,10.64,False,True,14.4,0.0,15.1,False,mild,False,,,False
+2025-04-14,9,628,499,129,11.32,False,True,14.9,0.0,15.9,False,mild,False,,,False
+2025-04-14,10,473,320,153,15.34,False,False,15.8,0.0,20.1,False,mild,False,,,False
+2025-04-14,11,564,395,169,13.16,False,False,15.6,0.0,21.6,False,mild,False,,,False
+2025-04-14,12,759,508,251,14.68,False,False,16.0,0.0,22.7,False,mild,False,,,False
+2025-04-14,13,657,422,235,16.38,False,False,16.0,0.0,23.2,False,mild,False,,,False
+2025-04-14,14,778,520,258,13.86,False,False,16.4,0.0,23.0,False,mild,False,,,False
+2025-04-14,15,1033,712,321,14.75,False,False,17.0,0.0,27.2,False,mild,False,,,False
+2025-04-14,16,1490,1100,390,14.04,False,True,17.1,0.0,26.7,False,mild,False,,,False
+2025-04-14,17,1831,1356,475,13.8,False,True,18.0,0.0,25.2,False,mild,False,,,False
+2025-04-14,18,1253,937,316,13.87,False,True,16.0,0.0,23.8,False,mild,False,,,False
+2025-04-14,19,790,573,217,13.13,False,False,14.1,0.0,25.3,False,mild,False,,,False
+2025-04-14,20,525,376,149,10.91,False,False,13.6,0.0,19.3,False,mild,False,,,False
+2025-04-14,21,322,242,80,10.74,False,False,12.4,0.0,19.9,False,mild,False,,,False
+2025-04-14,22,194,132,62,10.94,False,False,11.4,0.0,19.7,False,mild,False,,,False
+2025-04-14,23,105,56,49,9.2,False,False,10.6,0.0,19.6,False,mild,False,,,False
+2025-04-15,0,70,39,31,8.45,False,False,9.8,0.0,19.5,False,mild,False,,,False
+2025-04-15,1,39,23,16,9.52,False,False,8.9,0.0,21.2,False,mild,False,,,False
+2025-04-15,2,29,16,13,7.95,False,False,7.8,0.0,21.7,False,mild,False,,,False
+2025-04-15,3,17,12,5,10.67,False,False,6.9,0.0,22.3,False,mild,False,,,False
+2025-04-15,4,34,21,13,7.52,False,False,6.2,0.0,23.5,False,mild,False,,,False
+2025-04-15,5,106,89,17,8.12,False,False,5.8,0.1,24.1,True,mild,True,,,False
+2025-04-15,6,257,221,36,8.91,False,False,4.9,0.5,25.5,True,cold,True,,,False
+2025-04-15,7,639,553,86,9.43,False,True,4.4,0.1,25.4,True,cold,True,,,False
+2025-04-15,8,971,821,150,9.89,False,True,4.9,0.2,23.1,True,cold,True,,,False
+2025-04-15,9,562,458,104,8.23,False,True,6.1,0.2,28.1,True,mild,True,,,False
+2025-04-15,10,341,274,67,11.46,False,False,6.4,0.1,26.6,True,mild,True,,,False
+2025-04-15,11,438,338,100,9.3,False,False,7.6,0.0,24.5,False,mild,False,,,False
+2025-04-15,12,561,443,118,11.15,False,False,8.8,0.0,24.0,False,mild,False,,,False
+2025-04-15,13,532,398,134,10.94,False,False,9.4,0.0,23.0,False,mild,False,,,False
+2025-04-15,14,569,424,145,11.61,False,False,10.1,0.0,23.7,False,mild,False,,,False
+2025-04-15,15,818,599,219,12.18,False,False,10.2,0.0,23.0,False,mild,False,,,False
+2025-04-15,16,1278,1020,258,11.17,False,True,10.5,0.0,23.6,False,mild,False,,,False
+2025-04-15,17,1686,1330,356,11.81,False,True,10.3,0.0,23.1,False,mild,False,,,False
+2025-04-15,18,1133,866,267,11.48,False,True,10.4,0.0,18.5,False,mild,False,,,False
+2025-04-15,19,764,604,160,10.49,False,False,10.1,0.0,16.2,False,mild,False,,,False
+2025-04-15,20,464,357,107,10.15,False,False,10.6,0.0,9.3,False,mild,False,,,False
+2025-04-15,21,380,292,88,9.39,False,False,9.1,0.0,4.9,False,mild,False,,,False
+2025-04-15,22,218,147,71,9.27,False,False,8.0,0.0,4.7,False,mild,False,,,False
+2025-04-15,23,110,71,39,8.86,False,False,7.6,0.0,6.6,False,mild,False,,,False
+2025-04-16,0,73,41,32,8.52,False,False,6.3,0.0,11.4,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-16,1,47,23,24,8.53,False,False,5.0,0.0,15.7,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-16,2,17,9,8,6.04,False,False,4.1,0.0,13.6,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-16,3,23,14,9,8.23,False,False,3.5,0.0,13.0,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-16,4,44,31,13,6.73,False,False,3.2,0.0,11.5,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-16,5,144,115,29,8.36,False,False,3.0,0.0,9.2,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-16,6,407,352,55,8.75,False,False,2.5,0.0,8.1,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-16,7,822,717,105,10.13,False,True,2.5,0.0,7.0,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-16,8,1140,954,186,10.25,False,True,4.2,0.0,6.7,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-16,9,634,498,136,9.17,False,True,5.0,0.0,6.5,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-16,10,462,351,111,12.09,False,False,5.8,0.0,6.0,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-16,11,516,387,129,11.92,False,False,6.7,0.0,5.9,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-16,12,597,431,166,12.72,False,False,7.2,0.0,8.8,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-16,13,597,442,155,11.26,False,False,7.0,0.0,11.2,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-16,14,542,401,141,11.27,False,False,6.9,0.0,11.4,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-16,15,882,670,212,11.0,False,False,6.9,0.0,10.8,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-16,16,1323,1054,269,11.09,False,True,6.8,0.0,10.4,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-16,17,1487,1162,325,12.01,False,True,6.3,0.0,10.5,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-16,18,1090,861,229,11.23,False,True,5.4,0.0,9.9,False,mild,False,Chicago Bulls Home Game,sports,True
+2025-04-16,19,638,483,155,9.66,False,False,4.5,0.0,9.2,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-16,20,424,319,105,9.14,False,False,4.7,0.0,9.2,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-16,21,404,300,104,8.89,False,False,4.4,0.0,8.3,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-16,22,186,137,49,9.0,False,False,4.3,0.0,8.1,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-16,23,125,80,45,9.2,False,False,4.3,0.0,9.2,False,cold,True,Chicago Bulls Home Game,sports,True
+2025-04-17,0,61,34,27,7.36,False,False,4.2,0.0,9.8,False,cold,True,,,False
+2025-04-17,1,34,22,12,9.14,False,False,4.2,0.0,10.7,False,cold,True,,,False
+2025-04-17,2,16,9,7,8.0,False,False,4.4,0.0,11.0,False,cold,True,,,False
+2025-04-17,3,20,12,8,8.55,False,False,4.5,0.0,11.4,False,cold,True,,,False
+2025-04-17,4,26,15,11,10.96,False,False,4.7,0.0,11.7,False,cold,True,,,False
+2025-04-17,5,145,114,31,8.39,False,False,4.9,0.0,13.8,False,cold,True,,,False
+2025-04-17,6,388,322,66,9.03,False,False,5.2,0.0,14.4,False,mild,False,,,False
+2025-04-17,7,859,728,131,10.31,False,True,6.1,0.0,15.5,False,mild,False,,,False
+2025-04-17,8,1119,922,197,9.94,False,True,8.6,0.0,17.1,False,mild,False,,,False
+2025-04-17,9,747,579,168,9.78,False,True,10.1,0.0,15.2,False,mild,False,,,False
+2025-04-17,10,541,406,135,12.71,False,False,12.8,0.0,16.1,False,mild,False,,,False
+2025-04-17,11,640,443,197,14.44,False,False,15.4,0.0,16.5,False,mild,False,,,False
+2025-04-17,12,688,471,217,13.03,False,False,17.5,0.0,19.1,False,mild,False,,,False
+2025-04-17,13,640,423,217,14.13,False,False,19.0,0.0,20.7,False,mild,False,,,False
+2025-04-17,14,684,440,244,14.22,False,False,19.5,0.0,20.9,False,mild,False,,,False
+2025-04-17,15,962,682,280,12.08,False,False,20.1,0.0,21.0,False,warm,False,,,False
+2025-04-17,16,800,622,178,10.48,False,True,18.2,0.0,22.0,False,mild,False,,,False
+2025-04-17,17,1110,884,226,11.82,False,True,18.0,0.0,24.7,False,mild,False,,,False
+2025-04-17,18,966,735,231,10.93,False,True,17.1,0.0,23.3,False,mild,False,,,False
+2025-04-17,19,693,528,165,10.48,False,False,16.2,0.0,24.1,False,mild,False,,,False
+2025-04-17,20,459,338,121,10.44,False,False,13.0,0.6,22.8,True,mild,True,,,False
+2025-04-17,21,395,286,109,10.73,False,False,13.6,0.0,22.9,False,mild,False,,,False
+2025-04-17,22,322,209,113,9.59,False,False,13.9,0.0,22.8,False,mild,False,,,False
+2025-04-17,23,193,123,70,11.03,False,False,13.6,0.0,21.8,False,mild,False,,,False
+2025-04-18,0,109,55,54,9.24,False,False,14.0,0.0,22.9,False,mild,False,,,False
+2025-04-18,1,74,45,29,9.87,False,False,15.1,0.0,23.6,False,mild,False,,,False
+2025-04-18,2,47,22,25,10.52,False,False,15.7,0.0,22.6,False,mild,False,,,False
+2025-04-18,3,32,26,6,13.11,False,False,15.7,0.0,21.8,False,mild,False,,,False
+2025-04-18,4,36,22,14,13.24,False,False,15.6,0.0,19.6,False,mild,False,,,False
+2025-04-18,5,109,85,24,10.44,False,False,15.1,0.1,23.1,True,mild,True,,,False
+2025-04-18,6,315,233,82,9.72,False,False,15.2,0.4,22.9,True,mild,True,,,False
+2025-04-18,7,551,443,108,11.31,False,True,15.8,0.0,25.4,False,mild,False,,,False
+2025-04-18,8,782,603,179,11.14,False,True,17.1,0.0,15.3,False,mild,False,,,False
+2025-04-18,9,717,536,181,12.97,False,True,18.5,0.0,19.6,False,mild,False,,,False
+2025-04-18,10,714,426,288,15.95,False,False,20.9,0.0,18.8,False,warm,False,,,False
+2025-04-18,11,936,549,387,16.84,False,False,23.0,0.0,19.9,False,warm,False,,,False
+2025-04-18,12,1306,760,546,15.86,False,False,25.5,0.0,25.2,False,warm,False,,,False
+2025-04-18,13,1169,664,505,17.13,False,False,25.5,0.0,22.0,False,warm,False,,,False
+2025-04-18,14,1257,709,548,17.58,False,False,25.5,0.0,21.7,False,warm,False,,,False
+2025-04-18,15,1324,821,503,15.34,False,False,27.0,0.0,23.6,False,warm,False,,,False
+2025-04-18,16,1616,960,656,16.32,False,True,25.8,0.0,26.9,False,warm,False,,,False
+2025-04-18,17,1676,999,677,15.04,False,True,24.2,0.0,20.1,False,warm,False,,,False
+2025-04-18,18,1370,862,508,13.91,False,True,23.4,0.1,17.3,True,warm,True,,,False
+2025-04-18,19,1084,640,444,13.88,False,False,22.5,0.0,22.6,False,warm,False,,,False
+2025-04-18,20,705,412,293,14.07,False,False,22.1,0.0,22.0,False,warm,False,,,False
+2025-04-18,21,562,330,232,14.5,False,False,21.0,0.1,19.7,True,warm,True,,,False
+2025-04-18,22,449,243,206,12.91,False,False,20.3,0.0,19.1,False,warm,False,,,False
+2025-04-18,23,165,90,75,12.52,False,False,19.4,0.0,21.0,False,mild,False,,,False
+2025-04-19,0,262,133,129,11.27,True,False,17.9,0.1,19.9,True,mild,True,,,False
+2025-04-19,1,119,56,63,10.62,True,False,16.4,0.6,21.7,True,mild,True,,,False
+2025-04-19,2,128,69,59,11.0,True,False,14.9,0.0,21.8,False,mild,False,,,False
+2025-04-19,3,70,44,26,13.51,True,False,14.1,0.0,18.9,False,mild,False,,,False
+2025-04-19,4,28,20,8,8.14,True,False,13.8,0.0,12.9,False,mild,False,,,False
+2025-04-19,5,34,21,13,15.66,True,False,11.0,0.0,12.6,False,mild,False,,,False
+2025-04-19,6,81,60,21,10.95,True,False,7.5,0.0,13.6,False,mild,False,,,False
+2025-04-19,7,161,114,47,9.69,True,True,6.8,0.1,9.3,True,mild,True,,,False
+2025-04-19,8,309,228,81,10.95,True,True,7.1,0.0,9.7,False,mild,False,,,False
+2025-04-19,9,456,304,152,12.05,True,True,7.2,0.0,7.0,False,mild,False,,,False
+2025-04-19,10,636,442,194,12.43,True,False,7.6,0.0,4.7,False,mild,False,,,False
+2025-04-19,11,727,474,253,13.72,True,False,8.6,0.0,2.7,False,mild,False,,,False
+2025-04-19,12,880,529,351,14.05,True,False,9.6,0.0,3.2,False,mild,False,,,False
+2025-04-19,13,867,534,333,16.21,True,False,10.8,0.0,4.9,False,mild,False,,,False
+2025-04-19,14,856,491,365,16.35,True,False,11.1,0.0,7.7,False,mild,False,,,False
+2025-04-19,15,982,563,419,15.13,True,False,11.4,0.0,9.0,False,mild,False,,,False
+2025-04-19,16,1090,645,445,14.27,True,True,11.9,0.0,8.0,False,mild,False,,,False
+2025-04-19,17,931,551,380,16.08,True,True,11.8,0.0,11.0,False,mild,False,,,False
+2025-04-19,18,878,519,359,14.89,True,True,11.4,0.0,9.3,False,mild,False,,,False
+2025-04-19,19,637,417,220,12.74,True,False,9.4,0.0,10.8,False,mild,False,,,False
+2025-04-19,20,396,250,146,11.21,True,False,10.2,0.0,7.9,False,mild,False,,,False
+2025-04-19,21,378,209,169,13.54,True,False,9.1,0.0,9.4,False,mild,False,,,False
+2025-04-19,22,331,188,143,11.14,True,False,9.1,0.0,9.7,False,mild,False,,,False
+2025-04-19,23,248,136,112,9.62,True,False,9.9,0.0,8.3,False,mild,False,,,False
+2025-04-20,0,225,106,119,11.29,True,False,9.9,0.0,6.6,False,mild,False,,,False
+2025-04-20,1,134,81,53,8.82,True,False,9.5,0.0,7.1,False,mild,False,,,False
+2025-04-20,2,101,48,53,10.33,True,False,8.9,0.0,8.7,False,mild,False,,,False
+2025-04-20,3,64,28,36,8.06,True,False,8.4,0.0,9.2,False,mild,False,,,False
+2025-04-20,4,39,19,20,11.18,True,False,8.1,0.0,12.4,False,mild,False,,,False
+2025-04-20,5,34,22,12,12.2,True,False,8.1,0.0,13.8,False,mild,False,,,False
+2025-04-20,6,95,65,30,11.39,True,False,7.8,0.0,14.5,False,mild,False,,,False
+2025-04-20,7,176,121,55,10.66,True,True,8.0,0.0,14.5,False,mild,False,,,False
+2025-04-20,8,277,192,85,11.45,True,True,9.1,0.0,14.5,False,mild,False,,,False
+2025-04-20,9,391,270,121,11.69,True,True,9.9,0.0,15.2,False,mild,False,,,False
+2025-04-20,10,564,384,180,11.94,True,False,10.9,0.0,15.4,False,mild,False,,,False
+2025-04-20,11,437,284,153,12.15,True,False,11.8,0.0,13.5,False,mild,False,,,False
+2025-04-20,12,441,300,141,14.02,True,False,10.9,0.2,14.4,True,mild,True,,,False
+2025-04-20,13,451,294,157,12.96,True,False,10.9,0.0,14.7,False,mild,False,,,False
+2025-04-20,14,206,139,67,11.49,True,False,10.9,1.3,16.9,True,mild,True,,,False
+2025-04-20,15,390,269,121,15.26,True,False,11.9,0.1,16.9,True,mild,True,,,False
+2025-04-20,16,433,281,152,14.51,True,True,13.2,0.0,16.3,False,mild,False,,,False
+2025-04-20,17,590,368,222,14.43,True,True,13.8,0.0,18.9,False,mild,False,,,False
+2025-04-20,18,538,364,174,12.86,True,True,13.4,0.0,22.5,False,mild,False,,,False
+2025-04-20,19,408,279,129,12.02,True,False,14.2,0.0,26.4,False,mild,False,,,False
+2025-04-20,20,289,205,84,11.59,True,False,13.1,0.0,23.0,False,mild,False,,,False
+2025-04-20,21,228,145,83,10.49,True,False,13.2,0.0,22.8,False,mild,False,,,False
+2025-04-20,22,165,99,66,13.24,True,False,13.2,0.0,23.6,False,mild,False,,,False
+2025-04-20,23,64,44,20,9.6,True,False,13.9,0.4,26.0,True,mild,True,,,False
+2025-04-21,0,30,20,10,10.65,False,False,13.8,2.9,22.5,True,mild,True,,,False
+2025-04-21,1,27,15,12,12.86,False,False,14.9,8.1,24.4,True,mild,True,,,False
+2025-04-21,2,21,14,7,8.92,False,False,16.1,0.7,24.9,True,mild,True,,,False
+2025-04-21,3,26,17,9,12.04,False,False,16.1,0.0,25.1,False,mild,False,,,False
+2025-04-21,4,35,22,13,17.35,False,False,15.1,0.0,23.0,False,mild,False,,,False
+2025-04-21,5,120,98,22,9.75,False,False,15.0,0.0,22.4,False,mild,False,,,False
+2025-04-21,6,365,312,53,9.52,False,False,14.8,0.0,23.1,False,mild,False,,,False
+2025-04-21,7,709,622,87,10.67,False,True,14.0,0.0,23.3,False,mild,False,,,False
+2025-04-21,8,857,715,142,9.53,False,True,11.4,0.1,26.0,True,mild,True,,,False
+2025-04-21,9,451,365,86,9.57,False,True,10.7,0.1,28.3,True,mild,True,,,False
+2025-04-21,10,313,236,77,10.09,False,False,10.4,0.0,27.9,False,mild,False,,,False
+2025-04-21,11,429,321,108,10.35,False,False,10.7,0.0,31.3,False,mild,False,,,False
+2025-04-21,12,483,352,131,9.62,False,False,12.2,0.0,31.5,False,mild,False,,,False
+2025-04-21,13,467,344,123,11.03,False,False,13.4,0.0,30.9,False,mild,False,,,False
+2025-04-21,14,496,370,126,11.09,False,False,14.2,0.0,29.7,False,mild,False,,,False
+2025-04-21,15,709,542,167,11.74,False,False,14.8,0.0,29.2,False,mild,False,,,False
+2025-04-21,16,1111,850,261,11.76,False,True,14.8,0.0,28.0,False,mild,False,,,False
+2025-04-21,17,1328,1101,227,11.02,False,True,14.9,0.0,24.7,False,mild,False,,,False
+2025-04-21,18,1013,779,234,10.94,False,True,14.8,0.0,18.2,False,mild,False,,,False
+2025-04-21,19,682,510,172,10.62,False,False,13.9,0.0,15.1,False,mild,False,,,False
+2025-04-21,20,422,329,93,10.43,False,False,11.6,0.0,10.8,False,mild,False,,,False
+2025-04-21,21,345,255,90,9.73,False,False,10.9,0.0,8.4,False,mild,False,,,False
+2025-04-21,22,237,166,71,10.5,False,False,9.9,0.0,5.2,False,mild,False,,,False
+2025-04-21,23,102,70,32,9.58,False,False,8.8,0.0,4.4,False,mild,False,,,False
+2025-04-22,0,75,43,32,10.85,False,False,8.6,0.0,4.9,False,mild,False,,,False
+2025-04-22,1,35,18,17,6.67,False,False,8.2,0.0,5.2,False,mild,False,,,False
+2025-04-22,2,37,15,22,14.56,False,False,7.7,0.0,4.9,False,mild,False,,,False
+2025-04-22,3,24,14,10,10.66,False,False,7.2,0.0,4.7,False,mild,False,,,False
+2025-04-22,4,35,29,6,13.99,False,False,6.8,0.0,1.2,False,mild,False,,,False
+2025-04-22,5,174,153,21,8.1,False,False,6.3,0.0,1.4,False,mild,False,,,False
+2025-04-22,6,464,394,70,10.02,False,False,5.9,0.0,3.5,False,mild,False,,,False
+2025-04-22,7,1029,893,136,10.76,False,True,7.8,0.0,5.7,False,mild,False,,,False
+2025-04-22,8,1303,1087,216,10.57,False,True,8.8,0.0,6.8,False,mild,False,,,False
+2025-04-22,9,631,518,113,10.32,False,True,10.4,0.0,7.6,False,mild,False,,,False
+2025-04-22,10,472,350,122,12.83,False,False,11.9,0.0,10.4,False,mild,False,,,False
+2025-04-22,11,554,368,186,16.84,False,False,12.9,0.0,11.6,False,mild,False,,,False
+2025-04-22,12,702,476,226,12.59,False,False,15.1,0.0,11.1,False,mild,False,,,False
+2025-04-22,13,777,501,276,16.06,False,False,17.0,0.0,8.2,False,mild,False,,,False
+2025-04-22,14,727,480,247,15.59,False,False,17.2,0.3,10.2,True,mild,True,,,False
+2025-04-22,15,1086,786,300,13.36,False,False,17.4,3.8,11.3,True,mild,True,,,False
+2025-04-22,16,1831,1366,465,14.08,False,True,19.8,0.0,9.1,False,mild,False,,,False
+2025-04-22,17,2251,1684,567,14.28,False,True,20.6,0.0,11.4,False,warm,False,,,False
+2025-04-22,18,1704,1150,554,14.79,False,True,20.1,1.3,10.7,True,warm,True,,,False
+2025-04-22,19,1073,733,340,13.02,False,False,15.9,1.5,7.6,True,mild,True,,,False
+2025-04-22,20,701,471,230,12.61,False,False,18.3,0.0,9.4,False,mild,False,,,False
+2025-04-22,21,613,422,191,12.34,False,False,17.6,0.0,12.3,False,mild,False,,,False
+2025-04-22,22,583,297,286,12.18,False,False,16.9,0.0,12.1,False,mild,False,,,False
+2025-04-22,23,216,149,67,12.26,False,False,16.1,0.0,11.6,False,mild,False,,,False
+2025-04-23,0,136,74,62,12.84,False,False,15.0,0.0,7.8,False,mild,False,,,False
+2025-04-23,1,71,39,32,10.36,False,False,14.2,0.0,7.8,False,mild,False,,,False
+2025-04-23,2,42,19,23,11.49,False,False,13.3,0.0,5.5,False,mild,False,,,False
+2025-04-23,3,20,10,10,10.47,False,False,12.6,0.0,4.4,False,mild,False,,,False
+2025-04-23,4,39,27,12,6.85,False,False,12.6,0.0,3.8,False,mild,False,,,False
+2025-04-23,5,105,90,15,8.0,False,False,12.8,0.0,5.6,False,mild,False,,,False
+2025-04-23,6,158,136,22,8.01,False,False,12.9,0.0,8.4,False,mild,False,,,False
+2025-04-23,7,354,298,56,9.82,False,True,13.2,0.7,12.1,True,mild,True,,,False
+2025-04-23,8,646,538,108,9.8,False,True,13.2,3.4,8.0,True,mild,True,,,False
+2025-04-23,9,548,448,100,9.77,False,True,13.1,2.5,11.5,True,mild,True,,,False
+2025-04-23,10,465,352,113,11.22,False,False,13.9,0.0,7.2,False,mild,False,,,False
+2025-04-23,11,580,422,158,13.77,False,False,16.4,0.0,5.6,False,mild,False,,,False
+2025-04-23,12,622,458,164,11.36,False,False,17.9,0.4,4.2,True,mild,True,,,False
+2025-04-23,13,703,509,194,11.8,False,False,19.9,0.0,4.9,False,mild,False,,,False
+2025-04-23,14,819,580,239,14.76,False,False,20.9,0.0,5.9,False,warm,False,,,False
+2025-04-23,15,1133,835,298,12.73,False,False,20.7,0.0,7.2,False,warm,False,,,False
+2025-04-23,16,1762,1267,495,13.28,False,True,20.8,0.0,6.3,False,warm,False,,,False
+2025-04-23,17,2204,1567,637,14.25,False,True,20.8,0.0,6.7,False,warm,False,,,False
+2025-04-23,18,1555,1079,476,14.34,False,True,19.5,0.0,9.0,False,mild,False,,,False
+2025-04-23,19,1125,773,352,12.96,False,False,18.0,0.0,9.0,False,mild,False,,,False
+2025-04-23,20,815,540,275,12.23,False,False,14.6,0.0,7.4,False,mild,False,,,False
+2025-04-23,21,717,431,286,11.92,False,False,13.2,0.0,7.4,False,mild,False,,,False
+2025-04-23,22,392,247,145,12.18,False,False,12.4,0.0,7.0,False,mild,False,,,False
+2025-04-23,23,218,120,98,13.18,False,False,13.1,0.0,6.0,False,mild,False,,,False
+2025-04-24,0,141,73,68,16.08,False,False,14.4,0.0,6.3,False,mild,False,,,False
+2025-04-24,1,54,33,21,14.9,False,False,15.1,0.0,9.0,False,mild,False,,,False
+2025-04-24,2,36,16,20,12.92,False,False,14.4,0.0,9.2,False,mild,False,,,False
+2025-04-24,3,36,16,20,13.02,False,False,13.6,0.0,7.3,False,mild,False,,,False
+2025-04-24,4,31,23,8,8.53,False,False,12.6,0.0,5.7,False,mild,False,,,False
+2025-04-24,5,153,120,33,12.14,False,False,11.9,0.0,3.4,False,mild,False,,,False
+2025-04-24,6,503,410,93,10.21,False,False,11.4,0.0,2.3,False,mild,False,,,False
+2025-04-24,7,1039,859,180,10.7,False,True,12.3,0.0,4.3,False,mild,False,,,False
+2025-04-24,8,1331,1077,254,11.19,False,True,14.3,0.0,5.3,False,mild,False,,,False
+2025-04-24,9,799,617,182,11.97,False,True,15.1,0.0,5.4,False,mild,False,,,False
+2025-04-24,10,641,442,199,16.27,False,False,16.1,0.0,5.5,False,mild,False,,,False
+2025-04-24,11,771,487,284,15.6,False,False,17.5,0.0,5.2,False,mild,False,,,False
+2025-04-24,12,939,622,317,13.79,False,False,18.1,0.0,6.6,False,mild,False,,,False
+2025-04-24,13,848,558,290,14.17,False,False,18.0,0.0,8.8,False,mild,False,,,False
+2025-04-24,14,862,545,317,15.39,False,False,17.1,0.0,9.9,False,mild,False,,,False
+2025-04-24,15,1219,834,385,13.56,False,False,15.9,0.0,10.7,False,mild,False,,,False
+2025-04-24,16,1738,1250,488,12.8,False,True,14.6,0.0,12.3,False,mild,False,,,False
+2025-04-24,17,2106,1476,630,12.87,False,True,12.9,0.0,12.9,False,mild,False,,,False
+2025-04-24,18,1562,1117,445,11.27,False,True,11.1,0.0,11.1,False,mild,False,,,False
+2025-04-24,19,957,639,318,10.84,False,False,10.0,0.0,10.5,False,mild,False,,,False
+2025-04-24,20,607,427,180,10.69,False,False,8.1,0.0,12.0,False,mild,False,,,False
+2025-04-24,21,537,360,177,11.48,False,False,7.7,0.0,10.3,False,mild,False,,,False
+2025-04-24,22,413,271,142,9.88,False,False,7.8,0.0,7.9,False,mild,False,,,False
+2025-04-24,23,225,155,70,10.39,False,False,8.1,0.0,8.3,False,mild,False,,,False
+2025-04-25,0,160,83,77,9.1,False,False,8.1,0.0,8.6,False,mild,False,,,False
+2025-04-25,1,81,45,36,8.36,False,False,8.4,0.0,8.3,False,mild,False,,,False
+2025-04-25,2,46,25,21,9.43,False,False,8.4,0.0,7.6,False,mild,False,,,False
+2025-04-25,3,39,29,10,9.16,False,False,8.4,0.0,6.7,False,mild,False,,,False
+2025-04-25,4,41,28,13,9.34,False,False,8.4,0.0,4.1,False,mild,False,,,False
+2025-04-25,5,131,112,19,9.78,False,False,8.6,0.0,8.4,False,mild,False,,,False
+2025-04-25,6,359,290,69,9.17,False,False,8.6,0.0,8.5,False,mild,False,,,False
+2025-04-25,7,710,589,121,10.13,False,True,8.8,0.0,8.4,False,mild,False,,,False
+2025-04-25,8,895,733,162,10.64,False,True,9.1,0.0,6.3,False,mild,False,,,False
+2025-04-25,9,680,503,177,10.93,False,True,10.2,0.0,6.0,False,mild,False,,,False
+2025-04-25,10,573,387,186,13.81,False,False,11.9,0.0,7.9,False,mild,False,,,False
+2025-04-25,11,691,455,236,12.49,False,False,12.9,0.0,7.6,False,mild,False,,,False
+2025-04-25,12,534,366,168,9.11,False,False,12.8,0.0,12.1,False,mild,False,,,False
+2025-04-25,13,176,135,41,9.04,False,False,10.9,0.0,14.3,False,mild,False,,,False
+2025-04-25,14,260,195,65,9.71,False,False,11.1,0.0,15.5,False,mild,False,,,False
+2025-04-25,15,599,467,132,11.17,False,False,10.4,0.0,15.7,False,mild,False,,,False
+2025-04-25,16,1084,807,277,10.91,False,True,9.9,0.1,15.7,True,mild,True,,,False
+2025-04-25,17,1206,867,339,11.89,False,True,9.5,0.0,19.5,False,mild,False,,,False
+2025-04-25,18,962,684,278,11.99,False,True,8.6,0.0,22.0,False,mild,False,,,False
+2025-04-25,19,664,470,194,10.38,False,False,8.1,0.0,21.6,False,mild,False,,,False
+2025-04-25,20,452,313,139,10.14,False,False,8.6,0.0,21.7,False,mild,False,,,False
+2025-04-25,21,345,234,111,9.3,False,False,8.4,0.0,25.8,False,mild,False,,,False
+2025-04-25,22,279,176,103,9.46,False,False,8.4,0.0,23.1,False,mild,False,,,False
+2025-04-25,23,296,179,117,9.54,False,False,8.0,0.0,24.7,False,mild,False,,,False
+2025-04-26,0,216,116,100,9.88,True,False,7.4,0.0,22.8,False,mild,False,,,False
+2025-04-26,1,177,87,90,8.62,True,False,7.2,0.0,25.1,False,mild,False,,,False
+2025-04-26,2,107,55,52,8.59,True,False,7.1,0.0,23.6,False,mild,False,,,False
+2025-04-26,3,63,45,18,8.71,True,False,7.0,0.0,21.2,False,mild,False,,,False
+2025-04-26,4,37,23,14,9.55,True,False,6.9,0.0,18.2,False,mild,False,,,False
+2025-04-26,5,34,22,12,16.61,True,False,6.8,0.0,18.0,False,mild,False,,,False
+2025-04-26,6,97,81,16,11.23,True,False,6.3,0.0,17.9,False,mild,False,,,False
+2025-04-26,7,193,149,44,9.32,True,True,6.3,0.0,16.8,False,mild,False,,,False
+2025-04-26,8,419,305,114,10.97,True,True,7.7,0.0,18.7,False,mild,False,,,False
+2025-04-26,9,544,372,172,12.03,True,True,7.9,0.0,20.5,False,mild,False,,,False
+2025-04-26,10,752,490,262,13.88,True,False,8.2,0.0,22.6,False,mild,False,,,False
+2025-04-26,11,906,582,324,14.04,True,False,8.4,0.0,22.9,False,mild,False,,,False
+2025-04-26,12,1034,585,449,15.52,True,False,8.5,0.0,17.8,False,mild,False,,,False
+2025-04-26,13,1170,639,531,15.67,True,False,8.9,0.0,16.9,False,mild,False,,,False
+2025-04-26,14,1241,703,538,15.81,True,False,9.2,0.0,17.1,False,mild,False,,,False
+2025-04-26,15,1028,590,438,17.27,True,False,9.2,0.0,17.3,False,mild,False,,,False
+2025-04-26,16,1019,562,457,16.12,True,True,8.8,0.0,16.2,False,mild,False,,,False
+2025-04-26,17,939,550,389,14.65,True,True,8.6,0.0,13.1,False,mild,False,,,False
+2025-04-26,18,910,525,385,12.99,True,True,8.2,0.0,10.4,False,mild,False,,,False
+2025-04-26,19,641,418,223,11.39,True,False,7.4,0.0,9.6,False,mild,False,,,False
+2025-04-26,20,469,311,158,10.67,True,False,7.1,0.0,7.8,False,mild,False,,,False
+2025-04-26,21,371,221,150,10.5,True,False,6.5,0.0,7.5,False,mild,False,,,False
+2025-04-26,22,311,201,110,11.32,True,False,6.2,0.0,7.0,False,mild,False,,,False
+2025-04-26,23,285,181,104,11.44,True,False,5.6,0.0,4.3,False,mild,False,,,False
+2025-04-27,0,281,154,127,10.52,True,False,5.4,0.0,4.6,False,mild,False,,,False
+2025-04-27,1,199,110,89,10.74,True,False,5.2,0.0,4.4,False,mild,False,,,False
+2025-04-27,2,109,43,66,9.77,True,False,4.7,0.0,3.8,False,cold,True,,,False
+2025-04-27,3,65,24,41,11.2,True,False,4.2,0.0,3.5,False,cold,True,,,False
+2025-04-27,4,42,25,17,9.37,True,False,4.4,0.0,4.0,False,cold,True,,,False
+2025-04-27,5,39,24,15,11.33,True,False,4.6,0.0,4.5,False,cold,True,,,False
+2025-04-27,6,106,72,34,10.85,True,False,4.5,0.0,4.6,False,cold,True,,,False
+2025-04-27,7,189,140,49,10.63,True,True,5.9,0.0,6.5,False,mild,False,,,False
+2025-04-27,8,347,237,110,13.77,True,True,7.4,0.0,3.9,False,mild,False,,,False
+2025-04-27,9,592,364,228,16.46,True,True,9.1,0.0,5.8,False,mild,False,,,False
+2025-04-27,10,862,506,356,16.48,True,False,10.9,0.0,6.6,False,mild,False,,,False
+2025-04-27,11,1020,581,439,19.12,True,False,12.6,0.0,7.5,False,mild,False,,,False
+2025-04-27,12,1279,709,570,18.69,True,False,14.2,0.0,8.1,False,mild,False,,,False
+2025-04-27,13,1380,732,648,21.01,True,False,15.5,0.0,8.9,False,mild,False,,,False
+2025-04-27,14,1378,735,643,19.69,True,False,16.2,0.0,10.1,False,mild,False,,,False
+2025-04-27,15,1367,716,651,19.21,True,False,16.5,0.0,11.5,False,mild,False,,,False
+2025-04-27,16,1331,730,601,18.69,True,True,16.5,0.0,11.9,False,mild,False,,,False
+2025-04-27,17,1242,728,514,16.88,True,True,15.8,0.0,13.0,False,mild,False,,,False
+2025-04-27,18,1025,635,390,15.31,True,True,14.8,0.0,13.8,False,mild,False,,,False
+2025-04-27,19,667,419,248,13.84,True,False,14.1,0.0,12.1,False,mild,False,,,False
+2025-04-27,20,491,314,177,11.48,True,False,14.1,0.0,9.8,False,mild,False,,,False
+2025-04-27,21,468,257,211,12.71,True,False,15.4,0.0,11.7,False,mild,False,,,False
+2025-04-27,22,238,138,100,11.49,True,False,14.9,0.0,13.3,False,mild,False,,,False
+2025-04-27,23,158,100,58,13.02,True,False,14.1,0.0,12.8,False,mild,False,,,False
+2025-04-28,0,123,51,72,12.33,False,False,13.4,0.0,12.7,False,mild,False,,,False
+2025-04-28,1,53,27,26,15.59,False,False,12.8,0.0,12.4,False,mild,False,,,False
+2025-04-28,2,41,16,25,10.96,False,False,11.9,0.0,11.2,False,mild,False,,,False
+2025-04-28,3,30,19,11,15.3,False,False,11.4,0.0,11.4,False,mild,False,,,False
+2025-04-28,4,42,26,16,12.5,False,False,11.2,0.0,11.9,False,mild,False,,,False
+2025-04-28,5,171,135,36,9.37,False,False,10.9,0.0,12.0,False,mild,False,,,False
+2025-04-28,6,532,434,98,10.1,False,False,10.8,0.0,12.9,False,mild,False,,,False
+2025-04-28,7,927,779,148,10.77,False,True,11.6,0.0,14.6,False,mild,False,,,False
+2025-04-28,8,1173,930,243,10.76,False,True,13.9,0.0,13.2,False,mild,False,,,False
+2025-04-28,9,668,503,165,13.05,False,True,15.6,0.0,14.7,False,mild,False,,,False
+2025-04-28,10,520,331,189,15.74,False,False,18.2,0.0,15.8,False,mild,False,,,False
+2025-04-28,11,690,431,259,16.21,False,False,20.6,0.0,16.3,False,warm,False,,,False
+2025-04-28,12,947,599,348,16.77,False,False,22.9,0.0,16.8,False,warm,False,,,False
+2025-04-28,13,914,557,357,16.06,False,False,24.6,0.0,18.2,False,warm,False,,,False
+2025-04-28,14,1027,574,453,16.73,False,False,25.6,0.0,18.8,False,warm,False,,,False
+2025-04-28,15,1416,894,522,15.72,False,False,26.8,0.0,21.3,False,warm,False,,,False
+2025-04-28,16,1922,1281,641,15.83,False,True,27.6,0.0,27.7,False,warm,False,,,False
+2025-04-28,17,2397,1587,810,15.87,False,True,27.4,0.0,26.4,False,warm,False,,,False
+2025-04-28,18,1942,1217,725,16.49,False,True,26.8,0.0,25.4,False,warm,False,,,False
+2025-04-28,19,1387,864,523,14.91,False,False,26.2,0.0,25.4,False,warm,False,,,False
+2025-04-28,20,817,522,295,14.16,False,False,25.8,0.0,24.9,False,warm,False,,,False
+2025-04-28,21,587,369,218,14.82,False,False,25.1,0.0,27.8,False,warm,False,,,False
+2025-04-28,22,403,239,164,14.6,False,False,24.8,0.0,28.3,False,warm,False,,,False
+2025-04-28,23,237,125,112,15.82,False,False,24.4,0.0,27.3,False,warm,False,,,False
+2025-04-29,0,165,84,81,13.51,False,False,24.1,0.0,28.0,False,warm,False,,,False
+2025-04-29,1,79,35,44,11.89,False,False,23.9,0.0,27.9,False,warm,False,,,False
+2025-04-29,2,63,30,33,9.45,False,False,23.6,0.0,27.4,False,warm,False,,,False
+2025-04-29,3,43,25,18,12.1,False,False,23.5,0.0,26.6,False,warm,False,,,False
+2025-04-29,4,48,31,17,7.64,False,False,23.1,0.0,24.4,False,warm,False,,,False
+2025-04-29,5,175,140,35,9.82,False,False,22.5,0.0,23.8,False,warm,False,,,False
+2025-04-29,6,599,486,113,10.92,False,False,21.5,0.0,21.7,False,warm,False,,,False
+2025-04-29,7,1205,985,220,10.75,False,True,21.2,0.0,22.4,False,warm,False,,,False
+2025-04-29,8,1408,1142,266,11.03,False,True,23.8,0.0,26.8,False,warm,False,,,False
+2025-04-29,9,805,624,181,10.63,False,True,23.3,0.0,28.1,False,warm,False,,,False
+2025-04-29,10,594,424,170,13.89,False,False,23.5,0.0,25.0,False,warm,False,,,False
+2025-04-29,11,722,492,230,12.66,False,False,22.6,0.0,23.0,False,warm,False,,,False
+2025-04-29,12,784,551,233,12.51,False,False,22.5,0.0,22.0,False,warm,False,,,False
+2025-04-29,13,738,509,229,14.65,False,False,19.6,0.0,20.9,False,mild,False,,,False
+2025-04-29,14,778,520,258,13.52,False,False,19.8,0.0,20.4,False,mild,False,,,False
+2025-04-29,15,1103,784,319,13.74,False,False,19.6,0.0,16.8,False,mild,False,,,False
+2025-04-29,16,1890,1376,514,13.61,False,True,18.4,0.0,15.6,False,mild,False,,,False
+2025-04-29,17,2201,1613,588,14.31,False,True,18.5,0.0,11.3,False,mild,False,,,False
+2025-04-29,18,1566,1093,473,13.54,False,True,18.4,0.0,7.4,False,mild,False,,,False
+2025-04-29,19,1039,717,322,11.91,False,False,15.3,0.0,12.3,False,mild,False,,,False
+2025-04-29,20,648,459,189,11.83,False,False,12.1,0.0,8.5,False,mild,False,,,False
+2025-04-29,21,463,321,142,10.46,False,False,11.4,0.0,7.2,False,mild,False,,,False
+2025-04-29,22,261,172,89,10.8,False,False,10.4,0.0,7.6,False,mild,False,,,False
+2025-04-29,23,159,104,55,10.74,False,False,9.6,0.0,6.5,False,mild,False,,,False
+2025-04-30,0,110,54,56,11.08,False,False,9.4,0.0,5.2,False,mild,False,,,False
+2025-04-30,1,40,18,22,7.96,False,False,9.2,0.0,5.3,False,mild,False,,,False
+2025-04-30,2,32,19,13,8.75,False,False,8.9,0.0,4.5,False,mild,False,,,False
+2025-04-30,3,31,17,14,6.65,False,False,8.6,0.0,5.9,False,mild,False,,,False
+2025-04-30,4,38,32,6,8.3,False,False,8.0,0.0,6.4,False,mild,False,,,False
+2025-04-30,5,172,136,36,8.66,False,False,7.6,0.0,6.2,False,mild,False,,,False
+2025-04-30,6,528,427,101,9.63,False,False,7.4,0.0,6.4,False,mild,False,,,False
+2025-04-30,7,1053,888,165,11.08,False,True,8.2,0.0,6.6,False,mild,False,,,False
+2025-04-30,8,1320,1053,267,10.42,False,True,9.5,0.0,5.8,False,mild,False,,,False
+2025-04-30,9,734,592,142,9.9,False,True,11.1,0.0,7.2,False,mild,False,,,False
+2025-04-30,10,517,362,155,12.5,False,False,12.9,0.0,7.0,False,mild,False,,,False
+2025-04-30,11,620,452,168,12.38,False,False,13.9,0.0,9.1,False,mild,False,,,False
+2025-04-30,12,694,495,199,10.62,False,False,14.6,0.0,10.1,False,mild,False,,,False
+2025-04-30,13,715,495,220,12.01,False,False,13.8,0.0,10.0,False,mild,False,,,False
+2025-04-30,14,487,361,126,10.37,False,False,14.5,0.0,9.0,False,mild,False,,,False
+2025-04-30,15,733,556,177,10.31,False,False,13.6,0.1,10.2,True,mild,True,,,False
+2025-04-30,16,1117,883,234,11.18,False,True,12.9,0.1,10.7,True,mild,True,,,False
+2025-04-30,17,1551,1195,356,11.63,False,True,13.1,0.0,10.6,False,mild,False,,,False
+2025-04-30,18,1210,915,295,11.23,False,True,13.4,0.0,10.4,False,mild,False,,,False
+2025-04-30,19,831,609,222,10.41,False,False,13.9,0.0,10.0,False,mild,False,,,False
+2025-04-30,20,583,418,165,11.25,False,False,12.0,0.0,10.0,False,mild,False,,,False
+2025-04-30,21,419,312,107,10.36,False,False,12.2,0.0,10.6,False,mild,False,,,False
+2025-04-30,22,329,217,112,11.46,False,False,12.5,0.0,13.4,False,mild,False,,,False
+2025-04-30,23,183,123,60,9.88,False,False,12.8,0.0,13.5,False,mild,False,,,False
+2025-05-01,0,146,74,72,11.42,False,False,13.1,0.0,13.1,False,mild,False,,,False
+2025-05-01,1,52,29,23,7.12,False,False,12.9,0.5,11.0,True,mild,True,,,False
+2025-05-01,2,19,12,7,16.07,False,False,12.2,1.3,13.0,True,mild,True,,,False
+2025-05-01,3,22,16,6,6.59,False,False,11.6,2.0,12.4,True,mild,True,,,False
+2025-05-01,4,26,19,7,6.98,False,False,11.2,0.6,12.1,True,mild,True,,,False
+2025-05-01,5,97,86,11,8.4,False,False,10.8,5.2,12.2,True,mild,True,,,False
+2025-05-01,6,211,161,50,8.0,False,False,11.2,3.5,15.3,True,mild,True,,,False
+2025-05-01,7,435,372,63,9.26,False,True,12.2,2.2,15.3,True,mild,True,,,False
+2025-05-01,8,593,501,92,9.61,False,True,13.8,1.1,15.0,True,mild,True,,,False
+2025-05-01,9,575,441,134,9.51,False,True,16.5,0.6,18.8,True,mild,True,,,False
+2025-05-01,10,441,334,107,10.24,False,False,18.6,0.1,18.1,True,mild,True,,,False
+2025-05-01,11,476,340,136,11.8,False,False,18.8,0.1,20.4,True,mild,True,,,False
+2025-05-01,12,527,383,144,11.09,False,False,19.8,0.1,21.3,True,mild,True,,,False
+2025-05-01,13,649,470,179,13.03,False,False,21.4,0.0,22.4,False,warm,False,,,False
+2025-05-01,14,650,450,200,12.42,False,False,19.5,0.2,22.6,True,mild,True,,,False
+2025-05-01,15,1031,715,316,13.11,False,False,19.4,0.1,17.3,True,mild,True,,,False
+2025-05-01,16,1562,1113,449,13.22,False,True,21.4,0.0,17.8,False,warm,False,,,False
+2025-05-01,17,1864,1346,518,13.38,False,True,19.6,0.2,16.0,True,mild,True,,,False
+2025-05-01,18,1264,903,361,12.23,False,True,19.0,0.1,12.6,True,mild,True,,,False
+2025-05-01,19,815,610,205,11.14,False,False,18.4,0.0,11.5,False,mild,False,,,False
+2025-05-01,20,591,437,154,11.76,False,False,16.6,0.0,11.4,False,mild,False,,,False
+2025-05-01,21,505,343,162,11.17,False,False,16.1,0.0,8.7,False,mild,False,,,False
+2025-05-01,22,390,271,119,11.87,False,False,15.3,0.0,8.1,False,mild,False,,,False
+2025-05-01,23,270,161,109,11.47,False,False,14.6,0.0,7.2,False,mild,False,,,False
+2025-05-02,0,175,87,88,10.61,False,False,13.8,0.0,6.1,False,mild,False,,,False
+2025-05-02,1,95,49,46,10.64,False,False,13.4,0.0,5.8,False,mild,False,,,False
+2025-05-02,2,59,31,28,10.09,False,False,12.8,0.0,5.2,False,mild,False,,,False
+2025-05-02,3,47,25,22,8.04,False,False,11.8,0.0,2.1,False,mild,False,,,False
+2025-05-02,4,41,26,15,9.82,False,False,11.9,0.2,2.6,True,mild,True,,,False
+2025-05-02,5,125,101,24,11.36,False,False,12.1,0.2,4.4,True,mild,True,,,False
+2025-05-02,6,332,266,66,9.01,False,False,11.4,0.3,6.5,True,mild,True,,,False
+2025-05-02,7,556,469,87,9.73,False,True,10.5,0.1,8.6,True,mild,True,,,False
+2025-05-02,8,681,548,133,9.78,False,True,8.0,0.0,10.2,False,mild,False,,,False
+2025-05-02,9,495,396,99,9.23,False,True,8.1,0.0,8.8,False,mild,False,,,False
+2025-05-02,10,512,345,167,12.35,False,False,8.4,0.0,9.1,False,mild,False,,,False
+2025-05-02,11,597,374,223,10.96,False,False,8.6,0.1,6.6,True,mild,True,,,False
+2025-05-02,12,732,475,257,13.29,False,False,9.1,0.0,7.9,False,mild,False,,,False
+2025-05-02,13,744,498,246,12.99,False,False,9.6,0.0,7.8,False,mild,False,,,False
+2025-05-02,14,845,558,287,13.84,False,False,10.2,0.0,7.4,False,mild,False,,,False
+2025-05-02,15,1099,739,360,12.22,False,False,10.4,0.0,8.6,False,mild,False,,,False
+2025-05-02,16,1347,940,407,12.45,False,True,9.9,0.0,9.9,False,mild,False,,,False
+2025-05-02,17,1378,993,385,12.3,False,True,9.2,0.0,12.1,False,mild,False,,,False
+2025-05-02,18,1092,783,309,11.91,False,True,8.8,0.0,12.0,False,mild,False,,,False
+2025-05-02,19,747,493,254,10.26,False,False,7.9,0.0,8.4,False,mild,False,,,False
+2025-05-02,20,452,315,137,9.97,False,False,7.7,0.0,10.4,False,mild,False,,,False
+2025-05-02,21,364,257,107,10.52,False,False,7.3,0.0,7.6,False,mild,False,,,False
+2025-05-02,22,333,226,107,9.62,False,False,7.5,0.0,8.4,False,mild,False,,,False
+2025-05-02,23,314,170,144,11.51,False,False,7.4,0.0,8.2,False,mild,False,,,False
+2025-05-03,0,213,116,97,9.96,True,False,7.3,0.0,9.1,False,mild,False,,,False
+2025-05-03,1,187,110,77,8.78,True,False,7.1,0.0,9.8,False,mild,False,,,False
+2025-05-03,2,98,50,48,10.4,True,False,7.0,0.0,10.5,False,mild,False,,,False
+2025-05-03,3,67,35,32,8.72,True,False,6.8,0.0,11.2,False,mild,False,,,False
+2025-05-03,4,48,32,16,8.14,True,False,6.9,0.0,12.6,False,mild,False,,,False
+2025-05-03,5,42,33,9,9.44,True,False,6.7,0.0,15.0,False,mild,False,,,False
+2025-05-03,6,116,92,24,8.75,True,False,6.6,0.0,15.4,False,mild,False,,,False
+2025-05-03,7,287,205,82,13.1,True,True,6.8,0.0,15.8,False,mild,False,,,False
+2025-05-03,8,501,337,164,12.13,True,True,7.6,0.0,15.5,False,mild,False,,,False
+2025-05-03,9,665,415,250,13.05,True,True,7.8,0.0,15.2,False,mild,False,,,False
+2025-05-03,10,855,540,315,13.07,True,False,8.4,0.0,16.4,False,mild,False,,,False
+2025-05-03,11,929,589,340,15.2,True,False,8.6,0.0,19.5,False,mild,False,,,False
+2025-05-03,12,917,586,331,14.46,True,False,8.8,0.0,21.2,False,mild,False,,,False
+2025-05-03,13,857,491,366,14.41,True,False,8.7,0.0,22.1,False,mild,False,,,False
+2025-05-03,14,912,511,401,15.46,True,False,8.6,0.0,19.8,False,mild,False,,,False
+2025-05-03,15,952,552,400,13.58,True,False,8.3,0.0,18.6,False,mild,False,,,False
+2025-05-03,16,971,594,377,14.47,True,True,8.1,0.0,18.7,False,mild,False,,,False
+2025-05-03,17,889,532,357,14.7,True,True,7.9,0.0,18.5,False,mild,False,,,False
+2025-05-03,18,762,461,301,12.1,True,True,7.6,0.0,17.0,False,mild,False,,,False
+2025-05-03,19,632,415,217,12.29,True,False,7.1,0.0,16.1,False,mild,False,,,False
+2025-05-03,20,438,268,170,11.35,True,False,6.8,0.0,14.8,False,mild,False,,,False
+2025-05-03,21,364,231,133,11.55,True,False,6.7,0.0,15.7,False,mild,False,,,False
+2025-05-03,22,254,165,89,10.41,True,False,6.5,0.0,13.9,False,mild,False,,,False
+2025-05-03,23,275,168,107,10.01,True,False,6.4,0.0,13.5,False,mild,False,,,False
+2025-05-04,0,250,140,110,9.71,True,False,6.3,0.0,13.7,False,mild,False,,,False
+2025-05-04,1,168,94,74,9.81,True,False,6.3,0.0,13.7,False,mild,False,,,False
+2025-05-04,2,100,47,53,8.02,True,False,6.4,0.0,14.6,False,mild,False,,,False
+2025-05-04,3,54,32,22,9.46,True,False,6.5,0.0,14.8,False,mild,False,,,False
+2025-05-04,4,40,22,18,11.93,True,False,6.5,0.0,14.2,False,mild,False,,,False
+2025-05-04,5,40,26,14,14.62,True,False,6.3,0.0,12.7,False,mild,False,,,False
+2025-05-04,6,88,63,25,12.19,True,False,6.4,0.0,9.3,False,mild,False,,,False
+2025-05-04,7,165,113,52,11.47,True,True,6.7,0.0,10.8,False,mild,False,,,False
+2025-05-04,8,283,203,80,11.48,True,True,7.2,0.0,12.1,False,mild,False,,,False
+2025-05-04,9,472,333,139,11.16,True,True,7.7,0.0,13.7,False,mild,False,,,False
+2025-05-04,10,629,417,212,14.01,True,False,7.9,0.0,14.4,False,mild,False,,,False
+2025-05-04,11,696,462,234,12.2,True,False,8.4,0.0,15.3,False,mild,False,,,False
+2025-05-04,12,789,511,278,13.11,True,False,8.7,0.0,16.9,False,mild,False,,,False
+2025-05-04,13,769,481,288,14.34,True,False,9.4,0.0,17.1,False,mild,False,,,False
+2025-05-04,14,778,496,282,11.82,True,False,10.1,0.0,17.1,False,mild,False,,,False
+2025-05-04,15,415,269,146,10.99,True,False,9.9,0.0,17.0,False,mild,False,,,False
+2025-05-04,16,152,105,47,10.6,True,True,8.9,0.7,16.4,True,mild,True,,,False
+2025-05-04,17,181,145,36,9.83,True,True,7.4,3.4,22.5,True,mild,True,,,False
+2025-05-04,18,169,115,54,9.17,True,True,7.3,1.1,20.0,True,mild,True,,,False
+2025-05-04,19,222,164,58,10.54,True,False,7.2,0.3,18.8,True,mild,True,,,False
+2025-05-04,20,198,138,60,8.35,True,False,7.1,0.2,13.4,True,mild,True,,,False
+2025-05-04,21,144,106,38,9.52,True,False,7.3,0.0,13.4,False,mild,False,,,False
+2025-05-04,22,146,84,62,9.05,True,False,7.8,0.0,15.1,False,mild,False,,,False
+2025-05-04,23,113,69,44,10.07,True,False,7.9,0.0,16.9,False,mild,False,,,False
+2025-05-05,0,43,20,23,7.3,False,False,7.7,0.6,16.8,True,mild,True,,,False
+2025-05-05,1,27,13,14,10.34,False,False,7.6,0.2,16.0,True,mild,True,,,False
+2025-05-05,2,20,12,8,9.47,False,False,7.6,0.2,15.3,True,mild,True,,,False
+2025-05-05,3,16,10,6,14.92,False,False,7.6,0.3,15.6,True,mild,True,,,False
+2025-05-05,4,36,26,10,10.71,False,False,7.6,0.2,16.0,True,mild,True,,,False
+2025-05-05,5,105,80,25,12.5,False,False,7.4,0.0,13.9,False,mild,False,,,False
+2025-05-05,6,359,298,61,9.54,False,False,7.4,0.0,12.5,False,mild,False,,,False
+2025-05-05,7,711,617,94,10.61,False,True,7.7,0.0,8.6,False,mild,False,,,False
+2025-05-05,8,843,713,130,10.07,False,True,8.6,0.0,7.3,False,mild,False,,,False
+2025-05-05,9,499,403,96,9.3,False,True,9.1,0.0,6.9,False,mild,False,,,False
+2025-05-05,10,455,329,126,14.17,False,False,10.5,0.0,7.8,False,mild,False,,,False
+2025-05-05,11,502,339,163,13.33,False,False,11.8,0.0,9.2,False,mild,False,,,False
+2025-05-05,12,634,432,202,11.75,False,False,12.4,0.0,9.3,False,mild,False,,,False
+2025-05-05,13,612,403,209,14.37,False,False,13.0,0.0,7.7,False,mild,False,,,False
+2025-05-05,14,667,449,218,12.86,False,False,13.8,0.0,8.3,False,mild,False,,,False
+2025-05-05,15,946,647,299,12.85,False,False,13.6,0.0,11.8,False,mild,False,,,False
+2025-05-05,16,1464,1068,396,13.38,False,True,12.2,0.0,14.0,False,mild,False,,,False
+2025-05-05,17,1893,1395,498,12.61,False,True,12.2,0.0,12.1,False,mild,False,,,False
+2025-05-05,18,1386,996,390,12.34,False,True,12.4,0.0,9.5,False,mild,False,,,False
+2025-05-05,19,922,675,247,12.06,False,False,12.1,0.0,7.6,False,mild,False,,,False
+2025-05-05,20,538,389,149,10.51,False,False,11.2,0.0,3.2,False,mild,False,,,False
+2025-05-05,21,565,358,207,10.21,False,False,10.8,0.0,6.2,False,mild,False,,,False
+2025-05-05,22,306,202,104,10.63,False,False,9.5,0.0,6.8,False,mild,False,,,False
+2025-05-05,23,147,93,54,9.04,False,False,8.4,0.0,3.8,False,mild,False,,,False
+2025-05-06,0,92,54,38,10.06,False,False,8.4,0.0,4.4,False,mild,False,,,False
+2025-05-06,1,35,20,15,9.85,False,False,8.4,0.0,7.2,False,mild,False,,,False
+2025-05-06,2,42,18,24,14.23,False,False,8.6,0.0,6.6,False,mild,False,,,False
+2025-05-06,3,26,20,6,11.43,False,False,8.7,0.0,7.9,False,mild,False,,,False
+2025-05-06,4,36,28,8,11.24,False,False,8.9,0.0,9.4,False,mild,False,,,False
+2025-05-06,5,194,157,37,9.29,False,False,9.2,0.0,10.5,False,mild,False,,,False
+2025-05-06,6,555,466,89,9.7,False,False,9.6,0.0,11.2,False,mild,False,,,False
+2025-05-06,7,1178,958,220,10.7,False,True,10.4,0.0,11.6,False,mild,False,,,False
+2025-05-06,8,1424,1178,246,11.13,False,True,12.0,0.0,9.9,False,mild,False,,,False
+2025-05-06,9,759,568,191,10.97,False,True,14.1,0.0,9.2,False,mild,False,,,False
+2025-05-06,10,612,441,171,13.28,False,False,16.4,0.0,9.6,False,mild,False,,,False
+2025-05-06,11,708,481,227,16.04,False,False,18.2,0.0,10.5,False,mild,False,,,False
+2025-05-06,12,821,578,243,13.21,False,False,19.5,0.0,12.3,False,mild,False,,,False
+2025-05-06,13,834,538,296,15.17,False,False,20.5,0.0,13.2,False,warm,False,,,False
+2025-05-06,14,885,554,331,15.51,False,False,21.4,0.0,13.9,False,warm,False,,,False
+2025-05-06,15,1242,883,359,13.63,False,False,22.0,0.0,14.9,False,warm,False,,,False
+2025-05-06,16,2028,1522,506,14.44,False,True,22.5,0.0,15.6,False,warm,False,,,False
+2025-05-06,17,2619,1876,743,14.69,False,True,21.9,0.0,10.6,False,warm,False,,,False
+2025-05-06,18,1982,1338,644,14.85,False,True,21.4,0.0,6.8,False,warm,False,,,False
+2025-05-06,19,1295,816,479,14.5,False,False,20.0,0.0,4.8,False,warm,False,,,False
+2025-05-06,20,853,579,274,14.48,False,False,16.5,0.0,3.4,False,mild,False,,,False
+2025-05-06,21,891,540,351,12.72,False,False,15.1,0.0,2.7,False,mild,False,,,False
+2025-05-06,22,556,323,233,11.08,False,False,14.1,0.0,5.3,False,mild,False,,,False
+2025-05-06,23,258,148,110,12.72,False,False,13.3,0.0,5.2,False,mild,False,,,False
+2025-05-07,0,145,67,78,9.91,False,False,12.8,0.0,2.9,False,mild,False,,,False
+2025-05-07,1,75,39,36,9.92,False,False,12.7,0.0,2.3,False,mild,False,,,False
+2025-05-07,2,29,17,12,7.79,False,False,12.2,0.0,2.9,False,mild,False,,,False
+2025-05-07,3,33,25,8,6.19,False,False,11.4,0.0,2.5,False,mild,False,,,False
+2025-05-07,4,50,34,16,10.65,False,False,10.9,0.0,2.3,False,mild,False,,,False
+2025-05-07,5,192,158,34,10.17,False,False,10.4,0.0,4.0,False,mild,False,,,False
+2025-05-07,6,552,458,94,9.42,False,False,10.4,0.0,3.7,False,mild,False,,,False
+2025-05-07,7,1131,936,195,11.2,False,True,12.1,0.0,3.6,False,mild,False,,,False
+2025-05-07,8,1527,1238,289,11.03,False,True,14.9,0.0,4.1,False,mild,False,,,False
+2025-05-07,9,824,642,182,11.05,False,True,16.9,0.0,4.1,False,mild,False,,,False
+2025-05-07,10,577,408,169,13.11,False,False,17.5,0.0,7.4,False,mild,False,,,False
+2025-05-07,11,803,544,259,13.29,False,False,18.1,0.0,7.9,False,mild,False,,,False
+2025-05-07,12,902,626,276,11.67,False,False,17.1,0.0,10.8,False,mild,False,,,False
+2025-05-07,13,778,520,258,11.74,False,False,13.8,0.0,15.1,False,mild,False,,,False
+2025-05-07,14,762,524,238,12.17,False,False,12.9,0.0,15.2,False,mild,False,,,False
+2025-05-07,15,951,668,283,11.24,False,False,12.4,0.0,17.2,False,mild,False,,,False
+2025-05-07,16,1768,1281,487,12.05,False,True,11.4,0.0,15.8,False,mild,False,,,False
+2025-05-07,17,1882,1472,410,12.43,False,True,10.4,0.0,15.7,False,mild,False,,,False
+2025-05-07,18,1325,964,361,11.6,False,True,9.2,0.0,17.1,False,mild,False,,,False
+2025-05-07,19,852,619,233,10.99,False,False,8.4,0.0,15.9,False,mild,False,,,False
+2025-05-07,20,569,414,155,9.54,False,False,8.1,0.0,15.4,False,mild,False,,,False
+2025-05-07,21,438,320,118,9.15,False,False,8.1,0.0,13.7,False,mild,False,,,False
+2025-05-07,22,261,196,65,9.24,False,False,8.0,0.0,14.4,False,mild,False,,,False
+2025-05-07,23,156,100,56,9.29,False,False,8.0,0.0,14.7,False,mild,False,,,False
+2025-05-08,0,95,52,43,9.03,False,False,7.9,0.0,14.6,False,mild,False,,,False
+2025-05-08,1,44,24,20,11.28,False,False,8.1,0.0,15.7,False,mild,False,,,False
+2025-05-08,2,38,22,16,9.33,False,False,8.2,0.0,16.8,False,mild,False,,,False
+2025-05-08,3,28,20,8,9.8,False,False,8.2,0.0,17.3,False,mild,False,,,False
+2025-05-08,4,38,25,13,10.93,False,False,8.2,0.0,18.5,False,mild,False,,,False
+2025-05-08,5,174,112,62,12.35,False,False,8.1,0.0,18.0,False,mild,False,,,False
+2025-05-08,6,505,410,95,9.77,False,False,7.8,0.0,17.0,False,mild,False,,,False
+2025-05-08,7,916,741,175,10.19,False,True,8.4,0.0,15.2,False,mild,False,,,False
+2025-05-08,8,1279,1070,209,9.65,False,True,9.4,0.0,17.2,False,mild,False,,,False
+2025-05-08,9,724,572,152,9.17,False,True,10.1,0.0,16.7,False,mild,False,,,False
+2025-05-08,10,475,351,124,10.71,False,False,10.8,0.0,16.6,False,mild,False,,,False
+2025-05-08,11,592,447,145,10.98,False,False,11.1,0.0,17.5,False,mild,False,,,False
+2025-05-08,12,697,527,170,10.4,False,False,11.4,0.0,18.7,False,mild,False,,,False
+2025-05-08,13,701,508,193,10.07,False,False,11.7,0.0,20.2,False,mild,False,,,False
+2025-05-08,14,645,425,220,11.97,False,False,11.9,0.0,20.6,False,mild,False,,,False
+2025-05-08,15,1053,746,307,12.55,False,False,11.4,0.0,22.2,False,mild,False,,,False
+2025-05-08,16,1463,1144,319,12.75,False,True,10.8,0.0,21.5,False,mild,False,,,False
+2025-05-08,17,1842,1396,446,12.44,False,True,10.2,0.0,19.0,False,mild,False,,,False
+2025-05-08,18,1287,911,376,11.72,False,True,9.2,0.0,18.0,False,mild,False,,,False
+2025-05-08,19,843,608,235,10.06,False,False,8.1,0.0,16.8,False,mild,False,,,False
+2025-05-08,20,629,473,156,10.6,False,False,7.3,0.0,15.5,False,mild,False,,,False
+2025-05-08,21,473,347,126,9.31,False,False,7.0,0.0,14.7,False,mild,False,,,False
+2025-05-08,22,322,223,99,10.18,False,False,6.9,0.0,13.5,False,mild,False,,,False
+2025-05-08,23,198,128,70,9.69,False,False,6.7,0.0,12.2,False,mild,False,,,False
+2025-05-09,0,109,61,48,8.85,False,False,6.6,0.0,9.8,False,mild,False,,,False
+2025-05-09,1,60,38,22,10.37,False,False,6.7,0.0,10.0,False,mild,False,,,False
+2025-05-09,2,47,20,27,9.62,False,False,6.8,0.0,9.8,False,mild,False,,,False
+2025-05-09,3,25,17,8,11.14,False,False,6.7,0.0,10.1,False,mild,False,,,False
+2025-05-09,4,42,33,9,9.55,False,False,6.4,0.0,9.9,False,mild,False,,,False
+2025-05-09,5,150,118,32,9.9,False,False,6.1,0.0,10.1,False,mild,False,,,False
+2025-05-09,6,395,321,74,9.94,False,False,5.7,0.0,9.4,False,mild,False,,,False
+2025-05-09,7,705,571,134,10.24,False,True,6.3,0.0,9.2,False,mild,False,,,False
+2025-05-09,8,865,705,160,10.8,False,True,7.8,0.0,7.7,False,mild,False,,,False
+2025-05-09,9,639,463,176,12.21,False,True,8.9,0.0,8.0,False,mild,False,,,False
+2025-05-09,10,606,383,223,13.54,False,False,9.9,0.0,8.6,False,mild,False,,,False
+2025-05-09,11,776,539,237,13.63,False,False,10.8,0.0,9.4,False,mild,False,,,False
+2025-05-09,12,927,600,327,14.05,False,False,11.6,0.0,9.9,False,mild,False,,,False
+2025-05-09,13,974,592,382,13.39,False,False,12.6,0.0,9.3,False,mild,False,,,False
+2025-05-09,14,1027,648,379,13.44,False,False,13.6,0.0,8.4,False,mild,False,,,False
+2025-05-09,15,1304,861,443,14.55,False,False,14.4,0.0,8.3,False,mild,False,,,False
+2025-05-09,16,1665,1107,558,13.6,False,True,14.8,0.0,7.9,False,mild,False,,,False
+2025-05-09,17,1708,1106,602,13.62,False,True,14.9,0.0,7.9,False,mild,False,,,False
+2025-05-09,18,1400,922,478,13.64,False,True,14.6,0.0,5.6,False,mild,False,,,False
+2025-05-09,19,955,616,339,12.9,False,False,14.1,0.0,3.7,False,mild,False,,,False
+2025-05-09,20,598,378,220,11.78,False,False,13.4,0.0,3.9,False,mild,False,,,False
+2025-05-09,21,489,302,187,11.83,False,False,12.6,0.0,4.2,False,mild,False,,,False
+2025-05-09,22,377,223,154,11.9,False,False,11.9,0.0,4.1,False,mild,False,,,False
+2025-05-09,23,294,156,138,13.75,False,False,11.3,0.0,5.3,False,mild,False,,,False
+2025-05-10,0,331,164,167,12.34,True,False,11.0,0.0,7.9,False,mild,False,,,False
+2025-05-10,1,197,104,93,11.1,True,False,10.7,0.0,8.4,False,mild,False,,,False
+2025-05-10,2,98,56,42,8.37,True,False,10.4,0.0,10.6,False,mild,False,,,False
+2025-05-10,3,76,30,46,11.23,True,False,10.0,0.0,11.4,False,mild,False,,,False
+2025-05-10,4,43,31,12,9.24,True,False,9.8,0.0,11.7,False,mild,False,,,False
+2025-05-10,5,63,39,24,19.05,True,False,9.8,0.0,11.9,False,mild,False,,,False
+2025-05-10,6,112,76,36,11.44,True,False,10.0,0.0,11.5,False,mild,False,,,False
+2025-05-10,7,320,211,109,14.35,True,True,11.5,0.0,11.6,False,mild,False,,,False
+2025-05-10,8,653,429,224,13.65,True,True,15.3,0.0,11.6,False,mild,False,,,False
+2025-05-10,9,933,586,347,16.75,True,True,18.8,0.0,8.4,False,mild,False,,,False
+2025-05-10,10,1269,688,581,16.47,True,False,22.0,0.0,6.9,False,warm,False,,,False
+2025-05-10,11,1312,735,577,18.54,True,False,19.5,0.0,20.2,False,mild,False,,,False
+2025-05-10,12,1330,696,634,18.89,True,False,13.4,0.0,18.6,False,mild,False,,,False
+2025-05-10,13,1316,682,634,18.31,True,False,13.0,0.0,17.9,False,mild,False,,,False
+2025-05-10,14,1315,698,617,18.12,True,False,13.1,0.0,17.9,False,mild,False,,,False
+2025-05-10,15,1406,724,682,19.17,True,False,12.8,0.0,16.9,False,mild,False,,,False
+2025-05-10,16,1317,685,632,17.34,True,True,12.4,0.0,17.1,False,mild,False,,,False
+2025-05-10,17,1203,654,549,15.79,True,True,11.6,0.0,16.7,False,mild,False,,,False
+2025-05-10,18,962,547,415,15.31,True,True,10.8,0.0,16.0,False,mild,False,,,False
+2025-05-10,19,761,457,304,13.86,True,False,10.4,0.0,14.1,False,mild,False,,,False
+2025-05-10,20,430,269,161,11.29,True,False,10.1,0.0,12.6,False,mild,False,,,False
+2025-05-10,21,416,233,183,12.18,True,False,10.1,0.0,12.1,False,mild,False,,,False
+2025-05-10,22,318,201,117,10.46,True,False,9.8,0.0,15.4,False,mild,False,,,False
+2025-05-10,23,318,184,134,11.87,True,False,9.0,0.0,15.1,False,mild,False,,,False
+2025-05-11,0,299,147,152,10.72,True,False,8.4,0.0,14.6,False,mild,False,,,False
+2025-05-11,1,184,82,102,10.2,True,False,7.7,0.0,13.3,False,mild,False,,,False
+2025-05-11,2,111,42,69,8.71,True,False,7.4,0.0,11.2,False,mild,False,,,False
+2025-05-11,3,44,21,23,8.9,True,False,7.3,0.0,9.5,False,mild,False,,,False
+2025-05-11,4,40,25,15,8.88,True,False,7.4,0.0,9.0,False,mild,False,,,False
+2025-05-11,5,63,33,30,10.9,True,False,7.6,0.0,9.7,False,mild,False,,,False
+2025-05-11,6,125,89,36,11.56,True,False,8.0,0.0,10.7,False,mild,False,,,False
+2025-05-11,7,223,155,68,13.13,True,True,9.2,0.0,10.3,False,mild,False,,,False
+2025-05-11,8,416,293,123,12.56,True,True,11.1,0.0,8.7,False,mild,False,,,False
+2025-05-11,9,661,413,248,14.42,True,True,12.6,0.0,9.7,False,mild,False,,,False
+2025-05-11,10,934,566,368,15.8,True,False,13.7,0.0,9.4,False,mild,False,,,False
+2025-05-11,11,999,568,431,20.19,True,False,15.0,0.0,9.3,False,mild,False,,,False
+2025-05-11,12,1182,641,541,19.75,True,False,16.3,0.0,9.1,False,mild,False,,,False
+2025-05-11,13,1305,689,616,20.13,True,False,17.4,0.0,9.9,False,mild,False,,,False
+2025-05-11,14,1289,624,665,20.68,True,False,18.0,0.0,11.8,False,mild,False,,,False
+2025-05-11,15,1245,653,592,20.55,True,False,18.0,0.0,12.9,False,mild,False,,,False
+2025-05-11,16,1208,608,600,20.99,True,True,17.6,0.0,12.1,False,mild,False,,,False
+2025-05-11,17,1092,597,495,18.74,True,True,17.4,0.0,10.6,False,mild,False,,,False
+2025-05-11,18,969,553,416,16.78,True,True,16.9,0.0,9.3,False,mild,False,,,False
+2025-05-11,19,778,417,361,16.14,True,False,15.8,0.0,8.9,False,mild,False,,,False
+2025-05-11,20,489,295,194,13.99,True,False,14.6,0.0,7.1,False,mild,False,,,False
+2025-05-11,21,335,238,97,11.67,True,False,13.9,0.0,8.5,False,mild,False,,,False
+2025-05-11,22,231,136,95,12.47,True,False,13.8,0.0,8.6,False,mild,False,,,False
+2025-05-11,23,120,67,53,10.46,True,False,13.8,0.0,7.6,False,mild,False,,,False
+2025-05-12,0,97,49,48,15.33,False,False,14.9,0.0,9.5,False,mild,False,,,False
+2025-05-12,1,65,34,31,8.61,False,False,14.7,0.0,10.5,False,mild,False,,,False
+2025-05-12,2,46,23,23,13.43,False,False,14.1,0.0,8.8,False,mild,False,,,False
+2025-05-12,3,25,16,9,14.28,False,False,13.2,0.0,6.6,False,mild,False,,,False
+2025-05-12,4,40,26,14,10.91,False,False,12.6,0.0,6.5,False,mild,False,,,False
+2025-05-12,5,165,120,45,10.07,False,False,12.2,0.0,6.4,False,mild,False,,,False
+2025-05-12,6,513,422,91,9.75,False,False,11.9,0.0,6.9,False,mild,False,,,False
+2025-05-12,7,936,776,160,10.46,False,True,12.8,0.0,7.5,False,mild,False,,,False
+2025-05-12,8,1161,931,230,11.23,False,True,14.4,0.0,6.7,False,mild,False,,,False
+2025-05-12,9,692,503,189,12.07,False,True,16.2,0.0,6.5,False,mild,False,,,False
+2025-05-12,10,578,388,190,14.36,False,False,18.1,0.0,7.0,False,mild,False,,,False
+2025-05-12,11,691,443,248,15.18,False,False,19.5,0.0,8.7,False,mild,False,,,False
+2025-05-12,12,805,511,294,13.94,False,False,20.8,0.0,9.0,False,warm,False,,,False
+2025-05-12,13,793,500,293,15.34,False,False,21.5,0.0,10.2,False,warm,False,,,False
+2025-05-12,14,884,587,297,14.81,False,False,21.8,0.0,9.9,False,warm,False,,,False
+2025-05-12,15,1106,728,378,15.24,False,False,20.6,0.0,11.3,False,warm,False,,,False
+2025-05-12,16,1721,1188,533,14.51,False,True,21.0,0.0,11.7,False,warm,False,,,False
+2025-05-12,17,2086,1474,612,13.51,False,True,20.0,0.0,10.5,False,warm,False,,,False
+2025-05-12,18,1537,1056,481,13.9,False,True,19.1,0.0,6.7,False,mild,False,,,False
+2025-05-12,19,958,638,320,14.08,False,False,19.0,0.0,3.9,False,mild,False,,,False
+2025-05-12,20,629,410,219,12.95,False,False,20.0,0.0,13.8,False,warm,False,,,False
+2025-05-12,21,662,396,266,12.81,False,False,19.9,0.0,10.5,False,mild,False,,,False
+2025-05-12,22,317,203,114,11.73,False,False,18.8,1.0,13.4,True,mild,True,,,False
+2025-05-12,23,157,89,68,14.57,False,False,18.2,0.1,13.4,True,mild,True,,,False
+2025-05-13,0,111,48,63,13.82,False,False,17.9,0.0,12.4,False,mild,False,,,False
+2025-05-13,1,48,30,18,13.91,False,False,17.1,0.0,12.0,False,mild,False,,,False
+2025-05-13,2,40,11,29,13.01,False,False,16.4,0.0,10.9,False,mild,False,,,False
+2025-05-13,3,23,14,9,10.62,False,False,16.2,0.0,9.0,False,mild,False,,,False
+2025-05-13,4,43,28,15,9.7,False,False,15.9,0.0,7.7,False,mild,False,,,False
+2025-05-13,5,196,158,38,10.14,False,False,15.2,0.0,7.1,False,mild,False,,,False
+2025-05-13,6,632,534,98,10.18,False,False,14.7,0.0,7.2,False,mild,False,,,False
+2025-05-13,7,1250,1026,224,10.82,False,True,14.9,0.0,7.4,False,mild,False,,,False
+2025-05-13,8,1492,1214,278,11.26,False,True,17.1,0.0,7.8,False,mild,False,,,False
+2025-05-13,9,771,565,206,12.74,False,True,17.6,0.0,9.0,False,mild,False,,,False
+2025-05-13,10,583,416,167,15.3,False,False,18.5,0.0,9.7,False,mild,False,,,False
+2025-05-13,11,673,455,218,13.25,False,False,20.1,0.0,7.4,False,warm,False,,,False
+2025-05-13,12,829,557,272,13.62,False,False,21.9,0.0,7.6,False,warm,False,,,False
+2025-05-13,13,781,517,264,13.9,False,False,22.1,0.0,9.8,False,warm,False,,,False
+2025-05-13,14,957,616,341,14.58,False,False,22.5,0.0,10.0,False,warm,False,,,False
+2025-05-13,15,1234,835,399,14.71,False,False,22.4,0.0,10.5,False,warm,False,,,False
+2025-05-13,16,2080,1483,597,14.09,False,True,20.7,0.0,11.5,False,warm,False,,,False
+2025-05-13,17,2500,1780,720,14.99,False,True,18.1,0.0,8.8,False,mild,False,,,False
+2025-05-13,18,1968,1296,672,14.2,False,True,16.0,0.0,7.8,False,mild,False,,,False
+2025-05-13,19,1321,844,477,13.8,False,False,14.7,0.0,6.9,False,mild,False,,,False
+2025-05-13,20,884,572,312,13.46,False,False,14.8,0.0,5.7,False,mild,False,,,False
+2025-05-13,21,787,488,299,12.88,False,False,13.6,0.0,5.4,False,mild,False,,,False
+2025-05-13,22,427,275,152,10.89,False,False,12.9,0.0,4.9,False,mild,False,,,False
+2025-05-13,23,236,144,92,13.29,False,False,12.9,0.0,6.1,False,mild,False,,,False
+2025-05-14,0,122,62,60,10.52,False,False,12.6,0.0,5.2,False,mild,False,,,False
+2025-05-14,1,83,33,50,13.41,False,False,12.8,0.0,4.5,False,mild,False,,,False
+2025-05-14,2,34,14,20,20.51,False,False,12.9,0.0,4.0,False,mild,False,,,False
+2025-05-14,3,28,15,13,9.79,False,False,12.7,0.0,4.0,False,mild,False,,,False
+2025-05-14,4,42,25,17,8.42,False,False,12.6,0.0,4.3,False,mild,False,,,False
+2025-05-14,5,196,153,43,10.27,False,False,12.4,0.0,5.0,False,mild,False,,,False
+2025-05-14,6,628,511,117,9.83,False,False,11.9,0.0,4.1,False,mild,False,,,False
+2025-05-14,7,1277,1040,237,10.81,False,True,12.1,0.0,3.4,False,mild,False,,,False
+2025-05-14,8,1459,1197,262,10.49,False,True,13.4,0.0,5.4,False,mild,False,,,False
+2025-05-14,9,743,557,186,11.86,False,True,14.0,0.0,5.1,False,mild,False,,,False
+2025-05-14,10,602,429,173,13.04,False,False,15.9,0.0,5.1,False,mild,False,,,False
+2025-05-14,11,739,515,224,14.83,False,False,17.4,0.0,4.8,False,mild,False,,,False
+2025-05-14,12,844,567,277,13.37,False,False,19.5,0.0,6.3,False,mild,False,,,False
+2025-05-14,13,882,537,345,14.15,False,False,20.4,0.0,7.8,False,warm,False,,,False
+2025-05-14,14,899,594,305,14.4,False,False,20.7,0.0,8.9,False,warm,False,,,False
+2025-05-14,15,1356,919,437,14.4,False,False,21.0,0.0,9.4,False,warm,False,,,False
+2025-05-14,16,2112,1500,612,13.57,False,True,20.1,0.0,10.7,False,warm,False,,,False
+2025-05-14,17,2541,1771,770,14.34,False,True,18.3,0.0,8.7,False,mild,False,,,False
+2025-05-14,18,1932,1248,684,14.7,False,True,16.6,0.0,8.0,False,mild,False,,,False
+2025-05-14,19,1276,843,433,14.12,False,False,14.6,0.0,6.6,False,mild,False,,,False
+2025-05-14,20,1032,644,388,11.97,False,False,15.2,0.0,5.5,False,mild,False,,,False
+2025-05-14,21,740,442,298,12.24,False,False,14.9,0.0,8.5,False,mild,False,,,False
+2025-05-14,22,453,278,175,12.43,False,False,14.4,0.0,5.3,False,mild,False,,,False
+2025-05-14,23,248,123,125,13.2,False,False,14.2,0.0,5.6,False,mild,False,,,False
+2025-05-15,0,146,66,80,12.31,False,False,14.1,0.0,5.4,False,mild,False,,,False
+2025-05-15,1,68,41,27,10.9,False,False,14.4,0.0,5.8,False,mild,False,,,False
+2025-05-15,2,45,16,29,11.53,False,False,15.4,0.0,7.0,False,mild,False,,,False
+2025-05-15,3,34,14,20,9.17,False,False,16.6,0.0,8.5,False,mild,False,,,False
+2025-05-15,4,57,34,23,12.58,False,False,17.6,0.0,9.0,False,mild,False,,,False
+2025-05-15,5,198,153,45,10.51,False,False,18.0,0.0,9.6,False,mild,False,,,False
+2025-05-15,6,570,448,122,10.69,False,False,17.9,0.0,9.1,False,mild,False,,,False
+2025-05-15,7,1205,981,224,10.83,False,True,18.6,0.0,8.6,False,mild,False,,,False
+2025-05-15,8,1503,1202,301,11.0,False,True,19.5,0.0,11.2,False,mild,False,,,False
+2025-05-15,9,861,624,237,13.12,False,True,21.8,0.0,10.2,False,warm,False,,,False
+2025-05-15,10,732,470,262,16.74,False,False,23.7,0.0,9.9,False,warm,False,,,False
+2025-05-15,11,958,592,366,16.07,False,False,25.6,0.0,14.1,False,warm,False,,,False
+2025-05-15,12,1113,695,418,14.49,False,False,28.1,0.0,15.5,False,warm,False,,,False
+2025-05-15,13,1089,653,436,16.98,False,False,29.5,0.1,16.9,True,warm,True,,,False
+2025-05-15,14,1136,688,448,16.9,False,False,30.8,0.0,17.1,False,warm,False,,,False
+2025-05-15,15,1566,940,626,15.37,False,False,32.2,0.0,18.0,False,warm,False,,,False
+2025-05-15,16,2210,1505,705,14.27,False,True,31.5,0.5,19.6,True,warm,True,,,False
+2025-05-15,17,2560,1651,909,14.89,False,True,26.2,0.5,18.4,True,warm,True,,,False
+2025-05-15,18,2012,1221,791,14.02,False,True,24.8,1.3,16.6,True,warm,True,,,False
+2025-05-15,19,1159,707,452,12.24,False,False,24.0,0.8,13.5,True,warm,True,,,False
+2025-05-15,20,387,251,136,13.39,False,False,24.0,0.0,18.2,False,warm,False,,,False
+2025-05-15,21,539,335,204,13.8,False,False,23.8,0.0,20.9,False,warm,False,,,False
+2025-05-15,22,411,224,187,12.47,False,False,22.6,0.0,16.4,False,warm,False,,,False
+2025-05-15,23,358,174,184,12.9,False,False,23.3,0.0,18.5,False,warm,False,,,False
+2025-05-16,0,243,93,150,15.61,False,False,22.5,0.0,15.7,False,warm,False,,,False
+2025-05-16,1,377,113,264,17.52,False,False,21.6,0.0,11.6,False,warm,False,,,False
+2025-05-16,2,146,42,104,12.58,False,False,20.2,0.0,6.4,False,warm,False,,,False
+2025-05-16,3,36,17,19,14.04,False,False,19.4,0.0,7.0,False,mild,False,,,False
+2025-05-16,4,55,38,17,9.58,False,False,18.4,0.0,8.0,False,mild,False,,,False
+2025-05-16,5,177,128,49,12.61,False,False,17.9,0.0,12.1,False,mild,False,,,False
+2025-05-16,6,526,404,122,11.19,False,False,18.0,0.0,13.9,False,mild,False,,,False
+2025-05-16,7,997,792,205,11.69,False,True,19.0,0.0,14.0,False,mild,False,,,False
+2025-05-16,8,1150,879,271,12.02,False,True,21.0,0.0,12.6,False,warm,False,,,False
+2025-05-16,9,852,570,282,13.63,False,True,23.4,0.0,13.5,False,warm,False,,,False
+2025-05-16,10,747,412,335,17.45,False,False,25.6,0.0,13.7,False,warm,False,,,False
+2025-05-16,11,1088,600,488,18.68,False,False,28.0,0.0,18.4,False,warm,False,,,False
+2025-05-16,12,1663,872,791,16.7,False,False,28.6,0.0,22.9,False,warm,False,,,False
+2025-05-16,13,1418,812,606,16.33,False,False,29.2,0.0,21.8,False,warm,False,,,False
+2025-05-16,14,1453,796,657,16.71,False,False,29.5,0.0,22.6,False,warm,False,,,False
+2025-05-16,15,1821,1033,788,15.98,False,False,29.5,0.0,22.0,False,warm,False,,,False
+2025-05-16,16,2462,1362,1100,15.7,False,True,29.1,0.0,21.2,False,warm,False,,,False
+2025-05-16,17,2513,1398,1115,15.44,False,True,29.0,0.0,29.1,False,warm,False,,,False
+2025-05-16,18,2021,1139,882,14.36,False,True,26.0,0.0,33.6,False,warm,False,,,False
+2025-05-16,19,800,459,341,12.82,False,False,25.4,0.0,27.4,False,warm,False,,,False
+2025-05-16,20,672,425,247,12.14,False,False,23.4,0.6,15.1,True,warm,True,,,False
+2025-05-16,21,620,344,276,13.52,False,False,23.7,0.0,18.1,False,warm,False,,,False
+2025-05-16,22,551,323,228,13.99,False,False,22.8,0.0,20.7,False,warm,False,,,False
+2025-05-16,23,491,259,232,12.25,False,False,20.5,0.0,19.3,False,warm,False,,,False
+2025-05-17,0,401,182,219,11.33,True,False,19.2,0.0,23.4,False,mild,False,,,False
+2025-05-17,1,308,144,164,12.4,True,False,17.0,0.1,25.3,True,mild,True,,,False
+2025-05-17,2,166,60,106,11.75,True,False,15.7,0.0,24.8,False,mild,False,,,False
+2025-05-17,3,80,40,40,9.67,True,False,14.6,0.0,26.9,False,mild,False,,,False
+2025-05-17,4,50,28,22,13.58,True,False,14.2,0.0,27.5,False,mild,False,,,False
+2025-05-17,5,66,46,20,12.4,True,False,13.6,0.0,22.7,False,mild,False,,,False
+2025-05-17,6,148,85,63,13.72,True,False,13.3,0.0,22.5,False,mild,False,,,False
+2025-05-17,7,312,194,118,12.02,True,True,13.2,0.0,25.0,False,mild,False,,,False
+2025-05-17,8,560,362,198,12.92,True,True,12.4,0.0,24.9,False,mild,False,,,False
+2025-05-17,9,881,510,371,14.61,True,True,13.4,0.0,25.6,False,mild,False,,,False
+2025-05-17,10,1120,624,496,16.74,True,False,14.2,0.0,25.0,False,mild,False,,,False
+2025-05-17,11,1305,655,650,18.14,True,False,15.2,0.0,23.5,False,mild,False,,,False
+2025-05-17,12,1488,738,750,17.1,True,False,15.9,0.0,22.9,False,mild,False,,,False
+2025-05-17,13,1478,703,775,18.46,True,False,16.2,0.0,23.8,False,mild,False,,,False
+2025-05-17,14,1350,712,638,19.38,True,False,17.2,0.0,24.8,False,mild,False,,,False
+2025-05-17,15,1430,664,766,19.33,True,False,18.2,0.0,23.4,False,mild,False,,,False
+2025-05-17,16,1714,820,894,17.72,True,True,18.8,0.0,22.2,False,mild,False,,,False
+2025-05-17,17,1663,831,832,16.75,True,True,19.1,0.0,22.0,False,mild,False,,,False
+2025-05-17,18,1570,771,799,17.17,True,True,18.5,0.0,18.8,False,mild,False,,,False
+2025-05-17,19,1109,572,537,15.78,True,False,18.0,0.0,16.2,False,mild,False,,,False
+2025-05-17,20,766,416,350,15.35,True,False,18.6,0.0,15.6,False,mild,False,,,False
+2025-05-17,21,648,342,306,12.52,True,False,17.9,0.0,14.4,False,mild,False,,,False
+2025-05-17,22,613,301,312,14.05,True,False,17.0,0.0,10.3,False,mild,False,,,False
+2025-05-17,23,635,273,362,17.08,True,False,15.9,0.0,10.6,False,mild,False,,,False
+2025-05-18,0,627,240,387,13.15,True,False,14.8,0.0,11.3,False,mild,False,,,False
+2025-05-18,1,272,126,146,12.2,True,False,13.9,0.0,11.0,False,mild,False,,,False
+2025-05-18,2,141,61,80,10.08,True,False,13.2,0.0,11.7,False,mild,False,,,False
+2025-05-18,3,84,48,36,11.02,True,False,12.6,0.0,11.4,False,mild,False,,,False
+2025-05-18,4,71,37,34,10.17,True,False,12.0,0.0,10.6,False,mild,False,,,False
+2025-05-18,5,124,70,54,13.28,True,False,11.4,0.0,9.7,False,mild,False,,,False
+2025-05-18,6,252,134,118,17.35,True,False,11.0,0.0,9.8,False,mild,False,,,False
+2025-05-18,7,405,189,216,27.48,True,True,11.8,0.0,8.3,False,mild,False,,,False
+2025-05-18,8,579,296,283,18.86,True,True,12.1,0.0,6.9,False,mild,False,,,False
+2025-05-18,9,839,466,373,15.27,True,True,12.8,0.0,8.3,False,mild,False,,,False
+2025-05-18,10,1026,587,439,15.82,True,False,13.4,0.0,9.2,False,mild,False,,,False
+2025-05-18,11,1169,618,551,17.29,True,False,13.2,0.0,9.0,False,mild,False,,,False
+2025-05-18,12,1284,711,573,16.41,True,False,13.8,0.0,8.8,False,mild,False,,,False
+2025-05-18,13,1267,699,568,17.34,True,False,13.5,0.0,11.4,False,mild,False,,,False
+2025-05-18,14,1258,651,607,16.61,True,False,13.4,0.0,12.2,False,mild,False,,,False
+2025-05-18,15,1246,623,623,17.5,True,False,13.4,0.0,13.2,False,mild,False,,,False
+2025-05-18,16,1384,717,667,17.24,True,True,12.6,0.0,12.9,False,mild,False,,,False
+2025-05-18,17,1233,682,551,15.08,True,True,12.0,0.0,12.2,False,mild,False,,,False
+2025-05-18,18,1105,619,486,14.22,True,True,11.1,0.0,13.1,False,mild,False,,,False
+2025-05-18,19,738,417,321,13.85,True,False,9.8,0.0,10.9,False,mild,False,,,False
+2025-05-18,20,438,273,165,11.14,True,False,8.6,0.0,12.2,False,mild,False,,,False
+2025-05-18,21,318,183,135,12.35,True,False,8.4,0.0,12.9,False,mild,False,,,False
+2025-05-18,22,233,129,104,11.17,True,False,8.2,0.0,12.5,False,mild,False,,,False
+2025-05-18,23,248,103,145,14.51,True,False,8.3,0.0,11.8,False,mild,False,,,False
+2025-05-19,0,141,75,66,10.95,False,False,8.3,0.0,13.1,False,mild,False,,,False
+2025-05-19,1,44,29,15,12.63,False,False,8.1,0.0,14.4,False,mild,False,,,False
+2025-05-19,2,35,15,20,9.73,False,False,7.8,0.0,13.2,False,mild,False,,,False
+2025-05-19,3,31,10,21,7.88,False,False,7.2,0.0,14.1,False,mild,False,,,False
+2025-05-19,4,31,18,13,8.92,False,False,6.9,0.0,15.5,False,mild,False,,,False
+2025-05-19,5,160,122,38,8.75,False,False,6.8,0.0,18.0,False,mild,False,,,False
+2025-05-19,6,458,381,77,9.16,False,False,6.5,0.0,19.7,False,mild,False,,,False
+2025-05-19,7,834,686,148,10.3,False,True,6.8,0.0,20.4,False,mild,False,,,False
+2025-05-19,8,990,812,178,9.72,False,True,6.9,0.0,20.6,False,mild,False,,,False
+2025-05-19,9,608,467,141,10.63,False,True,7.2,0.0,17.2,False,mild,False,,,False
+2025-05-19,10,422,274,148,10.87,False,False,7.6,0.0,19.3,False,mild,False,,,False
+2025-05-19,11,458,331,127,11.72,False,False,7.8,0.0,18.6,False,mild,False,,,False
+2025-05-19,12,582,371,211,12.65,False,False,7.9,0.0,16.3,False,mild,False,,,False
+2025-05-19,13,582,369,213,13.23,False,False,9.1,0.0,14.6,False,mild,False,,,False
+2025-05-19,14,596,398,198,12.0,False,False,9.8,0.0,14.4,False,mild,False,,,False
+2025-05-19,15,780,554,226,12.12,False,False,9.8,0.0,15.1,False,mild,False,,,False
+2025-05-19,16,1267,944,323,11.54,False,True,9.9,0.0,15.8,False,mild,False,,,False
+2025-05-19,17,1536,1160,376,11.86,False,True,9.9,0.0,16.7,False,mild,False,,,False
+2025-05-19,18,1182,855,327,11.42,False,True,9.4,0.0,14.9,False,mild,False,,,False
+2025-05-19,19,790,582,208,11.0,False,False,10.0,0.0,10.8,False,mild,False,,,False
+2025-05-19,20,554,378,176,11.96,False,False,9.2,0.0,12.8,False,mild,False,,,False
+2025-05-19,21,403,277,126,11.0,False,False,9.6,0.0,10.5,False,mild,False,,,False
+2025-05-19,22,244,154,90,10.45,False,False,11.4,0.0,20.9,False,mild,False,,,False
+2025-05-19,23,138,76,62,13.75,False,False,12.3,0.0,23.2,False,mild,False,,,False
+2025-05-20,0,73,38,35,10.57,False,False,12.1,0.0,22.3,False,mild,False,,,False
+2025-05-20,1,55,28,27,19.97,False,False,12.1,0.0,22.0,False,mild,False,,,False
+2025-05-20,2,27,11,16,6.84,False,False,12.1,0.0,21.5,False,mild,False,,,False
+2025-05-20,3,20,10,10,9.07,False,False,11.8,0.1,21.3,True,mild,True,,,False
+2025-05-20,4,31,23,8,8.53,False,False,11.6,0.1,22.5,True,mild,True,,,False
+2025-05-20,5,48,37,11,6.07,False,False,11.4,0.2,22.9,True,mild,True,,,False
+2025-05-20,6,95,79,16,7.18,False,False,10.4,5.3,25.1,True,mild,True,,,False
+2025-05-20,7,370,309,61,9.38,False,True,9.4,5.6,28.2,True,mild,True,,,False
+2025-05-20,8,628,534,94,9.43,False,True,9.3,0.5,22.1,True,mild,True,,,False
+2025-05-20,9,440,351,89,9.74,False,True,9.8,0.1,16.9,True,mild,True,,,False
+2025-05-20,10,299,234,65,9.62,False,False,10.3,0.3,19.3,True,mild,True,,,False
+2025-05-20,11,301,238,63,8.98,False,False,12.1,0.1,18.5,True,mild,True,,,False
+2025-05-20,12,265,210,55,7.67,False,False,11.9,3.1,17.9,True,mild,True,,,False
+2025-05-20,13,257,211,46,8.83,False,False,12.9,1.0,16.2,True,mild,True,,,False
+2025-05-20,14,294,218,76,9.42,False,False,13.8,1.1,20.4,True,mild,True,,,False
+2025-05-20,15,490,389,101,10.34,False,False,13.2,0.0,19.6,False,mild,False,,,False
+2025-05-20,16,885,708,177,10.43,False,True,12.7,0.1,20.1,True,mild,True,,,False
+2025-05-20,17,827,671,156,11.17,False,True,12.2,0.0,18.8,False,mild,False,,,False
+2025-05-20,18,557,443,114,10.17,False,True,12.6,2.7,20.2,True,mild,True,,,False
+2025-05-20,19,366,272,94,14.19,False,False,12.8,0.0,20.4,False,mild,False,,,False
+2025-05-20,20,296,225,71,10.08,False,False,11.1,0.1,15.5,True,mild,True,,,False
+2025-05-20,21,231,168,63,9.19,False,False,10.9,1.1,12.9,True,mild,True,,,False
+2025-05-20,22,191,133,58,9.57,False,False,10.6,0.4,14.6,True,mild,True,,,False
+2025-05-20,23,106,58,48,10.93,False,False,10.6,0.3,11.8,True,mild,True,,,False
+2025-05-21,0,98,53,45,9.25,False,False,10.4,0.2,13.0,True,mild,True,,,False
+2025-05-21,1,34,17,17,8.57,False,False,10.3,0.1,13.0,True,mild,True,,,False
+2025-05-21,2,23,10,13,10.78,False,False,10.2,0.0,12.1,False,mild,False,,,False
+2025-05-21,3,27,14,13,15.71,False,False,10.1,0.0,11.6,False,mild,False,,,False
+2025-05-21,4,37,21,16,13.86,False,False,10.1,0.0,7.8,False,mild,False,,,False
+2025-05-21,5,143,116,27,9.12,False,False,9.9,0.0,6.8,False,mild,False,,,False
+2025-05-21,6,385,328,57,9.34,False,False,9.9,0.0,7.2,False,mild,False,,,False
+2025-05-21,7,692,587,105,9.68,False,True,10.1,0.0,9.5,False,mild,False,,,False
+2025-05-21,8,983,804,179,9.4,False,True,10.0,0.2,8.0,True,mild,True,,,False
+2025-05-21,9,481,400,81,9.61,False,True,10.1,0.5,10.3,True,mild,True,,,False
+2025-05-21,10,265,200,65,10.68,False,False,10.1,0.4,11.6,True,mild,True,,,False
+2025-05-21,11,335,258,77,11.43,False,False,10.2,0.1,12.8,True,mild,True,,,False
+2025-05-21,12,445,328,117,9.39,False,False,10.4,0.3,13.2,True,mild,True,,,False
+2025-05-21,13,422,322,100,8.46,False,False,11.2,0.2,12.7,True,mild,True,,,False
+2025-05-21,14,497,383,114,9.82,False,False,11.4,0.2,14.3,True,mild,True,,,False
+2025-05-21,15,710,535,175,11.11,False,False,12.1,0.4,13.3,True,mild,True,,,False
+2025-05-21,16,1211,972,239,10.78,False,True,11.9,0.1,13.3,True,mild,True,,,False
+2025-05-21,17,1410,1112,298,11.73,False,True,11.6,0.0,13.3,False,mild,False,,,False
+2025-05-21,18,1078,829,249,10.11,False,True,10.9,0.2,12.2,True,mild,True,,,False
+2025-05-21,19,622,477,145,10.57,False,False,10.3,0.1,12.0,True,mild,True,,,False
+2025-05-21,20,477,363,114,10.18,False,False,10.0,0.5,11.9,True,mild,True,,,False
+2025-05-21,21,232,170,62,12.21,False,False,9.6,0.1,10.9,True,mild,True,,,False
+2025-05-21,22,200,149,51,9.25,False,False,9.4,0.2,11.7,True,mild,True,,,False
+2025-05-21,23,128,72,56,8.62,False,False,9.4,0.2,11.5,True,mild,True,,,False
+2025-05-22,0,64,37,27,9.05,False,False,9.3,0.2,11.5,True,mild,True,,,False
+2025-05-22,1,44,24,20,12.07,False,False,9.2,0.1,11.5,True,mild,True,,,False
+2025-05-22,2,30,14,16,7.54,False,False,9.1,0.1,13.1,True,mild,True,,,False
+2025-05-22,3,20,10,10,9.21,False,False,8.9,0.1,13.3,True,mild,True,,,False
+2025-05-22,4,29,26,3,10.56,False,False,9.0,0.1,12.9,True,mild,True,,,False
+2025-05-22,5,148,114,34,8.53,False,False,9.1,0.0,10.4,False,mild,False,,,False
+2025-05-22,6,372,299,73,9.29,False,False,9.1,0.0,9.8,False,mild,False,,,False
+2025-05-22,7,800,683,117,10.13,False,True,9.2,0.0,10.0,False,mild,False,,,False
+2025-05-22,8,1101,929,172,10.09,False,True,9.6,0.2,11.5,True,mild,True,,,False
+2025-05-22,9,638,484,154,10.02,False,True,10.0,0.1,12.8,True,mild,True,,,False
+2025-05-22,10,482,347,135,11.76,False,False,11.0,0.0,13.6,False,mild,False,,,False
+2025-05-22,11,530,379,151,11.73,False,False,11.5,0.0,13.5,False,mild,False,,,False
+2025-05-22,12,586,413,173,10.66,False,False,11.4,0.0,13.3,False,mild,False,,,False
+2025-05-22,13,647,455,192,10.7,False,False,11.1,0.0,15.2,False,mild,False,,,False
+2025-05-22,14,668,466,202,12.31,False,False,10.6,0.0,14.4,False,mild,False,,,False
+2025-05-22,15,960,671,289,12.05,False,False,11.0,0.0,15.7,False,mild,False,,,False
+2025-05-22,16,1541,1129,412,12.39,False,True,10.4,0.0,14.6,False,mild,False,,,False
+2025-05-22,17,1986,1394,592,12.87,False,True,10.8,0.0,12.8,False,mild,False,,,False
+2025-05-22,18,1587,1100,487,12.43,False,True,10.4,0.0,11.1,False,mild,False,,,False
+2025-05-22,19,1061,689,372,11.41,False,False,9.9,0.0,9.6,False,mild,False,,,False
+2025-05-22,20,703,469,234,10.83,False,False,10.6,0.0,1.0,False,mild,False,,,False
+2025-05-22,21,563,372,191,10.76,False,False,9.7,0.0,1.8,False,mild,False,,,False
+2025-05-22,22,454,285,169,10.83,False,False,9.2,0.0,2.0,False,mild,False,,,False
+2025-05-22,23,318,173,145,11.56,False,False,8.6,0.0,2.2,False,mild,False,,,False
+2025-05-23,0,237,104,133,9.1,False,False,8.1,0.0,2.6,False,mild,False,,,False
+2025-05-23,1,106,46,60,9.49,False,False,7.8,0.0,2.5,False,mild,False,,,False
+2025-05-23,2,86,51,35,8.47,False,False,7.6,0.0,2.0,False,mild,False,,,False
+2025-05-23,3,48,15,33,10.63,False,False,7.3,0.0,4.7,False,mild,False,,,False
+2025-05-23,4,42,34,8,10.02,False,False,7.6,0.0,5.8,False,mild,False,,,False
+2025-05-23,5,157,123,34,9.66,False,False,6.7,0.0,4.4,False,mild,False,,,False
+2025-05-23,6,340,266,74,9.74,False,False,6.9,0.0,3.0,False,mild,False,,,False
+2025-05-23,7,637,518,119,10.17,False,True,8.4,0.0,3.5,False,mild,False,,,False
+2025-05-23,8,718,584,134,10.26,False,True,9.3,0.0,3.5,False,mild,False,,,False
+2025-05-23,9,622,459,163,11.17,False,True,10.4,0.0,1.6,False,mild,False,,,False
+2025-05-23,10,675,409,266,14.97,False,False,11.6,0.0,3.3,False,mild,False,,,False
+2025-05-23,11,819,502,317,15.84,False,False,12.8,0.0,5.7,False,mild,False,,,False
+2025-05-23,12,1015,597,418,15.87,False,False,13.6,0.0,8.7,False,mild,False,,,False
+2025-05-23,13,1103,607,496,16.4,False,False,14.1,0.0,8.6,False,mild,False,,,False
+2025-05-23,14,1311,728,583,15.33,False,False,12.1,0.0,15.1,False,mild,False,,,False
+2025-05-23,15,1474,887,587,14.72,False,False,11.9,0.0,11.4,False,mild,False,,,False
+2025-05-23,16,1519,929,590,14.29,False,True,11.9,0.0,11.3,False,mild,False,,,False
+2025-05-23,17,1524,944,580,14.47,False,True,11.6,0.0,11.7,False,mild,False,,,False
+2025-05-23,18,1248,764,484,13.23,False,True,10.9,0.0,9.6,False,mild,False,,,False
+2025-05-23,19,957,572,385,12.7,False,False,10.7,0.0,7.8,False,mild,False,,,False
+2025-05-23,20,578,338,240,11.93,False,False,9.9,0.0,7.2,False,mild,False,,,False
+2025-05-23,21,443,248,195,12.65,False,False,9.6,0.0,6.5,False,mild,False,,,False
+2025-05-23,22,394,245,149,11.23,False,False,9.4,0.0,5.5,False,mild,False,,,False
+2025-05-23,23,333,177,156,11.43,False,False,9.4,0.0,6.0,False,mild,False,,,False
+2025-05-24,0,350,156,194,11.86,True,False,9.0,0.0,4.3,False,mild,False,,,False
+2025-05-24,1,271,113,158,10.81,True,False,8.5,0.0,3.2,False,mild,False,,,False
+2025-05-24,2,173,56,117,12.0,True,False,8.5,0.0,2.7,False,mild,False,,,False
+2025-05-24,3,80,25,55,9.49,True,False,7.9,0.0,4.0,False,mild,False,,,False
+2025-05-24,4,54,25,29,16.51,True,False,7.4,0.0,2.8,False,mild,False,,,False
+2025-05-24,5,101,58,43,18.47,True,False,7.6,0.0,0.9,False,mild,False,,,False
+2025-05-24,6,213,127,86,14.56,True,False,8.1,0.0,1.6,False,mild,False,,,False
+2025-05-24,7,296,198,98,14.78,True,True,10.1,0.0,5.0,False,mild,False,,,False
+2025-05-24,8,511,336,175,15.45,True,True,10.8,0.0,7.5,False,mild,False,,,False
+2025-05-24,9,821,444,377,17.64,True,True,11.8,0.0,6.5,False,mild,False,,,False
+2025-05-24,10,1169,612,557,18.16,True,False,12.8,0.0,7.0,False,mild,False,,,False
+2025-05-24,11,1395,675,720,20.56,True,False,13.6,0.0,8.5,False,mild,False,,,False
+2025-05-24,12,1455,691,764,19.94,True,False,13.9,0.0,9.8,False,mild,False,,,False
+2025-05-24,13,1561,687,874,20.81,True,False,13.9,0.0,11.2,False,mild,False,,,False
+2025-05-24,14,1568,683,885,19.89,True,False,13.9,0.0,10.6,False,mild,False,,,False
+2025-05-24,15,1594,669,925,19.53,True,False,13.8,0.0,10.7,False,mild,False,,,False
+2025-05-24,16,1430,678,752,20.13,True,True,13.7,0.0,12.2,False,mild,False,,,False
+2025-05-24,17,1174,602,572,17.51,True,True,13.3,0.0,11.8,False,mild,False,,,False
+2025-05-24,18,1155,616,539,15.96,True,True,12.5,0.0,10.7,False,mild,False,,,False
+2025-05-24,19,899,453,446,13.89,True,False,11.6,0.0,8.7,False,mild,False,,,False
+2025-05-24,20,587,293,294,14.86,True,False,11.2,0.0,9.9,False,mild,False,,,False
+2025-05-24,21,487,259,228,12.69,True,False,10.8,0.0,11.0,False,mild,False,,,False
+2025-05-24,22,561,242,319,14.32,True,False,10.8,0.0,9.2,False,mild,False,,,False
+2025-05-24,23,487,216,271,14.79,True,False,10.9,0.0,8.8,False,mild,False,,,False
+2025-05-25,0,332,144,188,12.03,True,False,10.9,0.0,8.3,False,mild,False,,,False
+2025-05-25,1,268,94,174,10.51,True,False,10.9,0.0,7.1,False,mild,False,,,False
+2025-05-25,2,167,83,84,11.77,True,False,10.8,0.0,4.8,False,mild,False,,,False
+2025-05-25,3,93,39,54,12.96,True,False,10.8,0.0,4.6,False,mild,False,,,False
+2025-05-25,4,45,20,25,10.76,True,False,10.6,0.2,3.6,True,mild,True,,,False
+2025-05-25,5,51,35,16,17.41,True,False,10.9,0.0,4.3,False,mild,False,,,False
+2025-05-25,6,111,87,24,10.5,True,False,10.9,0.0,2.6,False,mild,False,,,False
+2025-05-25,7,168,95,73,16.99,True,True,11.1,0.0,5.2,False,mild,False,,,False
+2025-05-25,8,270,181,89,13.4,True,True,10.9,0.1,6.6,True,mild,True,,,False
+2025-05-25,9,451,268,183,15.51,True,True,10.3,0.1,8.3,True,mild,True,,,False
+2025-05-25,10,750,401,349,17.28,True,False,10.8,0.0,8.3,False,mild,False,,,False
+2025-05-25,11,914,480,434,17.6,True,False,11.0,0.0,6.6,False,mild,False,,,False
+2025-05-25,12,1147,573,574,20.25,True,False,12.1,0.0,6.4,False,mild,False,,,False
+2025-05-25,13,1299,608,691,21.1,True,False,13.8,0.0,8.7,False,mild,False,,,False
+2025-05-25,14,1477,590,887,22.08,True,False,14.4,0.0,9.5,False,mild,False,,,False
+2025-05-25,15,1691,716,975,21.21,True,False,14.6,0.0,9.1,False,mild,False,,,False
+2025-05-25,16,1585,698,887,19.78,True,True,14.8,0.0,7.5,False,mild,False,,,False
+2025-05-25,17,1463,676,787,19.44,True,True,14.9,0.0,6.3,False,mild,False,,,False
+2025-05-25,18,1288,579,709,17.71,True,True,14.6,0.0,6.5,False,mild,False,,,False
+2025-05-25,19,1049,463,586,18.29,True,False,13.6,0.0,6.7,False,mild,False,,,False
+2025-05-25,20,680,320,360,15.87,True,False,12.6,0.0,6.6,False,mild,False,,,False
+2025-05-25,21,525,262,263,13.72,True,False,11.5,0.0,8.3,False,mild,False,,,False
+2025-05-25,22,507,273,234,12.13,True,False,10.9,0.0,10.3,False,mild,False,,,False
+2025-05-25,23,302,152,150,11.65,True,False,10.5,0.0,8.6,False,mild,False,,,False
+2025-05-26,0,271,133,138,9.57,False,False,10.3,0.0,10.3,False,mild,False,,,False
+2025-05-26,1,141,76,65,10.54,False,False,9.8,0.0,5.1,False,mild,False,,,False
+2025-05-26,2,102,37,65,12.68,False,False,8.9,0.0,3.6,False,mild,False,,,False
+2025-05-26,3,78,34,44,10.51,False,False,9.4,0.0,7.0,False,mild,False,,,False
+2025-05-26,4,46,21,25,10.92,False,False,9.0,0.0,9.6,False,mild,False,,,False
+2025-05-26,5,57,31,26,13.05,False,False,8.6,0.0,10.6,False,mild,False,,,False
+2025-05-26,6,122,89,33,12.11,False,False,8.6,0.0,10.0,False,mild,False,,,False
+2025-05-26,7,231,149,82,12.79,False,True,9.4,0.0,9.6,False,mild,False,,,False
+2025-05-26,8,366,245,121,16.69,False,True,11.1,0.0,9.6,False,mild,False,,,False
+2025-05-26,9,591,346,245,16.48,False,True,11.9,0.0,10.5,False,mild,False,,,False
+2025-05-26,10,871,458,413,18.8,False,False,12.6,0.0,11.8,False,mild,False,,,False
+2025-05-26,11,1241,611,630,20.67,False,False,13.4,0.0,11.7,False,mild,False,,,False
+2025-05-26,12,1423,673,750,21.64,False,False,13.9,0.0,12.4,False,mild,False,,,False
+2025-05-26,13,1324,624,700,19.68,False,False,14.4,0.0,11.5,False,mild,False,,,False
+2025-05-26,14,1510,658,852,20.62,False,False,15.1,0.0,12.2,False,mild,False,,,False
+2025-05-26,15,1507,731,776,19.39,False,False,15.5,0.0,12.4,False,mild,False,,,False
+2025-05-26,16,1428,685,743,20.02,False,True,15.6,0.0,12.2,False,mild,False,,,False
+2025-05-26,17,1239,616,623,19.68,False,True,14.9,0.0,10.9,False,mild,False,,,False
+2025-05-26,18,946,511,435,16.36,False,True,13.9,0.0,11.5,False,mild,False,,,False
+2025-05-26,19,757,418,339,15.87,False,False,12.4,0.0,11.6,False,mild,False,,,False
+2025-05-26,20,466,267,199,12.57,False,False,12.1,0.0,9.7,False,mild,False,,,False
+2025-05-26,21,285,173,112,12.27,False,False,11.1,0.0,9.3,False,mild,False,,,False
+2025-05-26,22,244,144,100,11.19,False,False,10.9,0.0,7.0,False,mild,False,,,False
+2025-05-26,23,154,93,61,10.76,False,False,11.1,0.0,5.5,False,mild,False,,,False
+2025-05-27,0,83,27,56,16.85,False,False,11.2,0.0,6.2,False,mild,False,,,False
+2025-05-27,1,64,33,31,8.47,False,False,10.9,0.0,6.1,False,mild,False,,,False
+2025-05-27,2,26,15,11,9.68,False,False,10.6,0.0,7.0,False,mild,False,,,False
+2025-05-27,3,20,11,9,11.16,False,False,10.6,0.0,6.1,False,mild,False,,,False
+2025-05-27,4,35,25,10,9.69,False,False,11.1,0.0,8.5,False,mild,False,,,False
+2025-05-27,5,176,140,36,9.5,False,False,11.4,0.0,9.2,False,mild,False,,,False
+2025-05-27,6,568,476,92,9.51,False,False,11.4,0.0,8.8,False,mild,False,,,False
+2025-05-27,7,1060,881,179,10.47,False,True,12.3,0.0,9.4,False,mild,False,,,False
+2025-05-27,8,1334,1105,229,11.21,False,True,13.5,0.0,10.3,False,mild,False,,,False
+2025-05-27,9,700,523,177,12.17,False,True,14.2,0.0,11.8,False,mild,False,,,False
+2025-05-27,10,506,329,177,12.65,False,False,15.4,0.0,12.7,False,mild,False,,,False
+2025-05-27,11,592,387,205,13.73,False,False,15.8,0.0,11.7,False,mild,False,,,False
+2025-05-27,12,686,454,232,13.64,False,False,15.9,0.0,12.8,False,mild,False,,,False
+2025-05-27,13,764,477,287,14.32,False,False,15.2,0.1,11.4,True,mild,True,,,False
+2025-05-27,14,793,486,307,14.22,False,False,15.4,0.0,12.9,False,mild,False,,,False
+2025-05-27,15,989,665,324,12.95,False,False,16.1,0.0,14.1,False,mild,False,,,False
+2025-05-27,16,1690,1239,451,12.32,False,True,15.9,0.0,14.6,False,mild,False,,,False
+2025-05-27,17,2095,1542,553,13.33,False,True,14.7,0.0,14.2,False,mild,False,,,False
+2025-05-27,18,1528,1075,453,12.03,False,True,14.3,0.0,13.8,False,mild,False,,,False
+2025-05-27,19,1127,757,370,11.92,False,False,13.4,0.0,13.2,False,mild,False,,,False
+2025-05-27,20,775,469,306,11.95,False,False,12.8,0.0,11.7,False,mild,False,,,False
+2025-05-27,21,481,328,153,10.53,False,False,12.2,0.0,10.1,False,mild,False,,,False
+2025-05-27,22,460,263,197,11.17,False,False,12.1,0.0,8.1,False,mild,False,,,False
+2025-05-27,23,204,131,73,11.11,False,False,12.2,0.0,7.2,False,mild,False,,,False
+2025-05-28,0,136,61,75,11.5,False,False,12.1,0.0,8.4,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-28,1,66,32,34,11.62,False,False,12.0,0.0,6.1,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-28,2,46,20,26,9.96,False,False,11.9,0.0,6.7,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-28,3,30,19,11,9.92,False,False,11.6,0.2,6.7,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-05-28,4,29,21,8,7.02,False,False,11.9,0.8,7.5,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-05-28,5,139,111,28,10.27,False,False,11.9,0.0,9.7,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-28,6,396,328,68,8.75,False,False,12.0,0.0,5.4,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-28,7,695,577,118,9.2,False,True,12.1,0.0,5.1,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-28,8,526,436,90,9.16,False,True,12.8,1.6,5.8,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-05-28,9,199,167,32,8.19,False,True,12.8,1.5,5.6,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-05-28,10,114,90,24,9.28,False,False,12.8,2.2,7.7,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-05-28,11,276,239,37,9.01,False,False,12.1,2.6,8.7,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-05-28,12,499,367,132,10.06,False,False,13.0,0.8,11.4,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-05-28,13,574,405,169,12.42,False,False,13.6,0.1,10.3,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-05-28,14,778,536,242,12.81,False,False,14.2,0.0,10.9,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-28,15,993,679,314,13.58,False,False,15.0,0.0,11.1,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-28,16,1586,1156,430,12.83,False,True,14.8,0.0,11.4,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-28,17,2036,1432,604,12.69,False,True,14.1,0.0,10.0,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-28,18,1703,1165,538,12.83,False,True,13.9,0.0,9.9,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-28,19,1154,740,414,11.88,False,False,12.9,0.0,7.8,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-28,20,784,542,242,11.78,False,False,11.9,0.0,6.0,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-28,21,713,417,296,12.23,False,False,11.2,0.0,6.2,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-28,22,411,243,168,11.06,False,False,10.5,0.0,6.0,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-28,23,250,139,111,10.59,False,False,10.3,0.0,2.7,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-29,0,107,63,44,10.14,False,False,10.2,0.0,1.6,False,mild,False,,,False
+2025-05-29,1,62,27,35,9.51,False,False,10.1,0.0,3.7,False,mild,False,,,False
+2025-05-29,2,44,27,17,7.84,False,False,10.1,0.0,5.7,False,mild,False,,,False
+2025-05-29,3,33,23,10,6.05,False,False,10.1,0.0,6.2,False,mild,False,,,False
+2025-05-29,4,51,32,19,8.52,False,False,10.1,0.0,6.8,False,mild,False,,,False
+2025-05-29,5,158,132,26,9.67,False,False,10.0,0.0,7.1,False,mild,False,,,False
+2025-05-29,6,552,447,105,9.78,False,False,9.9,0.0,8.0,False,mild,False,,,False
+2025-05-29,7,1089,896,193,10.62,False,True,10.5,0.0,7.2,False,mild,False,,,False
+2025-05-29,8,1381,1132,249,10.45,False,True,12.9,0.0,7.4,False,mild,False,,,False
+2025-05-29,9,781,585,196,11.7,False,True,14.2,0.0,7.4,False,mild,False,,,False
+2025-05-29,10,607,398,209,14.86,False,False,15.9,0.0,6.4,False,mild,False,,,False
+2025-05-29,11,747,468,279,14.1,False,False,18.1,0.0,6.3,False,mild,False,,,False
+2025-05-29,12,906,609,297,13.2,False,False,19.5,0.0,4.2,False,mild,False,,,False
+2025-05-29,13,907,561,346,15.57,False,False,20.1,0.0,0.4,False,warm,False,,,False
+2025-05-29,14,895,562,333,14.88,False,False,20.3,0.0,3.8,False,warm,False,,,False
+2025-05-29,15,1226,811,415,14.2,False,False,19.5,0.2,7.8,True,mild,True,,,False
+2025-05-29,16,1940,1350,590,13.67,False,True,18.9,0.0,9.4,False,mild,False,,,False
+2025-05-29,17,2367,1607,760,14.03,False,True,18.9,0.0,8.6,False,mild,False,,,False
+2025-05-29,18,2045,1279,766,13.9,False,True,18.6,0.0,7.2,False,mild,False,,,False
+2025-05-29,19,1430,887,543,14.48,False,False,18.4,0.0,6.8,False,mild,False,,,False
+2025-05-29,20,1000,622,378,14.23,False,False,17.5,0.0,1.0,False,mild,False,,,False
+2025-05-29,21,790,489,301,11.96,False,False,16.3,0.0,1.3,False,mild,False,,,False
+2025-05-29,22,591,317,274,11.44,False,False,15.9,0.0,0.6,False,mild,False,,,False
+2025-05-29,23,321,165,156,12.01,False,False,14.8,0.0,2.7,False,mild,False,,,False
+2025-05-30,0,183,83,100,10.72,False,False,13.6,0.0,3.2,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-30,1,108,48,60,13.0,False,False,13.4,0.0,0.2,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-30,2,65,26,39,15.41,False,False,12.6,0.0,3.9,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-30,3,42,25,17,12.64,False,False,12.9,0.0,6.2,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-30,4,54,25,29,10.46,False,False,12.2,0.0,4.9,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-30,5,231,162,69,13.08,False,False,11.8,0.0,4.9,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-30,6,516,404,112,10.35,False,False,12.4,0.0,5.6,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-30,7,1061,805,256,11.53,False,True,13.6,0.0,10.4,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-30,8,1087,842,245,12.36,False,True,15.2,0.0,7.2,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-30,9,750,510,240,14.02,False,True,18.2,0.0,7.5,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-30,10,856,494,362,16.38,False,False,20.5,0.0,8.0,False,warm,False,Chicago Cubs Home Game,sports,True
+2025-05-30,11,1064,617,447,16.14,False,False,22.0,0.0,9.3,False,warm,False,Chicago Cubs Home Game,sports,True
+2025-05-30,12,1329,773,556,15.4,False,False,23.3,0.0,8.9,False,warm,False,Chicago Cubs Home Game,sports,True
+2025-05-30,13,1224,696,528,15.3,False,False,23.9,0.0,9.8,False,warm,False,Chicago Cubs Home Game,sports,True
+2025-05-30,14,1171,658,513,16.38,False,False,23.9,0.0,13.9,False,warm,False,Chicago Cubs Home Game,sports,True
+2025-05-30,15,1552,921,631,14.5,False,False,23.5,0.0,13.8,False,warm,False,Chicago Cubs Home Game,sports,True
+2025-05-30,16,1832,1060,772,13.99,False,True,25.5,0.0,20.4,False,warm,False,Chicago Cubs Home Game,sports,True
+2025-05-30,17,2091,1280,811,14.55,False,True,21.0,0.2,11.4,True,warm,True,Chicago Cubs Home Game,sports,True
+2025-05-30,18,1786,1079,707,14.9,False,True,21.0,2.2,6.1,True,warm,True,Chicago Cubs Home Game,sports,True
+2025-05-30,19,1299,691,608,14.61,False,False,20.7,0.2,16.2,True,warm,True,Chicago Cubs Home Game,sports,True
+2025-05-30,20,968,540,428,12.62,False,False,22.9,0.0,19.8,False,warm,False,Chicago Cubs Home Game,sports,True
+2025-05-30,21,630,358,272,13.56,False,False,21.1,0.0,19.7,False,warm,False,Chicago Cubs Home Game,sports,True
+2025-05-30,22,625,343,282,12.94,False,False,19.8,0.1,18.8,True,mild,True,Chicago Cubs Home Game,sports,True
+2025-05-30,23,615,271,344,14.31,False,False,18.1,0.0,16.8,False,mild,False,Chicago Cubs Home Game,sports,True
+2025-05-31,0,585,213,372,13.39,True,False,17.6,0.0,13.0,False,mild,False,,,False
+2025-05-31,1,278,126,152,10.66,True,False,13.7,0.0,15.3,False,mild,False,,,False
+2025-05-31,2,127,50,77,11.96,True,False,11.5,0.0,13.0,False,mild,False,,,False
+2025-05-31,3,80,35,45,12.02,True,False,11.1,0.0,12.9,False,mild,False,,,False
+2025-05-31,4,55,32,23,12.78,True,False,10.5,0.0,10.6,False,mild,False,,,False
+2025-05-31,5,67,43,24,13.74,True,False,10.1,0.0,9.1,False,mild,False,,,False
+2025-05-31,6,136,89,47,14.45,True,False,9.9,0.0,10.4,False,mild,False,,,False
+2025-05-31,7,382,243,139,12.92,True,True,10.4,0.0,10.1,False,mild,False,,,False
+2025-05-31,8,708,442,266,13.77,True,True,11.1,0.0,12.8,False,mild,False,,,False
+2025-05-31,9,909,547,362,15.19,True,True,11.6,0.0,13.9,False,mild,False,,,False
+2025-05-31,10,1204,736,468,15.7,True,False,12.1,0.0,14.7,False,mild,False,,,False
+2025-05-31,11,1501,757,744,17.93,True,False,12.6,0.0,15.4,False,mild,False,,,False
+2025-05-31,12,1674,837,837,17.11,True,False,12.5,0.0,16.2,False,mild,False,,,False
+2025-05-31,13,1697,883,814,18.52,True,False,12.6,0.0,15.0,False,mild,False,,,False
+2025-05-31,14,1566,771,795,18.33,True,False,13.2,0.0,14.7,False,mild,False,,,False
+2025-05-31,15,1563,713,850,18.6,True,False,13.6,0.0,14.3,False,mild,False,,,False
+2025-05-31,16,1757,849,908,17.94,True,True,13.8,0.0,13.5,False,mild,False,,,False
+2025-05-31,17,1616,806,810,16.85,True,True,13.4,0.0,12.1,False,mild,False,,,False
+2025-05-31,18,1541,776,765,15.05,True,True,12.9,0.0,10.5,False,mild,False,,,False
+2025-05-31,19,1216,608,608,14.91,True,False,12.3,0.0,8.2,False,mild,False,,,False
+2025-05-31,20,795,409,386,15.14,True,False,11.8,0.0,3.1,False,mild,False,,,False
+2025-05-31,21,664,323,341,13.44,True,False,11.4,0.0,1.2,False,mild,False,,,False
+2025-05-31,22,585,279,306,12.73,True,False,11.1,0.0,2.1,False,mild,False,,,False
+2025-05-31,23,392,185,207,10.42,True,False,10.8,0.0,3.3,False,mild,False,,,False
