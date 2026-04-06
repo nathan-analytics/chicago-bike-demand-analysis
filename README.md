@@ -138,11 +138,11 @@ chicago-bike-demand-intelligence/
 
 ## How to Reproduce
 
-1. Download the raw bike trip data from the Divvy system data source
-2. Place raw files in `01_data_raw/`
-3. Run the notebooks in `02_notebooks/` in order
-4. Load the final dataset into PostgreSQL using the SQL scripts in `03_sql/`
-5. Open the Power BI dashboard in `05_powerbi/`
+1. Download raw bike trip data from the Divvy data source  
+2. Place files in the `01_data_raw/` folder  
+3. Run notebooks in `02_notebooks/` in order  
+4. Load the final dataset into PostgreSQL using `03_sql/`  
+5. Open the dashboard in `05_powerbi/chicago_bike_demand_dashboard.pbix`
 
 ---
 
