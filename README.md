@@ -1,4 +1,4 @@
-# Chicago Bike Demand Intelligence
+# Chicago Bike Demand
 
 End-to-end analytics project focused on understanding how external factors influence bike-sharing demand and how those insights can support real business decisions.
 
@@ -109,7 +109,7 @@ This project identifies the key factors influencing demand and translates them i
 
 ## Project Structure
 ```
-chicago-bike-demand-intelligence/
+chicago-bike-demand/
 │
 ├── 01_data_raw/
 │   └── README.md
