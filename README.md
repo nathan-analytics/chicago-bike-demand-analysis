@@ -109,28 +109,28 @@ This project identifies the key factors influencing demand and translates them i
 
 ## Project Structure
 ```
-chicago-bike-demand/
+chicago-bike-demand-intelligence/
 │
 ├── 01_data_raw/
-│   └── README.md
+│ └── README.md
 ├── 02_notebooks/
-│   ├── 01_weather_demand_analysis.ipynb
-│   ├── 02_clean_divvy_data.ipynb
-│   ├── 03_build_city_hourly_demand.ipynb
-│   ├── 04_get_weather_data.ipynb
-│   └── 05_join_city_demand_weather.ipynb
+│ ├── 01_weather_demand_analysis.ipynb
+│ ├── 02_clean_divvy_data.ipynb
+│ ├── 03_build_city_hourly_demand.ipynb
+│ ├── 04_get_weather_data.ipynb
+│ └── 05_join_city_demand_weather.ipynb
 ├── 03_sql/
-│   ├── schema.sql
-│   └── analysis_queries.sql
+│ ├── schema.sql
+│ └── analysis_queries.sql
 ├── 04_data_final/
-│   ├── fact_demand_weather_events.csv
-│   └── dim_events.csv
+│ ├── fact_demand_weather_events.csv
+│ └── dim_events.csv
 ├── 05_powerbi/
-│   └── chicago_bike_demand_dashboard.pbix
+│ └── chicago_bike_demand_dashboard.pbix
 ├── 06_screenshots/
-│   ├── executive_overview.png
-│   ├── weather_impact.png
-│   └── event_impact.png
+│ ├── executive_overview.png
+│ ├── weather_impact.png
+│ └── event_impact.png
 └── README.md
 ```
 
