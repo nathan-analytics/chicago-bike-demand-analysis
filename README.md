@@ -84,28 +84,27 @@ This project identifies the key factors influencing demand and translates them i
 
 ## Key Insights
 
-### Weather as the Primary Driver
+- Weather has a significant impact on bike demand  
+  - Rain reduces average hourly demand by ~32%, making it one of the strongest negative drivers  
 
-- Demand increases significantly in warm conditions  
-- Cold temperatures reduce overall usage  
-- Rain leads to a ~32% decrease in demand  
+- Temperature strongly influences ridership levels  
+  - Warm conditions generate nearly 4x higher demand than cold weather  
+  - Mild conditions show moderate demand, reinforcing clear seasonal behavior  
 
----
+- Demand patterns align with commuter behavior  
+  - Peak demand occurs during late afternoon hours (~5 PM), indicating heavy usage during commuting periods  
 
-### Events as Conditional Modifiers
+- Events alone are not a primary demand driver  
+  - Overall demand is slightly lower on event days compared to non-event days  
+  - However, events amplify demand when combined with favorable conditions (warm weather, no rain)  
 
-- Overall demand is slightly lower on event days  
-- Events increase demand during warm conditions  
-- Events help offset demand declines during rain  
+- Member riders consistently drive the majority of usage  
+  - Member trips make up the largest share of demand across all conditions  
+  - Casual ridership increases with better weather but remains secondary  
 
----
-
-### Demand Patterns
-
-- Demand peaks during commuting hours  
-- Clear and consistent daily usage cycles  
-
----
+- Demand is driven by the interaction of multiple factors  
+  - Weather, time of day, and events together create the strongest impact on ridership patterns  
+  - No single variable independently explains demand fluctuations  
 
 ## Business Recommendations
 
