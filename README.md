@@ -24,10 +24,10 @@ The analysis shows that environmental factors are the primary drivers of demand,
 <img width="1317" height="740" alt="Executive Overview" src="https://github.com/user-attachments/assets/4f9c3b73-05c1-4a6d-ac3a-c5442286d476" />
 
 ### Weather Impact
-<img width="1315" height="740" alt="Weather Bike Demand" src="https://github.com/user-attachments/assets/49ca2a60-fce7-44ce-b551-658c044a05a5" />
+<img width="1322" height="748" alt="weather_impact" src="https://github.com/user-attachments/assets/6d261901-0383-49cc-8393-d34bfaf20fe4" />
 
 ### Event Impact
-<img width="1275" height="714" alt="Events Bike Demand" src="https://github.com/user-attachments/assets/aee244d3-4633-4ac4-8a1a-4ae007b474d8" />
+<img width="1280" height="721" alt="event_impact" src="https://github.com/user-attachments/assets/0aaba2eb-8306-43d6-86c6-6ea199d67fda" />
 
 ---
 
