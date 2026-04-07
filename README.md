@@ -63,10 +63,16 @@ This project identifies the key drivers of demand and translates them into actio
 ## Dashboard Preview
 
 **Executive Overview**
+
+<img width="1317" height="740" alt="executive_overview" src="https://github.com/user-attachments/assets/2b6b0d8e-72c5-4f83-b971-50f2493f86bc" />
+
 **Weather Impact**
+
+<img width="1322" height="748" alt="weather_impact" src="https://github.com/user-attachments/assets/7c96d585-34ba-433c-bfda-f7f36ec063bb" />
+
 **Event Impact**
 
-*(Insert your images here exactly as you have them)*
+<img width="1280" height="721" alt="event_impact" src="https://github.com/user-attachments/assets/3f74f8da-7d6a-4afa-9ae7-8354cb5ebee6" />
 
 ---
 
