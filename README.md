@@ -33,6 +33,10 @@ The analysis shows that environmental factors are the primary drivers of demand,
 
 ---
 
+[chicago-bike-demand.pdf](https://github.com/user-attachments/files/26547024/chicago-bike-demand.pdf)
+
+---
+
 ## Business Problem
 
 Bike-sharing demand fluctuates significantly based on external conditions. Without a clear understanding of these drivers, companies face challenges in:
