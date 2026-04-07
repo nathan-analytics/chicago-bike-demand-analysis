@@ -76,6 +76,12 @@ This project identifies the key drivers of demand and translates them into actio
 
 ---
 
+## Case Study
+
+[chicago-bike-demand.pdf](https://github.com/user-attachments/files/26550960/chicago-bike-demand.pdf)
+
+---
+
 ## Data Sources
 
 - Divvy bike trip data (~1.1M records)
