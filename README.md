@@ -48,6 +48,14 @@ This project identifies the key drivers of demand and translates them into actio
 
 ---
 
+## Data Pipeline Architecture
+
+This project was built as a multi-source analytics pipeline:
+
+Weather API → Python (Data Cleaning & Feature Engineering) → PostgreSQL (Data Modeling & Storage) → Power BI (Dashboard & Insights)
+
+---
+
 ## Data Pipeline
 Built an end-to-end data pipeline integrating multiple data sources to analyze bike demand drivers.
 
