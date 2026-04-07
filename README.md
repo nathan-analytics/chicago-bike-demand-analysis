@@ -1,18 +1,20 @@
 # Chicago Bike Demand Analysis
 
-End-to-end analytics project analyzing how weather and external factors impact bike-sharing demand to support operational planning and resource allocation.
+Built an end-to-end analytics pipeline combining bike trips, weather API data, and event data to identify key drivers of demand.
 
 ---
 
 ## Project Summary
 
-Analyzed over 1.1 million bike trips by integrating trip data, hourly weather data, and event data to identify the key drivers of demand.
+Analyzed 1.1M+ records to uncover how external factors like weather and events impact usage patterns and operational planning.
 
 Built a complete analytics workflow from raw data processing to a business-facing Power BI dashboard.
 
 Key findings show that demand is highly sensitive to weather conditions, with rain reducing demand by ~32% and warm temperatures driving up to 4x higher usage. Events alone do not increase demand but significantly amplify usage when combined with favorable conditions.
 
 This project demonstrates how external data can be leveraged to improve demand forecasting and operational decision-making.
+
+These insights can be used to optimize bike distribution, staffing, and demand forecasting.
 
 ---
 
@@ -59,13 +61,13 @@ Weather API → Python (Data Cleaning & Feature Engineering) → PostgreSQL (Dat
 ## Data Pipeline
 Built an end-to-end data pipeline integrating multiple data sources to analyze bike demand drivers.
 
-- Collected and processed ~1.1M Divvy bike trip records
-- Integrated external weather data via API (temperature, precipitation, wind) to enrich demand analysis
-- Merged event data to capture real-world demand drivers and contextual trends
-- Engineered features in Python (Pandas) including time-based metrics, weather flags, and demand indicators
-- Aggregated data into an hourly demand dataset for analysis and modeling
-- Structured and modeled final dataset in PostgreSQL for efficient querying and reporting
-- Developed an interactive Power BI dashboard to communicate insights and support decision-making
+- Collected Divvy bike trip data (~1.1M+ records)
+- Integrated hourly weather data via external API (temperature, precipitation, wind)
+- Merged event data to capture real-world demand drivers
+- Performed data cleaning and feature engineering using Python (Pandas)
+- Built aggregated hourly demand dataset
+- Modeled final dataset in PostgreSQL
+- Developed Power BI dashboard for analysis and decision-making
 
 ---
 
