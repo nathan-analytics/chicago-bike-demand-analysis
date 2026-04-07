@@ -34,6 +34,12 @@ These insights can be used to optimize bike distribution, staffing, and demand f
 
 ---
 
+## Case Study
+
+[chicago-bike-demand.pdf](https://github.com/user-attachments/files/26550960/chicago-bike-demand.pdf)
+
+---
+
 ## Key Insights
 
 - Rain reduces bike demand by ~32%, making it one of the strongest negative drivers
@@ -84,12 +90,6 @@ Raw Data (Divvy Trip Data CSVs + Weather API + Event Data)
 → Power BI (Dashboard and Insights)
 
 Includes external API data ingestion (weather data) to enhance demand analysis.
-
----
-
-## Case Study
-
-[chicago-bike-demand.pdf](https://github.com/user-attachments/files/26550960/chicago-bike-demand.pdf)
 
 ---
 
