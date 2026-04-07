@@ -49,14 +49,15 @@ This project identifies the key drivers of demand and translates them into actio
 ---
 
 ## Data Pipeline
+Built an end-to-end data pipeline integrating multiple data sources to analyze bike demand drivers.
 
-- Collected and processed Divvy bike trip data (~1.1M records)
-- Integrated hourly weather data (temperature, precipitation, wind)
-- Merged event data to analyze real-world demand drivers
-- Engineered features using Python (Pandas)
-- Built aggregated hourly demand dataset
-- Modeled final dataset in PostgreSQL
-- Developed Power BI dashboard for business insights
+- Collected and processed ~1.1M Divvy bike trip records
+- Integrated external weather data via API (temperature, precipitation, wind) to enrich demand analysis
+- Merged event data to capture real-world demand drivers and contextual trends
+- Engineered features in Python (Pandas) including time-based metrics, weather flags, and demand indicators
+- Aggregated data into an hourly demand dataset for analysis and modeling
+- Structured and modeled final dataset in PostgreSQL for efficient querying and reporting
+- Developed an interactive Power BI dashboard to communicate insights and support decision-making
 
 ---
 
