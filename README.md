@@ -77,13 +77,13 @@ Weather API → Python (Data Cleaning & Feature Engineering) → PostgreSQL (Dat
 ## Data Pipeline
 Built an end-to-end data pipeline integrating multiple data sources to analyze bike demand drivers.
 
-- Collected Divvy bike trip data (~1.1M+ records)
-- Integrated hourly weather data via external API (temperature, precipitation, wind)
-- Merged event data to capture real-world demand drivers
-- Performed data cleaning and feature engineering using Python (Pandas)
-- Built aggregated hourly demand dataset
-- Modeled final dataset in PostgreSQL
-- Developed Power BI dashboard for analysis and decision-making
+Raw Data (Divvy Trip Data CSVs + Weather API + Event Data)  
+→ Python (Data Cleaning, Feature Engineering, API Integration)  
+→ PostgreSQL (Data Modeling and Storage)  
+→ SQL (Analytical Views and Aggregations)  
+→ Power BI (Dashboard and Insights)
+
+Includes external API data ingestion (weather data) to enhance demand analysis.
 
 ---
 
