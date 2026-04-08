@@ -1,20 +1,31 @@
 # Chicago Bike Demand Analysis
 
-Built an end-to-end analytics pipeline combining bike trips, weather API data, and event data to identify key drivers of demand.
+End-to-end analytics project combining bike trip data, weather API data, and event data to identify demand drivers and improve operational planning.
 
 ---
 
 ## Project Summary
 
-Analyzed 1.1M+ records to uncover how external factors like weather and events impact usage patterns and operational planning.
+Analyzed 1.1M+ bike trips by integrating trip, weather, and event data to understand what drives demand.
 
-Built a complete analytics workflow from raw data processing to a business-facing Power BI dashboard.
+Built a full pipeline (Python → PostgreSQL → Power BI) and found:
 
-Key findings show that demand is highly sensitive to weather conditions, with rain reducing demand by ~32% and warm temperatures driving up to 4x higher usage. Events alone do not increase demand but significantly amplify usage when combined with favorable conditions.
+- Rain reduces demand by ~32%
+- Warm weather drives up to 4x higher usage
+- Events only impact demand when combined with favorable conditions
 
-This project demonstrates how external data can be leveraged to improve demand forecasting and operational decision-making.
+Result: clear, data-driven recommendations for demand forecasting and operational optimization.
 
-These insights can be used to optimize bike distribution, staffing, and demand forecasting.
+---
+
+## Why This Matters
+
+Bike-sharing systems depend on accurate demand planning.
+
+This analysis shows how external data (weather + events) can be used to:
+- Predict demand spikes and drops
+- Optimize bike distribution and staffing
+- Reduce operational inefficiencies
 
 ---
 
@@ -42,114 +53,57 @@ These insights can be used to optimize bike distribution, staffing, and demand f
 
 ## Key Insights
 
-- Rain reduces bike demand by ~32%, making it one of the strongest negative drivers
-- Warm weather drives up to 4x higher demand compared to cold conditions
-- Peak demand occurs during late afternoon hours (~5 PM), aligning with commuter behavior
-- Events do not increase demand independently but amplify demand under favorable weather conditions
-- Member riders drive the majority of usage, while casual usage increases with better weather
-- Demand is driven by the interaction of multiple factors rather than a single variable
-
----
-
-## Business Problem
-
-Bike-sharing demand fluctuates based on external conditions. Without understanding these drivers, companies struggle to:
-
-- Allocate bikes efficiently
-- Plan staffing and operations
-- Respond to demand variability
-
-This project identifies the key drivers of demand and translates them into actionable insights.
-
----
-
-## Business Impact
-
-- Improve bike availability during peak demand conditions (warm weather, commuting hours)
-- Use weather forecasts to proactively adjust operations and staffing
-- Reduce inefficiencies during low-demand periods such as rain or cold weather
-- Leverage event schedules more effectively when combined with favorable conditions
-
----
-
-## Data Pipeline Architecture
-
-This project was built as a multi-source analytics pipeline:
-
-Weather API → Python (Data Cleaning & Feature Engineering) → PostgreSQL (Data Modeling & Storage) → Power BI (Dashboard & Insights)
+- Rain reduces demand by ~32%, making it the strongest negative driver
+- Warm weather drives up to 4x higher demand
+- Peak demand occurs around 5 PM (commuter behavior)
+- Events amplify demand only under favorable weather conditions
+- Demand is driven by interaction between multiple variables, not a single factor
 
 ---
 
 ## Data Pipeline
-Built an end-to-end data pipeline integrating multiple data sources to analyze bike demand drivers.
 
-Raw Data (Divvy Trip Data CSVs + Weather API + Event Data)  
-→ Python (Data Cleaning, Feature Engineering, API Integration)  
-→ PostgreSQL (Data Modeling and Storage)  
-→ SQL (Analytical Views and Aggregations)  
-→ Power BI (Dashboard and Insights)
-
-Includes external API data ingestion (weather data) to enhance demand analysis.
-
----
-
-## Data Sources
-
-- Divvy bike trip data (~1.1M records)
-- Hourly weather data
-- Event dataset
+Raw Data (Divvy Trips + Weather API + Events)  
+→ Python (Cleaning, Feature Engineering, API Integration)  
+→ PostgreSQL (Data Modeling & Storage)  
+→ SQL (Views, Aggregations, KPI Structuring)  
+→ Power BI (Dashboard & Insights)
 
 ---
 
 ## Methodology
 
-### Data Cleaning & Preparation
-- Cleaned and validated raw trip data using Python (Pandas)
-- Removed invalid records and handled missing values
-
-### Feature Engineering
-- Created time-based features (hour, day of week, weekend flags)
-- Built demand indicators (rush hour, trip duration)
-- Created weather-based features (temperature buckets, rain flags)
-
-### Demand Aggregation
-- Transformed trip-level data into an hourly demand dataset
-- Calculated total trips, rider type breakdown, and average duration
-
-### Data Enrichment
-- Joined weather and event data to analyze external demand drivers
-
-### Data Modeling & SQL
-- Built final dataset in PostgreSQL (`fact_demand_weather_events`)
-- Validated aggregations and ensured data integrity using SQL
-
-### Visualization
-- Developed Power BI dashboard to communicate demand patterns and insights
-
----
-
-## Business Recommendations
-
-- Increase bike availability during warm weather and peak commuting hours
-- Use weather forecasts to guide staffing, maintenance, and bike distribution
-- Prioritize events that occur under favorable conditions
-- Optimize operations around peak commute times
-- Scale down operations during low-demand periods to improve efficiency
-
----
-
-## Tech Stack
-
-- Python (Pandas – data cleaning & feature engineering)
-- PostgreSQL (data modeling & analysis)
-- Power BI (dashboard development & visualization)
+- Cleaned and transformed 1.1M+ records using Python (Pandas)
+- Engineered time-based and weather-based features
+- Aggregated trip-level data into hourly demand metrics
+- Integrated external API data (weather) and event data
+- Modeled final dataset in PostgreSQL (`fact_demand_weather_events`)
+- Built SQL views for demand segmentation and KPI analysis
+- Developed Power BI dashboard for business insights
 
 ---
 
 ## SQL Work
 
-- Modeled final dataset in PostgreSQL for analysis
-- Structured data for Power BI dashboard consumption
+- Created analytical views for hourly demand and segmentation
+- Structured datasets for Power BI reporting
+
+---
+
+## Business Impact
+
+- Improve bike availability during peak demand conditions
+- Use weather forecasts to proactively adjust operations
+- Reduce inefficiencies during low-demand periods
+- Optimize event-based planning when conditions are favorable
+
+---
+
+## Tech Stack
+
+- Python (Pandas, API integration)
+- PostgreSQL (SQL, data modeling)
+- Power BI (dashboard & visualization)
 
 ---
 
@@ -180,22 +134,10 @@ chicago-bike-demand/
 └── README.md
 ```
 
-—
-
-## What This Project Demonstrates
-
-- Ability to build a full analytics pipeline from raw data to dashboard
-- Experience integrating multiple real-world data sources (weather, events, trip data)
-- Strong feature engineering and data aggregation at scale
-- Proficiency in SQL, Python, and BI tools
-- Ability to translate complex analysis into clear business decisions
-
 ---
 
 ## Key Takeaway
 
-Bike demand is primarily driven by weather conditions, with temperature and precipitation acting as the strongest predictors.
+Bike demand is driven primarily by weather, with events acting as a secondary amplifier.
 
-Events influence demand only when combined with favorable conditions.
-
-These insights can be directly used to improve forecasting, operational planning, and resource allocation.
+Combining external and internal data provides a significantly more accurate view of demand and enables better operational decision-making.
