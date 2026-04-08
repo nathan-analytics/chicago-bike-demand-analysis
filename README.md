@@ -144,7 +144,14 @@ Includes external API data ingestion (weather data) to enhance demand analysis.
 - PostgreSQL (data modeling & analysis)
 - Power BI (dashboard development & visualization)
 
-—
+---
+
+## SQL Work
+
+- Modeled final dataset in PostgreSQL for analysis
+- Structured data for Power BI dashboard consumption
+
+---
 
 ## Project Structure
 ```
