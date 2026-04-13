@@ -106,7 +106,7 @@ This project was built as a full end-to-end workflow:
 
 ### Weather Impact
 
-<img width="1152" height="649" alt="weather_impact" src="https://github.com/user-attachments/assets/7d0f73f2-8be0-4b74-b5a2-6c7d211ce0bd" />
+<img width="1315" height="740" alt="weather_impact" src="https://github.com/user-attachments/assets/8add6ddc-3b95-4e93-b030-9e442279db60" />
 
 - Demand comparison between rain and no rain conditions  
 - Temperature-based demand analysis  
@@ -138,24 +138,31 @@ This project was built as a full end-to-end workflow:
 ```
 chicago-bike-demand-analysis/
 │
-├── notebooks/
-│ ├── 01_clean_divvy_data.ipynb
-│ ├── 02_build_city_hourly_demand.ipynb
-│ ├── 03_get_weather_data.ipynb
-│ ├── 04_join_city_demand_weather.ipynb
-│ ├── 05_weather_demand_analysis.ipynb
+├── 01_data_raw/
+│   ├── README.md
+│   └── (no large files uploaded)
 │
-├── data/
-│ ├── raw/
-│ ├── processed/
+├── 02_notebooks/
+│   ├── 01_clean_divvy_data.ipynb
+│   ├── 02_build_city_hourly_demand.ipynb
+│   ├── 03_get_weather_data.ipynb
+│   ├── 04_join_city_demand_weather.ipynb
+│   ├── 05_weather_demand_analysis.ipynb
 │
-├── dashboards/
-│ ├── chicago_bike_demand.pbix
+├── 03_data_final/
+│   ├── README.md
 │
-├── images/
-│ ├── executive_overview.png
-│ ├── weather_impact.png
-│ ├── event_impact.png
+├── 04_sql/
+│   ├── schema.sql
+│   ├── analysis_queries.sql
+│
+├── 05_powerbi/
+│   ├── chicago_bike_demand_dashboard.pbix
+│
+├── 06_screenshots/
+│   ├── executive_overview.png
+│   ├── weather_impact.png
+│   ├── event_impact.png
 │
 └── README.md
 ```
