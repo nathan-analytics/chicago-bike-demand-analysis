@@ -2,9 +2,11 @@
 -- Table: fact_demand_weather_events
 -- Description: Final analytical dataset combining demand, weather, and event data
 
+Note: The dataset was rebuilt into a new table after identifying duplicate date-hour records in the original version. The final table ensures one row per date-hour for accurate aggregation and analysis.
+
 CREATE SCHEMA IF NOT EXISTS bike_demand;
 
-CREATE TABLE IF NOT EXISTS bike_demand.fact_demand_weather_events (
+CREATE TABLE IF NOT EXISTS bike_demand.chicago_bike_demand (
     date DATE,
     hour INT,
     trip_count INT,
