@@ -1,6 +1,6 @@
 -- =========================================================
 -- File: analysis_queries.sql
--- Project: Chicago Bike Demand Intelligence
+-- Project: Chicago Bike Demand
 -- Description: Business-focused SQL queries used to analyze
 -- how weather and events impact hourly bike demand
 -- =========================================================
@@ -9,7 +9,7 @@
 SELECT
     temp_bucket,
     ROUND(AVG(trip_count), 2) AS avg_trip_count
-FROM bike_demand.fact_demand_weather_events
+FROM bike_demand.chicago_bike_demand
 GROUP BY temp_bucket
 ORDER BY
     CASE
@@ -23,7 +23,7 @@ ORDER BY
 SELECT
     is_raining,
     ROUND(AVG(trip_count), 2) AS avg_trip_count
-FROM bike_demand.fact_demand_weather_events
+FROM bike_demand.chicago_bike_demand
 GROUP BY is_raining
 ORDER BY is_raining;
 
@@ -31,7 +31,7 @@ ORDER BY is_raining;
 SELECT
     is_event_day,
     ROUND(AVG(trip_count), 2) AS avg_trip_count
-FROM bike_demand.fact_demand_weather_events
+FROM bike_demand.chicago_bike_demand
 GROUP BY is_event_day
 ORDER BY is_event_day;
 
@@ -40,7 +40,7 @@ SELECT
     is_event_day,
     is_raining,
     ROUND(AVG(trip_count), 2) AS avg_trip_count
-FROM bike_demand.fact_demand_weather_events
+FROM bike_demand.chicago_bike_demand
 GROUP BY is_event_day, is_raining
 ORDER BY is_event_day, is_raining;
 
@@ -49,7 +49,7 @@ SELECT
     is_event_day,
     temp_bucket,
     ROUND(AVG(trip_count), 2) AS avg_trip_count
-FROM bike_demand.fact_demand_weather_events
+FROM bike_demand.chicago_bike_demand
 GROUP BY is_event_day, temp_bucket
 ORDER BY
     CASE
@@ -64,7 +64,7 @@ ORDER BY
 SELECT
     hour,
     ROUND(AVG(trip_count), 2) AS avg_trip_count
-FROM bike_demand.fact_demand_weather_events
+FROM bike_demand.chicago_bike_demand
 GROUP BY hour
 ORDER BY hour;
 
@@ -72,6 +72,6 @@ ORDER BY hour;
 SELECT
     rush_hour,
     ROUND(AVG(trip_count), 2) AS avg_trip_count
-FROM bike_demand.fact_demand_weather_events
+FROM bike_demand.chicago_bike_demand
 GROUP BY rush_hour
 ORDER BY rush_hour;
