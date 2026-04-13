@@ -161,6 +161,81 @@ chicago-bike-demand-analysis/
 ```
 
 ---
+## How to Reproduce
+
+### 1. Download the raw data
+Download the Divvy trip data from the official Divvy data source and save the files locally.
+
+- Source: Divvy trip data from the Divvy website
+- Format: CSV files
+- Time period used in this project: March 2025 to May 2025
+
+### 2. Run the Python notebooks in order
+The data preparation and analysis workflow was completed in five notebooks.
+
+1. `01_clean_divvy_data.ipynb`  
+   - Load raw Divvy trip data
+   - Clean invalid or missing values
+   - Standardize datetime fields
+   - Prepare trip-level data for aggregation
+
+2. `02_build_city_hourly_demand.ipynb`  
+   - Aggregate trip data to the hourly level
+   - Create hourly demand metrics
+   - Build the base city-level demand table
+
+3. `03_get_weather_data.ipynb`  
+   - Pull historical weather data from the weather API
+   - Clean and structure weather fields
+   - Create indicators such as rain flags and temperature buckets
+
+4. `04_join_city_demand_weather.ipynb`  
+   - Merge hourly demand data with weather data
+   - Add external event data
+   - Create the final analytical dataset
+
+5. `05_weather_demand_analysis.ipynb`  
+   - Validate the final dataset
+   - Perform exploratory analysis
+   - Prepare outputs used in the dashboard
+
+### 3. Load the final dataset into PostgreSQL
+After the Python workflow was complete, the final dataset was loaded into PostgreSQL for storage and connection to Power BI.
+
+- Final table name: `fact_demand_weather_events`
+- Grain: one row per date-hour
+- Purpose:
+  - store the cleaned final dataset
+  - validate row-level structure
+  - serve as the source table for Power BI
+
+### 4. Connect PostgreSQL to Power BI
+Connect Power BI to the PostgreSQL database and import the final table.
+
+- Source table: `fact_demand_weather_events`
+- Build the data model
+- Create DAX measures for:
+  - Total Trips
+  - Average Trips
+  - Rain Impact %
+  - Event Impact %
+  - Rainy Days %
+
+### 5. Rebuild the dashboard
+Create the three dashboard pages in Power BI:
+
+- Executive Overview
+- Weather Impact
+- Event Impact
+
+These pages summarize the main demand patterns and show how weather and events influence hourly bike demand.
+
+### Notes
+- Most of the transformation and feature engineering in this project was done in Python
+- PostgreSQL was mainly used to store the final cleaned table and connect the dataset to Power BI
+- The final dashboard was built in Power BI using DAX measures and visual design choices focused on business communication
+
+---
 
 ## What This Project Demonstrates
 
